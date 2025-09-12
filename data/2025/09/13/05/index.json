@@ -1,76 +1,10 @@
 {
-  "generatedAt": "2025-09-12T21:06:33.397Z",
+  "generatedAt": "2025-09-12T20:08:18.090Z",
   "timeZone": "Asia/Tokyo",
-  "hourPath": "2025/09/13/06",
+  "hourPath": "2025/09/13/05",
   "source": "http://www.data.jma.go.jp/developer/xml/feed/extra.xml",
-  "totalItems": 106,
+  "totalItems": 113,
   "items": [
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20250912205806_0_VPWW53_090000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【栃木県気象警報・注意報】栃木県では、１３日夜遅くまで濃霧による視程障害に注意してください。",
-      "observedAt": "2025-09-12T20:58:05.000Z",
-      "placeCountry": "日本",
-      "placePref": "栃木県",
-      "placeCity": null,
-      "latitude": 36.6782167,
-      "longitude": 139.8096549
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20250912205613_0_VPWW53_130000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【東京都気象警報・注意報】東京地方では、強風や高波に注意してください。東京地方、伊豆諸島北部、伊豆諸島南部では、竜巻などの激しい突風や急な強い雨、落雷に注意してください。",
-      "observedAt": "2025-09-12T20:56:12.000Z",
-      "placeCountry": "日本",
-      "placePref": "東京都",
-      "placeCity": null,
-      "latitude": 35.6828387,
-      "longitude": 139.7594549
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20250912204533_0_VPWW53_260000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【京都府気象警報・注意報】京都府では、竜巻などの激しい突風や急な強い雨、落雷に注意してください。",
-      "observedAt": "2025-09-12T20:45:32.000Z",
-      "placeCountry": "日本",
-      "placePref": "京都府",
-      "placeCity": null,
-      "latitude": 35.242552,
-      "longitude": 135.454601
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20250912202246_0_VPWW53_310000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【鳥取県気象警報・注意報】鳥取県では、竜巻などの激しい突風や急な強い雨、落雷に注意してください。",
-      "observedAt": "2025-09-12T20:22:46.000Z",
-      "placeCountry": "日本",
-      "placePref": "鳥取県",
-      "placeCity": null,
-      "latitude": 35.3555075,
-      "longitude": 133.8678525
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20250912201541_0_VPWW53_120000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【千葉県気象警報・注意報】北西部では、１３日明け方まで河川の増水に警戒してください。",
-      "observedAt": "2025-09-12T20:15:40.000Z",
-      "placeCountry": "日本",
-      "placePref": "千葉県",
-      "placeCity": null,
-      "latitude": 35.549399,
-      "longitude": 140.2647303
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20250912201245_0_VPWW53_320000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【島根県気象警報・注意報】隠岐では、強風に注意してください。東部では、高潮に注意してください。島根県では、竜巻などの激しい突風や急な強い雨、落雷に注意してください。",
-      "observedAt": "2025-09-12T20:12:45.000Z",
-      "placeCountry": "日本",
-      "placePref": "島根県",
-      "placeCity": null,
-      "latitude": 34.9418212,
-      "longitude": 132.537439
-    },
     {
       "originId": "https://www.data.jma.go.jp/developer/xml/data/20250912200709_0_VPWW53_170000.xml",
       "title": "気象特別警報・警報・注意報",
@@ -1170,6 +1104,149 @@
       "placeCity": null,
       "latitude": 35.7867449,
       "longitude": 137.0460777
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20250912105530_0_VPWW53_230000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【愛知県気象警報・注意報】愛知県では、低い土地の浸水や竜巻などの激しい突風、落雷に注意してください。",
+      "observedAt": "2025-09-12T10:55:30.000Z",
+      "placeCountry": "日本",
+      "placePref": "愛知県",
+      "placeCity": null,
+      "latitude": 34.9991645,
+      "longitude": 137.254574
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20250912105345_0_VPWW53_320000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【島根県気象警報・注意報】隠岐では、１２日夜遅くまで低い土地の浸水に警戒してください。",
+      "observedAt": "2025-09-12T10:53:45.000Z",
+      "placeCountry": "日本",
+      "placePref": "島根県",
+      "placeCity": null,
+      "latitude": 34.9418212,
+      "longitude": 132.537439
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20250912105010_0_VPWW53_330000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【岡山県気象警報・注意報】岡山県では、土砂災害や竜巻などの激しい突風、落雷に注意してください。南部では、低い土地の浸水や河川の増水に注意してください。",
+      "observedAt": "2025-09-12T10:50:09.000Z",
+      "placeCountry": "日本",
+      "placePref": "岡山県",
+      "placeCity": null,
+      "latitude": 34.8581334,
+      "longitude": 133.7759256
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20250912105005_0_VPWW53_240000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【三重県気象警報・注意報】北中部では、１３日明け方まで土砂災害や河川の増水に警戒してください。",
+      "observedAt": "2025-09-12T10:50:05.000Z",
+      "placeCountry": "日本",
+      "placePref": "三重県",
+      "placeCity": null,
+      "latitude": 34.7339685,
+      "longitude": 136.5154489
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20250912104710_0_VPWW53_140000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【神奈川県気象警報・注意報】東部では、１３日昼前まで土砂災害に注意してください。神奈川県では、１３日昼前まで落雷に注意してください。",
+      "observedAt": "2025-09-12T10:47:09.000Z",
+      "placeCountry": "日本",
+      "placePref": "神奈川県",
+      "placeCity": null,
+      "latitude": 35.4342935,
+      "longitude": 139.374753
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20250912104512_0_VPWW53_270000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【大阪府気象警報・注意報】大阪府では、１２日夜遅くまで低い土地の浸水に警戒してください。",
+      "observedAt": "2025-09-12T10:45:11.000Z",
+      "placeCountry": "日本",
+      "placePref": "大阪府",
+      "placeCity": null,
+      "latitude": 34.6198813,
+      "longitude": 135.490357
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20250912103142_0_VPWW53_240000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【三重県気象警報・注意報】北中部では、１３日明け方まで土砂災害や河川の増水に警戒してください。",
+      "observedAt": "2025-09-12T10:31:42.000Z",
+      "placeCountry": "日本",
+      "placePref": "三重県",
+      "placeCity": null,
+      "latitude": 34.7339685,
+      "longitude": 136.5154489
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20250912102112_0_VPWW53_330000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【岡山県気象警報・注意報】岡山県では、土砂災害や竜巻などの激しい突風、落雷に注意してください。南部では、低い土地の浸水や河川の増水に注意してください。",
+      "observedAt": "2025-09-12T10:21:11.000Z",
+      "placeCountry": "日本",
+      "placePref": "岡山県",
+      "placeCity": null,
+      "latitude": 34.8581334,
+      "longitude": 133.7759256
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20250912102106_0_VPWW53_320000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【島根県気象警報・注意報】隠岐では、土砂災害や低い土地の浸水、河川の増水に注意してください。東部、西部では、高潮に注意してください。島根県では、竜巻などの激しい突風や落雷に注意してください。",
+      "observedAt": "2025-09-12T10:21:06.000Z",
+      "placeCountry": "日本",
+      "placePref": "島根県",
+      "placeCity": null,
+      "latitude": 34.9418212,
+      "longitude": 132.537439
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20250912101940_0_VPWW53_370000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【香川県気象警報・注意報】香川県では、１２日夜のはじめ頃まで低い土地の浸水や河川の増水に警戒してください。",
+      "observedAt": "2025-09-12T10:19:39.000Z",
+      "placeCountry": "日本",
+      "placePref": "香川県",
+      "placeCity": null,
+      "latitude": 34.2480104,
+      "longitude": 134.0586579
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20250912101822_0_VPWW53_270000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【大阪府気象警報・注意報】大阪府では、１２日夜遅くまで低い土地の浸水に警戒してください。",
+      "observedAt": "2025-09-12T10:18:21.000Z",
+      "placeCountry": "日本",
+      "placePref": "大阪府",
+      "placeCity": null,
+      "latitude": 34.6198813,
+      "longitude": 135.490357
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20250912101106_0_VPWW53_330000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【岡山県気象警報・注意報】岡山県では、土砂災害や竜巻などの激しい突風、落雷に注意してください。南部では、低い土地の浸水や河川の増水に注意してください。",
+      "observedAt": "2025-09-12T10:11:05.000Z",
+      "placeCountry": "日本",
+      "placePref": "岡山県",
+      "placeCity": null,
+      "latitude": 34.8581334,
+      "longitude": 133.7759256
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20250912100908_0_VPWW53_240000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【三重県気象警報・注意報】北中部では、１３日明け方まで土砂災害に警戒してください。",
+      "observedAt": "2025-09-12T10:09:07.000Z",
+      "placeCountry": "日本",
+      "placePref": "三重県",
+      "placeCity": null,
+      "latitude": 34.7339685,
+      "longitude": 136.5154489
     }
   ]
 }
