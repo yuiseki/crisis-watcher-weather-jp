@@ -4,9 +4,19 @@ on:
   push:
     branches:
       - main
+  workflow_run:
+    workflows:
+      - Hourly Weather Data
+    types:
+      - completed
+
+permissions:
+  contents: write
 
 jobs:
   publish_github_pages:
+    # Avoid double-runs: use workflow_run for bot commits, push for human commits
+    if: github.event_name == 'workflow_run' || (github.event_name == 'push' && github.actor != 'github-actions[bot]')
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v5
@@ -25,4 +35,3 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
-
