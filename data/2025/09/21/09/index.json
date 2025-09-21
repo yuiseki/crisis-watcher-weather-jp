@@ -1,142 +1,10 @@
 {
-  "generatedAt": "2025-09-21T01:35:34.158Z",
+  "generatedAt": "2025-09-21T00:34:40.343Z",
   "timeZone": "Asia/Tokyo",
-  "hourPath": "2025/09/21/10",
+  "hourPath": "2025/09/21/09",
   "source": "http://www.data.jma.go.jp/developer/xml/feed/extra.xml",
-  "totalItems": 91,
+  "totalItems": 93,
   "items": [
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20250921012534_0_VPWW53_420000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【長崎県気象警報・注意報】長崎県では、強風に注意してください。北部、壱岐・対馬、五島では、高波に注意してください。壱岐・対馬では、高潮に注意してください。",
-      "observedAt": "2025-09-21T01:25:34.000Z",
-      "placeCountry": "日本",
-      "placePref": "長崎県",
-      "placeCity": null,
-      "latitude": 33.1154683,
-      "longitude": 129.7874339
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20250921012533_0_VPWW53_410000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【佐賀県気象警報・注意報】佐賀県では、強風に注意してください。北部では、高波に注意してください。",
-      "observedAt": "2025-09-21T01:25:33.000Z",
-      "placeCountry": "日本",
-      "placePref": "佐賀県",
-      "placeCity": null,
-      "latitude": 33.2185408,
-      "longitude": 130.1296585
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20250921011150_0_VPWW53_130000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【東京都気象警報・注意報】伊豆諸島南部では、２１日昼前まで竜巻などの激しい突風や急な強い雨、落雷に注意してください。",
-      "observedAt": "2025-09-21T01:11:50.000Z",
-      "placeCountry": "日本",
-      "placePref": "東京都",
-      "placeCity": null,
-      "latitude": 35.6828387,
-      "longitude": 139.7594549
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20250921011128_0_VPWW53_080000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【茨城県気象警報・注意報】注意報を解除します。",
-      "observedAt": "2025-09-21T01:11:28.000Z",
-      "placeCountry": "日本",
-      "placePref": "茨城県",
-      "placeCity": null,
-      "latitude": 36.2869536,
-      "longitude": 140.4703384
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20250921011011_0_VPWW53_120000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【千葉県気象警報・注意報】注意報を解除します。",
-      "observedAt": "2025-09-21T01:10:10.000Z",
-      "placeCountry": "日本",
-      "placePref": "千葉県",
-      "placeCity": null,
-      "latitude": 35.549399,
-      "longitude": 140.2647303
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20250921010932_0_VPWW53_020000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【青森県気象警報・注意報】津軽では、２１日夕方まで土砂災害に注意してください。津軽、三八上北では、２１日夕方まで強風に注意してください。青森県では、２１日夜のはじめ頃まで高波に注意してください。",
-      "observedAt": "2025-09-21T01:09:31.000Z",
-      "placeCountry": "日本",
-      "placePref": "青森県",
-      "placeCity": null,
-      "latitude": 40.886943,
-      "longitude": 140.590121
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20250921010506_0_VPWW53_050000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【秋田県気象警報・注意報】沿岸では、２１日夜のはじめ頃まで高波に注意してください。",
-      "observedAt": "2025-09-21T01:05:06.000Z",
-      "placeCountry": "日本",
-      "placePref": "秋田県",
-      "placeCity": null,
-      "latitude": 39.6898802,
-      "longitude": 140.342608
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20250921010406_0_VPWW53_200000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【長野県気象警報・注意報】北部では、２１日夕方まで土砂災害や濃霧による視程障害に注意してください。",
-      "observedAt": "2025-09-21T01:04:05.000Z",
-      "placeCountry": "日本",
-      "placePref": "長野県",
-      "placeCity": null,
-      "latitude": 36.1143945,
-      "longitude": 138.0319015
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20250921010320_0_VPWW53_300000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【和歌山県気象警報・注意報】注意報を解除します。",
-      "observedAt": "2025-09-21T01:03:19.000Z",
-      "placeCountry": "日本",
-      "placePref": "和歌山県",
-      "placeCity": null,
-      "latitude": 33.8070292,
-      "longitude": 135.5930743
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20250921005211_0_VPWW53_060000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【山形県気象警報・注意報】注意報を解除します。",
-      "observedAt": "2025-09-21T00:52:10.000Z",
-      "placeCountry": "日本",
-      "placePref": "山形県",
-      "placeCity": null,
-      "latitude": 38.4746705,
-      "longitude": 140.083237
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20250921004020_0_VPWW53_340000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【広島県気象警報・注意報】注意報を解除します。",
-      "observedAt": "2025-09-21T00:40:19.000Z",
-      "placeCountry": "日本",
-      "placePref": "広島県",
-      "placeCity": null,
-      "latitude": 34.5666725,
-      "longitude": 132.753565
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20250921003834_0_VPWW53_030000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【岩手県気象警報・注意報】岩手県では、２１日夕方まで強風に、２１日夜のはじめ頃まで高波に注意してください。",
-      "observedAt": "2025-09-21T00:38:34.000Z",
-      "placeCountry": "日本",
-      "placePref": "岩手県",
-      "placeCity": null,
-      "latitude": 39.5713763,
-      "longitude": 141.4253574
-    },
     {
       "originId": "https://www.data.jma.go.jp/developer/xml/data/20250921003303_0_VPWW53_430000.xml",
       "title": "気象特別警報・警報・注意報",
@@ -1005,6 +873,160 @@
       "placeCity": null,
       "latitude": 36.1143945,
       "longitude": 138.0319015
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20250920152548_0_VPWW53_020000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【青森県気象警報・注意報】下北、三八上北の海上では、２１日未明まで暴風に警戒してください。",
+      "observedAt": "2025-09-20T15:25:46.000Z",
+      "placeCountry": "日本",
+      "placePref": "青森県",
+      "placeCity": null,
+      "latitude": 40.886943,
+      "longitude": 140.590121
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20250920152131_0_VPWW53_150000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【新潟県気象警報・注意報】中越では、２１日明け方まで低い土地の浸水に警戒してください。",
+      "observedAt": "2025-09-20T15:21:30.000Z",
+      "placeCountry": "日本",
+      "placePref": "新潟県",
+      "placeCity": null,
+      "latitude": 37.6452283,
+      "longitude": 138.7669125
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20250920151919_0_VPWW53_180000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【福井県気象警報・注意報】福井県では、２１日未明まで低い土地の浸水に、２１日明け方まで竜巻などの激しい突風や落雷に注意してください。嶺北では、２１日未明まで河川の増水に注意してください。",
+      "observedAt": "2025-09-20T15:19:18.000Z",
+      "placeCountry": "日本",
+      "placePref": "福井県",
+      "placeCity": null,
+      "latitude": 35.9263502,
+      "longitude": 136.6068127
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20250920151530_0_VPWW53_200000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【長野県気象警報・注意報】北部では土砂災害に、中部では低い土地の浸水や濃霧による視程障害に、北部、中部では河川の増水に、長野県では落雷に注意してください。",
+      "observedAt": "2025-09-20T15:15:29.000Z",
+      "placeCountry": "日本",
+      "placePref": "長野県",
+      "placeCity": null,
+      "latitude": 36.1143945,
+      "longitude": 138.0319015
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20250920151047_0_VPWW53_170000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【石川県気象警報・注意報】加賀では、２１日明け方まで土砂災害や河川の増水に、２１日未明まで低い土地の浸水に警戒してください。",
+      "observedAt": "2025-09-20T15:10:46.000Z",
+      "placeCountry": "日本",
+      "placePref": "石川県",
+      "placeCity": null,
+      "latitude": 36.9888678,
+      "longitude": 136.8163563
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20250920150614_0_VPWW53_330000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【岡山県気象警報・注意報】注意報を解除します。",
+      "observedAt": "2025-09-20T15:06:14.000Z",
+      "placeCountry": "日本",
+      "placePref": "岡山県",
+      "placeCity": null,
+      "latitude": 34.8581334,
+      "longitude": 133.7759256
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20250920150533_0_VPWW53_260000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【京都府気象警報・注意報】南部では、２１日未明まで低い土地の浸水に注意してください。京都府では、２１日夕方まで高潮に、２１日明け方まで竜巻などの激しい突風や落雷に注意してください。",
+      "observedAt": "2025-09-20T15:05:32.000Z",
+      "placeCountry": "日本",
+      "placePref": "京都府",
+      "placeCity": null,
+      "latitude": 35.242552,
+      "longitude": 135.454601
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20250920150505_0_VPWW53_340000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【広島県気象警報・注意報】注意報を解除します。",
+      "observedAt": "2025-09-20T15:05:04.000Z",
+      "placeCountry": "日本",
+      "placePref": "広島県",
+      "placeCity": null,
+      "latitude": 34.5666725,
+      "longitude": 132.753565
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20250920145545_0_VPWW53_280000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【兵庫県気象警報・注意報】南部では、２１日未明まで低い土地の浸水に注意してください。北部では、２１日夕方まで高潮に注意してください。兵庫県では、２１日明け方まで竜巻などの激しい突風や落雷に注意してください。",
+      "observedAt": "2025-09-20T14:55:44.000Z",
+      "placeCountry": "日本",
+      "placePref": "兵庫県",
+      "placeCity": null,
+      "latitude": 34.914934,
+      "longitude": 134.860666
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20250920144522_0_VPWW53_350000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【山口県気象警報・注意報】西部、北部では、強風に注意してください。",
+      "observedAt": "2025-09-20T14:45:21.000Z",
+      "placeCountry": "日本",
+      "placePref": "山口県",
+      "placeCity": null,
+      "latitude": 34.2379614,
+      "longitude": 131.5873845
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20250920144220_0_VPWW53_180000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【福井県気象警報・注意報】福井県では、２１日未明まで低い土地の浸水に、２１日明け方まで竜巻などの激しい突風や落雷に注意してください。",
+      "observedAt": "2025-09-20T14:42:20.000Z",
+      "placeCountry": "日本",
+      "placePref": "福井県",
+      "placeCity": null,
+      "latitude": 35.9263502,
+      "longitude": 136.6068127
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20250920144123_0_VPWW53_160000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【富山県気象警報・注意報】富山県では、２１日明け方まで土砂災害に、２１日未明まで低い土地の浸水や河川の増水に警戒してください。",
+      "observedAt": "2025-09-20T14:41:23.000Z",
+      "placeCountry": "日本",
+      "placePref": "富山県",
+      "placeCity": null,
+      "latitude": 36.6468015,
+      "longitude": 137.2183531
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20250920143640_0_VPWW53_150000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【新潟県気象警報・注意報】下越、中越、上越では土砂災害や河川の増水に、下越、中越では低い土地の浸水に、新潟県では強風や竜巻などの激しい突風、落雷に、下越、佐渡では高波に注意してください。",
+      "observedAt": "2025-09-20T14:36:39.000Z",
+      "placeCountry": "日本",
+      "placePref": "新潟県",
+      "placeCity": null,
+      "latitude": 37.6452283,
+      "longitude": 138.7669125
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20250920143445_0_VPWW53_030000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【岩手県気象警報・注意報】沿岸北部では、２１日明け方まで土砂災害に警戒してください。岩手県の海上では、２１日未明まで暴風に警戒してください。",
+      "observedAt": "2025-09-20T14:34:44.000Z",
+      "placeCountry": "日本",
+      "placePref": "岩手県",
+      "placeCity": null,
+      "latitude": 39.5713763,
+      "longitude": 141.4253574
     }
   ]
 }
