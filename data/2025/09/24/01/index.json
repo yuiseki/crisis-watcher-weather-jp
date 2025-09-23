@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2025-09-23T17:06:45.642Z",
+  "generatedAt": "2025-09-23T16:09:34.831Z",
   "timeZone": "Asia/Tokyo",
-  "hourPath": "2025/09/24/02",
+  "hourPath": "2025/09/24/01",
   "source": "http://www.data.jma.go.jp/developer/xml/feed/extra.xml",
-  "totalItems": 21,
+  "totalItems": 22,
   "items": [
     {
       "originId": "https://www.data.jma.go.jp/developer/xml/data/20250923124842_0_VPWW53_420000.xml",
@@ -235,6 +235,17 @@
       "placeCity": null,
       "latitude": 38.3880155,
       "longitude": 140.9761025
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20250923060244_0_VPWW53_440000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【大分県気象警報・注意報】南部では、強風や高波に注意してください。大分県では、急な強い雨や落雷に注意してください。",
+      "observedAt": "2025-09-23T06:02:44.000Z",
+      "placeCountry": "日本",
+      "placePref": "大分県",
+      "placeCity": null,
+      "latitude": 33.1819875,
+      "longitude": 131.4270217
     }
   ]
 }
