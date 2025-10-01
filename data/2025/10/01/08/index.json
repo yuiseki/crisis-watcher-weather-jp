@@ -1,65 +1,10 @@
 {
-  "generatedAt": "2025-10-01T00:35:53.671Z",
+  "generatedAt": "2025-09-30T23:07:54.544Z",
   "timeZone": "Asia/Tokyo",
-  "hourPath": "2025/10/01/09",
+  "hourPath": "2025/10/01/08",
   "source": "http://www.data.jma.go.jp/developer/xml/feed/extra.xml",
-  "totalItems": 42,
+  "totalItems": 37,
   "items": [
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251001001949_0_VPWW53_040000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【宮城県気象警報・注意報】東部では、１日夜のはじめ頃まで低い土地の浸水に注意してください。宮城県では、２日明け方まで竜巻などの激しい突風や落雷に注意してください。",
-      "observedAt": "2025-10-01T00:19:48.000Z",
-      "placeCountry": "日本",
-      "placePref": "宮城県",
-      "placeCity": null,
-      "latitude": 38.3880155,
-      "longitude": 140.9761025
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251001001322_0_VPWW53_280000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【兵庫県気象警報・注意報】北部では１日夕方まで、南部では１日夜のはじめ頃まで、急な強い雨や落雷に注意してください。",
-      "observedAt": "2025-10-01T00:13:21.000Z",
-      "placeCountry": "日本",
-      "placePref": "兵庫県",
-      "placeCity": null,
-      "latitude": 34.914934,
-      "longitude": 134.860666
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251001000748_0_VPWW53_170000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【石川県気象警報・注意報】能登では、土砂災害や低い土地の浸水、河川の増水、高潮に注意してください。石川県では、竜巻などの激しい突風や落雷に注意してください。",
-      "observedAt": "2025-10-01T00:07:47.000Z",
-      "placeCountry": "日本",
-      "placePref": "石川県",
-      "placeCity": null,
-      "latitude": 36.9888678,
-      "longitude": 136.8163563
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251001000432_0_VPWW53_180000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【福井県気象警報・注意報】福井県では、１日昼過ぎまで土砂災害に、１日夕方まで落雷に注意してください。嶺南では、１日昼前まで低い土地の浸水や河川の増水に注意してください。",
-      "observedAt": "2025-10-01T00:04:31.000Z",
-      "placeCountry": "日本",
-      "placePref": "福井県",
-      "placeCity": null,
-      "latitude": 35.9263502,
-      "longitude": 136.6068127
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20250930233629_0_VPWW53_180000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【福井県気象警報・注意報】福井県では、１日昼過ぎまで土砂災害に、１日夕方まで落雷に注意してください。",
-      "observedAt": "2025-09-30T23:36:29.000Z",
-      "placeCountry": "日本",
-      "placePref": "福井県",
-      "placeCity": null,
-      "latitude": 35.9263502,
-      "longitude": 136.6068127
-    },
     {
       "originId": "https://www.data.jma.go.jp/developer/xml/data/20250930230211_0_VPWW53_130000.xml",
       "title": "気象特別警報・警報・注意報",
