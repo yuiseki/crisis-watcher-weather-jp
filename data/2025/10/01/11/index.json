@@ -1,32 +1,10 @@
 {
-  "generatedAt": "2025-10-01T03:27:00.777Z",
+  "generatedAt": "2025-10-01T02:38:26.367Z",
   "timeZone": "Asia/Tokyo",
-  "hourPath": "2025/10/01/12",
+  "hourPath": "2025/10/01/11",
   "source": "http://www.data.jma.go.jp/developer/xml/feed/extra.xml",
-  "totalItems": 61,
+  "totalItems": 60,
   "items": [
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251001032137_0_VPWW53_070000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【福島県気象警報・注意報】浜通りでは、１日夕方まで低い土地の浸水に注意してください。福島県では、２日明け方まで竜巻などの激しい突風や落雷に注意してください。",
-      "observedAt": "2025-10-01T03:21:36.000Z",
-      "placeCountry": "日本",
-      "placePref": "福島県",
-      "placeCity": null,
-      "latitude": 37.3662591,
-      "longitude": 140.2511854
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251001024704_0_VPWW53_040000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【宮城県気象警報・注意報】東部では、１日夜遅くまで土砂災害や河川の増水に、１日夜のはじめ頃まで低い土地の浸水に警戒してください。",
-      "observedAt": "2025-10-01T02:47:03.000Z",
-      "placeCountry": "日本",
-      "placePref": "宮城県",
-      "placeCity": null,
-      "latitude": 38.3880155,
-      "longitude": 140.9761025
-    },
     {
       "originId": "https://www.data.jma.go.jp/developer/xml/data/20251001023022_0_VPWW53_040000.xml",
       "title": "気象特別警報・警報・注意報",
@@ -675,6 +653,17 @@
       "placeCity": null,
       "latitude": 38.3880155,
       "longitude": 140.9761025
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20250930164212_0_VPWW53_170000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【石川県気象警報・注意報】石川県では、１日昼前まで高潮に、１日夜遅くまで竜巻などの激しい突風や急な強い雨、落雷に注意してください。",
+      "observedAt": "2025-09-30T16:42:11.000Z",
+      "placeCountry": "日本",
+      "placePref": "石川県",
+      "placeCity": null,
+      "latitude": 36.9888678,
+      "longitude": 136.8163563
     }
   ]
 }
