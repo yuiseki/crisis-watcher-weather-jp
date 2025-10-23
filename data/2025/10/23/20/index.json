@@ -1,32 +1,10 @@
 {
-  "generatedAt": "2025-10-23T12:13:46.009Z",
+  "generatedAt": "2025-10-23T11:07:07.245Z",
   "timeZone": "Asia/Tokyo",
-  "hourPath": "2025/10/23/21",
+  "hourPath": "2025/10/23/20",
   "source": "http://www.data.jma.go.jp/developer/xml/feed/extra.xml",
-  "totalItems": 25,
+  "totalItems": 37,
   "items": [
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251023114701_0_VPWW53_440000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【大分県気象警報・注意報】中部、北部、南部では、高波に注意してください。",
-      "observedAt": "2025-10-23T11:47:00.000Z",
-      "placeCountry": "日本",
-      "placePref": "大分県",
-      "placeCity": null,
-      "latitude": 33.1819875,
-      "longitude": 131.4270217
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251023112637_0_VPWW53_210000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【岐阜県気象警報・注意報】注意報を解除します。",
-      "observedAt": "2025-10-23T11:26:37.000Z",
-      "placeCountry": "日本",
-      "placePref": "岐阜県",
-      "placeCity": null,
-      "latitude": 35.7867449,
-      "longitude": 137.0460777
-    },
     {
       "originId": "https://www.data.jma.go.jp/developer/xml/data/20251023104216_0_VPWW53_390000.xml",
       "title": "気象特別警報・警報・注意報",
@@ -279,6 +257,160 @@
       "placeCity": null,
       "latitude": 31.521587,
       "longitude": 130.5474077
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251023013511_0_VPWW53_460040.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【奄美地方（鹿児島県）気象警報・注意報】奄美地方では、土砂災害や強風、高波、落雷に注意してください。",
+      "observedAt": "2025-10-23T01:35:10.000Z",
+      "placeCountry": "日本",
+      "placePref": "鹿児島県",
+      "placeCity": null,
+      "latitude": 31.521587,
+      "longitude": 130.5474077
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251023013438_0_VPWW53_430000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【熊本県気象警報・注意報】熊本、天草・芦北地方では、２３日夕方まで強風に注意してください。",
+      "observedAt": "2025-10-23T01:34:37.000Z",
+      "placeCountry": "日本",
+      "placePref": "熊本県",
+      "placeCity": null,
+      "latitude": 32.6450475,
+      "longitude": 130.6341345
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251023012954_0_VPWW53_350000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【山口県気象警報・注意報】山口県では、強風と、空気の乾燥した状態が続くため火の取り扱いに注意してください。西部、中部、東部では、高波に注意してください。",
+      "observedAt": "2025-10-23T01:29:53.000Z",
+      "placeCountry": "日本",
+      "placePref": "山口県",
+      "placeCity": null,
+      "latitude": 34.2379614,
+      "longitude": 131.5873845
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251023012721_0_VPWW53_130000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【東京都気象警報・注意報】伊豆諸島南部では、土砂災害に注意してください。伊豆諸島北部、伊豆諸島南部では、強風や高波に注意してください。",
+      "observedAt": "2025-10-23T01:27:20.000Z",
+      "placeCountry": "日本",
+      "placePref": "東京都",
+      "placeCity": null,
+      "latitude": 35.6828387,
+      "longitude": 139.7594549
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251023012628_0_VPWW53_400000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【福岡県気象警報・注意報】福岡、北九州地方では、２３日夜遅くまで強風に、２４日明け方まで高波に注意してください。",
+      "observedAt": "2025-10-23T01:26:27.000Z",
+      "placeCountry": "日本",
+      "placePref": "福岡県",
+      "placeCity": null,
+      "latitude": 33.6251241,
+      "longitude": 130.6180016
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251023011811_0_VPWW53_380000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【愛媛県気象警報・注意報】注意報を解除します。",
+      "observedAt": "2025-10-23T01:18:11.000Z",
+      "placeCountry": "日本",
+      "placePref": "愛媛県",
+      "placeCity": null,
+      "latitude": 33.6013646,
+      "longitude": 132.8185275
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251023011652_0_VPWW53_410000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【佐賀県気象警報・注意報】北部では、２３日夕方まで強風に、２３日夜遅くまで高波に注意してください。",
+      "observedAt": "2025-10-23T01:16:52.000Z",
+      "placeCountry": "日本",
+      "placePref": "佐賀県",
+      "placeCity": null,
+      "latitude": 33.2185408,
+      "longitude": 130.1296585
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251023011651_0_VPWW53_420000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【長崎県気象警報・注意報】長崎県では、強風に注意してください。北部、壱岐・対馬、五島では、高波に注意してください。",
+      "observedAt": "2025-10-23T01:16:51.000Z",
+      "placeCountry": "日本",
+      "placePref": "長崎県",
+      "placeCity": null,
+      "latitude": 33.1154683,
+      "longitude": 129.7874339
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251023011615_0_VPWW53_440000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【大分県気象警報・注意報】中部、北部では、強風に注意してください。中部、北部、南部では、高波に注意してください。",
+      "observedAt": "2025-10-23T01:16:15.000Z",
+      "placeCountry": "日本",
+      "placePref": "大分県",
+      "placeCity": null,
+      "latitude": 33.1819875,
+      "longitude": 131.4270217
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251023011230_0_VPWW53_360000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【徳島県気象警報・注意報】注意報を解除します。",
+      "observedAt": "2025-10-23T01:12:29.000Z",
+      "placeCountry": "日本",
+      "placePref": "徳島県",
+      "placeCity": null,
+      "latitude": 33.9196418,
+      "longitude": 134.2509634
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251023011227_0_VPWW53_390000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【高知県気象警報・注意報】東部では、強風や高潮に注意してください。高知県では、高波に注意してください。",
+      "observedAt": "2025-10-23T01:12:27.000Z",
+      "placeCountry": "日本",
+      "placePref": "高知県",
+      "placeCity": null,
+      "latitude": 33.6569018,
+      "longitude": 133.5606241
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251023010922_0_VPWW53_240000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【三重県気象警報・注意報】南部では、高波に注意してください。",
+      "observedAt": "2025-10-23T01:09:21.000Z",
+      "placeCountry": "日本",
+      "placePref": "三重県",
+      "placeCity": null,
+      "latitude": 34.7339685,
+      "longitude": 136.5154489
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251023010228_0_VPWW53_070000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【福島県気象警報・注意報】福島県では、２４日朝は霜に対する農作物の管理に注意してください。",
+      "observedAt": "2025-10-23T01:02:27.000Z",
+      "placeCountry": "日本",
+      "placePref": "福島県",
+      "placeCity": null,
+      "latitude": 37.3662591,
+      "longitude": 140.2511854
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251023010223_0_VPWW53_050000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【秋田県気象警報・注意報】秋田県では、２４日朝は霜に対する農作物の管理に注意してください。",
+      "observedAt": "2025-10-23T01:02:23.000Z",
+      "placeCountry": "日本",
+      "placePref": "秋田県",
+      "placeCity": null,
+      "latitude": 39.6898802,
+      "longitude": 140.342608
     }
   ]
 }
