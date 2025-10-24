@@ -1,54 +1,10 @@
 {
-  "generatedAt": "2025-10-24T00:29:45.820Z",
+  "generatedAt": "2025-10-23T23:07:34.946Z",
   "timeZone": "Asia/Tokyo",
-  "hourPath": "2025/10/24/09",
+  "hourPath": "2025/10/24/08",
   "source": "http://www.data.jma.go.jp/developer/xml/feed/extra.xml",
   "totalItems": 34,
   "items": [
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251024001005_0_VPWW53_260000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【京都府気象警報・注意報】京都府では、２４日まで空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
-      "observedAt": "2025-10-24T00:10:04.000Z",
-      "placeCountry": "日本",
-      "placePref": "京都府",
-      "placeCity": null,
-      "latitude": 35.242552,
-      "longitude": 135.454601
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251024000645_0_VPWW53_280000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【兵庫県気象警報・注意報】南部では、２４日まで空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
-      "observedAt": "2025-10-24T00:06:44.000Z",
-      "placeCountry": "日本",
-      "placePref": "兵庫県",
-      "placeCity": null,
-      "latitude": 34.914934,
-      "longitude": 134.860666
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251023231331_0_VPWW53_390000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【高知県気象警報・注意報】高知県では、高波に注意してください。",
-      "observedAt": "2025-10-23T23:13:30.000Z",
-      "placeCountry": "日本",
-      "placePref": "高知県",
-      "placeCity": null,
-      "latitude": 33.6569018,
-      "longitude": 133.5606241
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251023230834_0_VPWW53_460040.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【奄美地方（鹿児島県）気象警報・注意報】奄美地方では、２４日夕方まで土砂災害に警戒してください。",
-      "observedAt": "2025-10-23T23:08:34.000Z",
-      "placeCountry": "日本",
-      "placePref": "鹿児島県",
-      "placeCity": null,
-      "latitude": 31.521587,
-      "longitude": 130.5474077
-    },
     {
       "originId": "https://www.data.jma.go.jp/developer/xml/data/20251023224307_0_VPWW53_080000.xml",
       "title": "気象特別警報・警報・注意報",
@@ -378,6 +334,50 @@
       "placeCity": null,
       "latitude": 33.6569018,
       "longitude": 133.5606241
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251023131450_0_VPWW53_460040.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【奄美地方（鹿児島県）気象警報・注意報】奄美地方では、土砂災害や高波、落雷に注意してください。",
+      "observedAt": "2025-10-23T13:14:49.000Z",
+      "placeCountry": "日本",
+      "placePref": "鹿児島県",
+      "placeCity": null,
+      "latitude": 31.521587,
+      "longitude": 130.5474077
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251023130606_0_VPWW53_410000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【佐賀県気象警報・注意報】北部では、２４日夜のはじめ頃まで強風に注意してください。",
+      "observedAt": "2025-10-23T13:06:06.000Z",
+      "placeCountry": "日本",
+      "placePref": "佐賀県",
+      "placeCity": null,
+      "latitude": 33.2185408,
+      "longitude": 130.1296585
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251023124739_0_VPWW53_440000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【大分県気象警報・注意報】南部では、高波に注意してください。",
+      "observedAt": "2025-10-23T12:47:38.000Z",
+      "placeCountry": "日本",
+      "placePref": "大分県",
+      "placeCity": null,
+      "latitude": 33.1819875,
+      "longitude": 131.4270217
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251023124348_0_VPWW53_140000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【神奈川県気象警報・注意報】神奈川県では、２４日昼前まで強風に注意してください。",
+      "observedAt": "2025-10-23T12:43:47.000Z",
+      "placeCountry": "日本",
+      "placePref": "神奈川県",
+      "placeCity": null,
+      "latitude": 35.4342935,
+      "longitude": 139.374753
     }
   ]
 }
