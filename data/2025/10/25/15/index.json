@@ -1,120 +1,10 @@
 {
-  "generatedAt": "2025-10-25T07:07:24.612Z",
+  "generatedAt": "2025-10-25T06:10:00.008Z",
   "timeZone": "Asia/Tokyo",
-  "hourPath": "2025/10/25/16",
+  "hourPath": "2025/10/25/15",
   "source": "http://www.data.jma.go.jp/developer/xml/feed/extra.xml",
-  "totalItems": 42,
+  "totalItems": 36,
   "items": [
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251025070617_0_VPWW53_460100.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【鹿児島県（奄美地方を除く）気象警報・注意報】大隅、種子島・屋久島地方では、２６日明け方まで高波に注意してください。",
-      "observedAt": "2025-10-25T07:06:16.000Z",
-      "placeCountry": "日本",
-      "placePref": "鹿児島県",
-      "placeCity": null,
-      "latitude": 31.521587,
-      "longitude": 130.5474077
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251025070605_0_VPWW53_220000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【静岡県気象警報・注意報】静岡県では、２６日明け方から２６日夕方まで急な強い雨や落雷に注意してください。",
-      "observedAt": "2025-10-25T07:06:05.000Z",
-      "placeCountry": "日本",
-      "placePref": "静岡県",
-      "placeCity": null,
-      "latitude": 34.9332488,
-      "longitude": 138.0955398
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251025070408_0_VPWW53_090000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【栃木県気象警報・注意報】栃木県では、濃霧による視程障害に注意してください。",
-      "observedAt": "2025-10-25T07:04:07.000Z",
-      "placeCountry": "日本",
-      "placePref": "栃木県",
-      "placeCity": null,
-      "latitude": 36.6782167,
-      "longitude": 139.8096549
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251025065735_0_VPWW53_030000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【岩手県気象警報・注意報】岩手県では、２６日未明から２６日昼前まで濃霧による視程障害に注意してください。",
-      "observedAt": "2025-10-25T06:57:34.000Z",
-      "placeCountry": "日本",
-      "placePref": "岩手県",
-      "placeCity": null,
-      "latitude": 39.5713763,
-      "longitude": 141.4253574
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251025063744_0_VPWW53_420000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【長崎県気象警報・注意報】南部、北部では、強風に注意してください。",
-      "observedAt": "2025-10-25T06:37:43.000Z",
-      "placeCountry": "日本",
-      "placePref": "長崎県",
-      "placeCity": null,
-      "latitude": 33.1154683,
-      "longitude": 129.7874339
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251025063619_0_VPWW53_280000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【兵庫県気象警報・注意報】注意報を解除します。",
-      "observedAt": "2025-10-25T06:36:18.000Z",
-      "placeCountry": "日本",
-      "placePref": "兵庫県",
-      "placeCity": null,
-      "latitude": 34.914934,
-      "longitude": 134.860666
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251025063433_0_VPWW53_300000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【和歌山県気象警報・注意報】南部では、２６日昼前まで高波に、２５日夜のはじめ頃から２６日夕方まで竜巻などの激しい突風や急な強い雨、落雷に注意してください。",
-      "observedAt": "2025-10-25T06:34:33.000Z",
-      "placeCountry": "日本",
-      "placePref": "和歌山県",
-      "placeCity": null,
-      "latitude": 33.8070292,
-      "longitude": 135.5930743
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251025063056_0_VPWW53_460040.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【奄美地方（鹿児島県）気象警報・注意報】奄美地方では、２６日明け方まで土砂災害や高波に、２５日夜遅くまで落雷に注意してください。",
-      "observedAt": "2025-10-25T06:30:55.000Z",
-      "placeCountry": "日本",
-      "placePref": "鹿児島県",
-      "placeCity": null,
-      "latitude": 31.521587,
-      "longitude": 130.5474077
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251025062821_0_VPWW53_430000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【熊本県気象警報・注意報】熊本、天草・芦北地方では、強風に注意してください。",
-      "observedAt": "2025-10-25T06:28:21.000Z",
-      "placeCountry": "日本",
-      "placePref": "熊本県",
-      "placeCity": null,
-      "latitude": 32.6450475,
-      "longitude": 130.6341345
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251025061608_0_VPWW53_070000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【福島県気象警報・注意報】福島県では、２６日夕方まで濃霧による視程障害に注意してください。",
-      "observedAt": "2025-10-25T06:16:07.000Z",
-      "placeCountry": "日本",
-      "placePref": "福島県",
-      "placeCity": null,
-      "latitude": 37.3662591,
-      "longitude": 140.2511854
-    },
     {
       "originId": "https://www.data.jma.go.jp/developer/xml/data/20251025060343_0_VPWW53_440000.xml",
       "title": "気象特別警報・警報・注意報",
@@ -466,6 +356,50 @@
       "placeCity": null,
       "latitude": 38.3880155,
       "longitude": 140.9761025
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251024210504_0_VPWW53_070000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【福島県気象警報・注意報】福島県では、２５日昼前まで濃霧による視程障害に注意してください。",
+      "observedAt": "2025-10-24T21:05:03.000Z",
+      "placeCountry": "日本",
+      "placePref": "福島県",
+      "placeCity": null,
+      "latitude": 37.3662591,
+      "longitude": 140.2511854
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251024201707_0_VPWW53_260000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【京都府気象警報・注意報】京都府では、２５日昼前まで濃霧による視程障害に注意してください。",
+      "observedAt": "2025-10-24T20:17:07.000Z",
+      "placeCountry": "日本",
+      "placePref": "京都府",
+      "placeCity": null,
+      "latitude": 35.242552,
+      "longitude": 135.454601
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251024200717_0_VPWW53_240000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【三重県気象警報・注意報】南部では、高波に注意してください。",
+      "observedAt": "2025-10-24T20:07:17.000Z",
+      "placeCountry": "日本",
+      "placePref": "三重県",
+      "placeCity": null,
+      "latitude": 34.7339685,
+      "longitude": 136.5154489
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251024200614_0_VPWW53_230000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【愛知県気象警報・注意報】愛知県では、高波に注意してください。",
+      "observedAt": "2025-10-24T20:06:13.000Z",
+      "placeCountry": "日本",
+      "placePref": "愛知県",
+      "placeCity": null,
+      "latitude": 34.9991645,
+      "longitude": 137.254574
     }
   ]
 }
