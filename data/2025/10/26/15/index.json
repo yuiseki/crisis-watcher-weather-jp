@@ -1,208 +1,10 @@
 {
-  "generatedAt": "2025-10-26T07:07:32.137Z",
+  "generatedAt": "2025-10-26T06:10:37.548Z",
   "timeZone": "Asia/Tokyo",
-  "hourPath": "2025/10/26/16",
+  "hourPath": "2025/10/26/15",
   "source": "http://www.data.jma.go.jp/developer/xml/feed/extra.xml",
-  "totalItems": 56,
+  "totalItems": 40,
   "items": [
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251026070622_0_VPWW53_020000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【青森県気象警報・注意報】三八上北では２６日夜遅くまで、下北では２７日明け方まで、高波に注意してください。青森県では、２７日未明から急な強い雨や落雷に注意してください。",
-      "observedAt": "2025-10-26T07:06:21.000Z",
-      "placeCountry": "日本",
-      "placePref": "青森県",
-      "placeCity": null,
-      "latitude": 40.886943,
-      "longitude": 140.590121
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251026070415_0_VPWW53_350000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【山口県気象警報・注意報】山口県では、強風に注意してください。東部では、高波に注意してください。",
-      "observedAt": "2025-10-26T07:04:15.000Z",
-      "placeCountry": "日本",
-      "placePref": "山口県",
-      "placeCity": null,
-      "latitude": 34.2379614,
-      "longitude": 131.5873845
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251026070244_0_VPWW53_400000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【福岡県気象警報・注意報】福岡、北九州地方では、２６日夜のはじめ頃まで強風に注意してください。",
-      "observedAt": "2025-10-26T07:02:43.000Z",
-      "placeCountry": "日本",
-      "placePref": "福岡県",
-      "placeCity": null,
-      "latitude": 33.6251241,
-      "longitude": 130.6180016
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251026070208_0_VPWW53_090000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【栃木県気象警報・注意報】栃木県では、２７日昼前まで濃霧による視程障害に注意してください。",
-      "observedAt": "2025-10-26T07:02:07.000Z",
-      "placeCountry": "日本",
-      "placePref": "栃木県",
-      "placeCity": null,
-      "latitude": 36.6782167,
-      "longitude": 139.8096549
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251026070036_0_VPWW53_450000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【宮崎県気象警報・注意報】注意報を解除します。",
-      "observedAt": "2025-10-26T07:00:36.000Z",
-      "placeCountry": "日本",
-      "placePref": "宮崎県",
-      "placeCity": null,
-      "latitude": 32.097681,
-      "longitude": 131.294542
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251026065244_0_VPWW53_240000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【三重県気象警報・注意報】注意報を解除します。",
-      "observedAt": "2025-10-26T06:52:44.000Z",
-      "placeCountry": "日本",
-      "placePref": "三重県",
-      "placeCity": null,
-      "latitude": 34.7339685,
-      "longitude": 136.5154489
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251026064904_0_VPWW53_280000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【兵庫県気象警報・注意報】北部では、２７日未明から２７日明け方まで高潮に注意してください。",
-      "observedAt": "2025-10-26T06:49:03.000Z",
-      "placeCountry": "日本",
-      "placePref": "兵庫県",
-      "placeCity": null,
-      "latitude": 34.914934,
-      "longitude": 134.860666
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251026064821_0_VPWW53_030000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【岩手県気象警報・注意報】岩手県では、２６日夜遅くまで高波や濃霧による視程障害に注意してください。",
-      "observedAt": "2025-10-26T06:48:21.000Z",
-      "placeCountry": "日本",
-      "placePref": "岩手県",
-      "placeCity": null,
-      "latitude": 39.5713763,
-      "longitude": 141.4253574
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251026064708_0_VPWW53_160000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【富山県気象警報・注意報】西部では２６日夜のはじめ頃から２７日明け方まで、東部では２６日夜のはじめ頃から、土砂災害に注意してください。東部では、２７日明け方まで河川の増水に注意してください。",
-      "observedAt": "2025-10-26T06:47:07.000Z",
-      "placeCountry": "日本",
-      "placePref": "富山県",
-      "placeCity": null,
-      "latitude": 36.6468015,
-      "longitude": 137.2183531
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251026064307_0_VPWW53_200000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【長野県気象警報・注意報】北部では、土砂災害に注意してください。長野県では、落雷や濃霧による視程障害に注意してください。",
-      "observedAt": "2025-10-26T06:43:06.000Z",
-      "placeCountry": "日本",
-      "placePref": "長野県",
-      "placeCity": null,
-      "latitude": 36.1143945,
-      "longitude": 138.0319015
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251026064304_0_VPWW53_070000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【福島県気象警報・注意報】中通り、浜通りでは、２６日夜遅くまで土砂災害に注意してください。福島県では、２７日昼前まで濃霧による視程障害に注意してください。",
-      "observedAt": "2025-10-26T06:43:03.000Z",
-      "placeCountry": "日本",
-      "placePref": "福島県",
-      "placeCity": null,
-      "latitude": 37.3662591,
-      "longitude": 140.2511854
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251026063825_0_VPWW53_460040.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【奄美地方（鹿児島県）気象警報・注意報】奄美地方では、２７日夕方まで高波に注意してください。",
-      "observedAt": "2025-10-26T06:38:25.000Z",
-      "placeCountry": "日本",
-      "placePref": "鹿児島県",
-      "placeCity": null,
-      "latitude": 31.521587,
-      "longitude": 130.5474077
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251026063753_0_VPWW53_300000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【和歌山県気象警報・注意報】注意報を解除します。",
-      "observedAt": "2025-10-26T06:37:52.000Z",
-      "placeCountry": "日本",
-      "placePref": "和歌山県",
-      "placeCity": null,
-      "latitude": 33.8070292,
-      "longitude": 135.5930743
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251026063750_0_VPWW53_290000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【奈良県気象警報・注意報】注意報を解除します。",
-      "observedAt": "2025-10-26T06:37:50.000Z",
-      "placeCountry": "日本",
-      "placePref": "奈良県",
-      "placeCity": null,
-      "latitude": 34.2963089,
-      "longitude": 135.8816819
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251026063443_0_VPWW53_430000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【熊本県気象警報・注意報】熊本、天草・芦北地方では、強風に注意してください。",
-      "observedAt": "2025-10-26T06:34:42.000Z",
-      "placeCountry": "日本",
-      "placePref": "熊本県",
-      "placeCity": null,
-      "latitude": 32.6450475,
-      "longitude": 130.6341345
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251026063220_0_VPWW53_270000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【大阪府気象警報・注意報】注意報を解除します。",
-      "observedAt": "2025-10-26T06:32:20.000Z",
-      "placeCountry": "日本",
-      "placePref": "大阪府",
-      "placeCity": null,
-      "latitude": 34.6198813,
-      "longitude": 135.490357
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251026061256_0_VPWW53_420000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【長崎県気象警報・注意報】長崎県では、強風に注意してください。五島では、高波に注意してください。",
-      "observedAt": "2025-10-26T06:12:56.000Z",
-      "placeCountry": "日本",
-      "placePref": "長崎県",
-      "placeCity": null,
-      "latitude": 33.1154683,
-      "longitude": 129.7874339
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251026061205_0_VPWW53_260000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【京都府気象警報・注意報】注意報を解除します。",
-      "observedAt": "2025-10-26T06:12:04.000Z",
-      "placeCountry": "日本",
-      "placePref": "京都府",
-      "placeCity": null,
-      "latitude": 35.242552,
-      "longitude": 135.454601
-    },
     {
       "originId": "https://www.data.jma.go.jp/developer/xml/data/20251026060808_0_VPWW53_250000.xml",
       "title": "気象特別警報・警報・注意報",
@@ -391,17 +193,6 @@
       "longitude": 138.0319015
     },
     {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251026010909_0_VPWW53_430000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【熊本県気象警報・注意報】熊本、天草・芦北地方では、強風に注意してください。",
-      "observedAt": "2025-10-26T01:09:08.000Z",
-      "placeCountry": "日本",
-      "placePref": "熊本県",
-      "placeCity": null,
-      "latitude": 32.6450475,
-      "longitude": 130.6341345
-    },
-    {
       "originId": "https://www.data.jma.go.jp/developer/xml/data/20251026010908_0_VPWW53_350000.xml",
       "title": "気象特別警報・警報・注意報",
       "content": "【山口県気象警報・注意報】山口県では、強風に注意してください。東部では、高波に注意してください。",
@@ -411,6 +202,17 @@
       "placeCity": null,
       "latitude": 34.2379614,
       "longitude": 131.5873845
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251026010909_0_VPWW53_430000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【熊本県気象警報・注意報】熊本、天草・芦北地方では、強風に注意してください。",
+      "observedAt": "2025-10-26T01:09:08.000Z",
+      "placeCountry": "日本",
+      "placePref": "熊本県",
+      "placeCity": null,
+      "latitude": 32.6450475,
+      "longitude": 130.6341345
     },
     {
       "originId": "https://www.data.jma.go.jp/developer/xml/data/20251026010842_0_VPWW53_240000.xml",
@@ -620,6 +422,28 @@
       "placeCity": null,
       "latitude": 33.6569018,
       "longitude": 133.5606241
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251025210425_0_VPWW53_020000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【青森県気象警報・注意報】三八上北では、２６日昼過ぎから２６日夜のはじめ頃まで高波に注意してください。",
+      "observedAt": "2025-10-25T21:04:24.000Z",
+      "placeCountry": "日本",
+      "placePref": "青森県",
+      "placeCity": null,
+      "latitude": 40.886943,
+      "longitude": 140.590121
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251025203312_0_VPWW53_070000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【福島県気象警報・注意報】浜通りでは、２６日夕方まで土砂災害に注意してください。福島県では、２６日夕方まで濃霧による視程障害に注意してください。",
+      "observedAt": "2025-10-25T20:33:11.000Z",
+      "placeCountry": "日本",
+      "placePref": "福島県",
+      "placeCity": null,
+      "latitude": 37.3662591,
+      "longitude": 140.2511854
     }
   ]
 }
