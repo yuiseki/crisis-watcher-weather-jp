@@ -1,87 +1,10 @@
 {
-  "generatedAt": "2025-10-27T00:36:12.335Z",
+  "generatedAt": "2025-10-26T23:07:23.291Z",
   "timeZone": "Asia/Tokyo",
-  "hourPath": "2025/10/27/09",
+  "hourPath": "2025/10/27/08",
   "source": "http://www.data.jma.go.jp/developer/xml/feed/extra.xml",
   "totalItems": 54,
   "items": [
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251027003356_0_VPWW53_400000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【福岡県気象警報・注意報】北九州地方では、２７日夕方まで強風や高波に注意してください。",
-      "observedAt": "2025-10-27T00:33:55.000Z",
-      "placeCountry": "日本",
-      "placePref": "福岡県",
-      "placeCity": null,
-      "latitude": 33.6251241,
-      "longitude": 130.6180016
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251027003148_0_VPWW53_310000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【鳥取県気象警報・注意報】鳥取県では、２７日夕方まで強風に、２７日夕方から高波に注意してください。",
-      "observedAt": "2025-10-27T00:31:48.000Z",
-      "placeCountry": "日本",
-      "placePref": "鳥取県",
-      "placeCity": null,
-      "latitude": 35.3555075,
-      "longitude": 133.8678525
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251027002750_0_VPWW53_280000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【兵庫県気象警報・注意報】北部では、２７日昼過ぎから２７日夜遅くまで強風に、２７日夕方から高波に注意してください。南部では、２７日昼過ぎから２７日夕方まで高潮に注意してください。",
-      "observedAt": "2025-10-27T00:27:50.000Z",
-      "placeCountry": "日本",
-      "placePref": "兵庫県",
-      "placeCity": null,
-      "latitude": 34.914934,
-      "longitude": 134.860666
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251027002736_0_VPWW53_250000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【滋賀県気象警報・注意報】滋賀県では、２７日昼過ぎから２７日夜遅くまで強風に注意してください。",
-      "observedAt": "2025-10-27T00:27:36.000Z",
-      "placeCountry": "日本",
-      "placePref": "滋賀県",
-      "placeCity": null,
-      "latitude": 35.247154,
-      "longitude": 136.109385
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251027002121_0_VPWW53_200000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【長野県気象警報・注意報】注意報を解除します。",
-      "observedAt": "2025-10-27T00:21:20.000Z",
-      "placeCountry": "日本",
-      "placePref": "長野県",
-      "placeCity": null,
-      "latitude": 36.1143945,
-      "longitude": 138.0319015
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251026232026_0_VPWW53_100000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【群馬県気象警報・注意報】注意報を解除します。",
-      "observedAt": "2025-10-26T23:20:25.000Z",
-      "placeCountry": "日本",
-      "placePref": "群馬県",
-      "placeCity": null,
-      "latitude": 36.52198,
-      "longitude": 139.033483
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251026231010_0_VPWW53_170000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【石川県気象警報・注意報】石川県では、２７日昼過ぎから２８日明け方まで強風に注意してください。能登では、２７日夕方から高潮に、２７日昼前から急な強い雨や落雷に注意してください。",
-      "observedAt": "2025-10-26T23:10:09.000Z",
-      "placeCountry": "日本",
-      "placePref": "石川県",
-      "placeCity": null,
-      "latitude": 36.9888678,
-      "longitude": 136.8163563
-    },
     {
       "originId": "https://www.data.jma.go.jp/developer/xml/data/20251026224154_0_VPWW53_030000.xml",
       "title": "気象特別警報・警報・注意報",
@@ -598,6 +521,83 @@
       "placeCity": null,
       "latitude": 36.9888678,
       "longitude": 136.8163563
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251026140339_0_VPWW53_160000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【富山県気象警報・注意報】西部では２７日明け方まで、東部では２７日夜遅くまで、土砂災害に注意してください。東部では、２７日明け方まで河川の増水に注意してください。",
+      "observedAt": "2025-10-26T14:03:39.000Z",
+      "placeCountry": "日本",
+      "placePref": "富山県",
+      "placeCity": null,
+      "latitude": 36.6468015,
+      "longitude": 137.2183531
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251026135612_0_VPWW53_250000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【滋賀県気象警報・注意報】滋賀県では、２７日明け方まで強風に注意してください。",
+      "observedAt": "2025-10-26T13:56:11.000Z",
+      "placeCountry": "日本",
+      "placePref": "滋賀県",
+      "placeCity": null,
+      "latitude": 35.247154,
+      "longitude": 136.109385
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251026135114_0_VPWW53_150000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【新潟県気象警報・注意報】佐渡では、強風に注意してください。上越では、濃霧による視程障害に注意してください。",
+      "observedAt": "2025-10-26T13:51:13.000Z",
+      "placeCountry": "日本",
+      "placePref": "新潟県",
+      "placeCity": null,
+      "latitude": 37.6452283,
+      "longitude": 138.7669125
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251026131122_0_VPWW53_130000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【東京都気象警報・注意報】伊豆諸島北部、伊豆諸島南部では、強風や高波に注意してください。小笠原諸島では、急な強い雨や落雷に注意してください。",
+      "observedAt": "2025-10-26T13:11:21.000Z",
+      "placeCountry": "日本",
+      "placePref": "東京都",
+      "placeCity": null,
+      "latitude": 35.6828387,
+      "longitude": 139.7594549
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251026125525_0_VPWW53_410000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【佐賀県気象警報・注意報】北部では、２７日昼前まで強風に注意してください。",
+      "observedAt": "2025-10-26T12:55:24.000Z",
+      "placeCountry": "日本",
+      "placePref": "佐賀県",
+      "placeCity": null,
+      "latitude": 33.2185408,
+      "longitude": 130.1296585
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251026125315_0_VPWW53_200000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【長野県気象警報・注意報】北部では、２７日明け方まで土砂災害に注意してください。中部では２７日昼前まで、北部、南部では２７日未明から２７日昼前まで、濃霧による視程障害に注意してください。",
+      "observedAt": "2025-10-26T12:53:15.000Z",
+      "placeCountry": "日本",
+      "placePref": "長野県",
+      "placeCity": null,
+      "latitude": 36.1143945,
+      "longitude": 138.0319015
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251026124407_0_VPWW53_120000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【千葉県気象警報・注意報】北東部、南部では、高波に注意してください。千葉県では、濃霧による視程障害に注意してください。",
+      "observedAt": "2025-10-26T12:44:06.000Z",
+      "placeCountry": "日本",
+      "placePref": "千葉県",
+      "placeCity": null,
+      "latitude": 35.549399,
+      "longitude": 140.2647303
     }
   ]
 }
