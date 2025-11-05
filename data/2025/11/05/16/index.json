@@ -1,87 +1,10 @@
 {
-  "generatedAt": "2025-11-05T08:11:17.351Z",
+  "generatedAt": "2025-11-05T07:08:41.700Z",
   "timeZone": "Asia/Tokyo",
-  "hourPath": "2025/11/05/17",
+  "hourPath": "2025/11/05/16",
   "source": "http://www.data.jma.go.jp/developer/xml/feed/extra.xml",
-  "totalItems": 39,
+  "totalItems": 33,
   "items": [
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251105072621_0_VPWW53_420000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【長崎県気象警報・注意報】長崎県では、強風や高潮に注意してください。五島では、高波に注意してください。南部、北部、五島では、空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
-      "observedAt": "2025-11-05T07:26:20.000Z",
-      "placeCountry": "日本",
-      "placePref": "長崎県",
-      "placeCity": null,
-      "latitude": 33.1154683,
-      "longitude": 129.7874339
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251105072412_0_VPWW53_240000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【三重県気象警報・注意報】南部では、５日夜遅くから６日朝まで強風に、５日夜遅くから６日昼前まで高波に注意してください。",
-      "observedAt": "2025-11-05T07:24:11.000Z",
-      "placeCountry": "日本",
-      "placePref": "三重県",
-      "placeCity": null,
-      "latitude": 34.7339685,
-      "longitude": 136.5154489
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251105072323_0_VPWW53_140000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【神奈川県気象警報・注意報】神奈川県では、５日夜遅くから６日昼前まで強風に注意してください。",
-      "observedAt": "2025-11-05T07:23:23.000Z",
-      "placeCountry": "日本",
-      "placePref": "神奈川県",
-      "placeCity": null,
-      "latitude": 35.4342935,
-      "longitude": 139.374753
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251105072049_0_VPWW53_120000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【千葉県気象警報・注意報】南部では、６日明け方から高波に注意してください。",
-      "observedAt": "2025-11-05T07:20:49.000Z",
-      "placeCountry": "日本",
-      "placePref": "千葉県",
-      "placeCity": null,
-      "latitude": 35.549399,
-      "longitude": 140.2647303
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251105071134_0_VPWW53_130000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【東京都気象警報・注意報】伊豆諸島北部、伊豆諸島南部では、強風に注意してください。伊豆諸島北部、伊豆諸島南部、小笠原諸島では、高波に注意してください。",
-      "observedAt": "2025-11-05T07:11:33.000Z",
-      "placeCountry": "日本",
-      "placePref": "東京都",
-      "placeCity": null,
-      "latitude": 35.6828387,
-      "longitude": 139.7594549
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251105070844_0_VPWW53_450000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【宮崎県気象警報・注意報】南部平野部、北部平野部では、６日未明から６日朝まで強風に、５日夜のはじめ頃から高波に注意してください。南部平野部では、６日まで高潮に注意してください。",
-      "observedAt": "2025-11-05T07:08:44.000Z",
-      "placeCountry": "日本",
-      "placePref": "宮崎県",
-      "placeCity": null,
-      "latitude": 32.097681,
-      "longitude": 131.294542
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251105070827_0_VPWW53_440000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【大分県気象警報・注意報】南部では、５日夜遅くから強風や高波に注意してください。",
-      "observedAt": "2025-11-05T07:08:26.000Z",
-      "placeCountry": "日本",
-      "placePref": "大分県",
-      "placeCity": null,
-      "latitude": 33.1819875,
-      "longitude": 131.4270217
-    },
     {
       "originId": "https://www.data.jma.go.jp/developer/xml/data/20251105070728_0_VPWW53_220000.xml",
       "title": "気象特別警報・警報・注意報",
@@ -433,6 +356,17 @@
       "placeCity": null,
       "latitude": 34.2379614,
       "longitude": 131.5873845
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251104214108_0_VPWW53_390000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【高知県気象警報・注意報】東部、西部では５日昼前から、中部では５日昼過ぎから６日明け方まで、強風に注意してください。高知県では、６日明け方まで急な強い雨や落雷に注意してください。",
+      "observedAt": "2025-11-04T21:41:07.000Z",
+      "placeCountry": "日本",
+      "placePref": "高知県",
+      "placeCity": null,
+      "latitude": 33.6569018,
+      "longitude": 133.5606241
     }
   ]
 }
