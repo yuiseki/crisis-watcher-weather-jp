@@ -1,76 +1,10 @@
 {
-  "generatedAt": "2025-11-08T22:06:40.466Z",
+  "generatedAt": "2025-11-08T21:06:40.977Z",
   "timeZone": "Asia/Tokyo",
-  "hourPath": "2025/11/09/07",
+  "hourPath": "2025/11/09/06",
   "source": "http://www.data.jma.go.jp/developer/xml/feed/extra.xml",
-  "totalItems": 32,
+  "totalItems": 28,
   "items": [
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251108214305_0_VPWW53_260000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【京都府気象警報・注意報】注意報を解除します。",
-      "observedAt": "2025-11-08T21:43:05.000Z",
-      "placeCountry": "日本",
-      "placePref": "京都府",
-      "placeCity": null,
-      "latitude": 35.242552,
-      "longitude": 135.454601
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251108211855_0_VPWW53_020000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【青森県気象警報・注意報】青森県では、９日昼過ぎから竜巻などの激しい突風や急な強い雨、落雷に注意してください。",
-      "observedAt": "2025-11-08T21:18:55.000Z",
-      "placeCountry": "日本",
-      "placePref": "青森県",
-      "placeCity": null,
-      "latitude": 40.886943,
-      "longitude": 140.590121
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251108211242_0_VPWW53_060000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【山形県気象警報・注意報】庄内では、９日昼過ぎから９日夕方まで強風に注意してください。",
-      "observedAt": "2025-11-08T21:12:42.000Z",
-      "placeCountry": "日本",
-      "placePref": "山形県",
-      "placeCity": null,
-      "latitude": 38.4746705,
-      "longitude": 140.083237
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251108211241_0_VPWW53_050000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【秋田県気象警報・注意報】沿岸では、９日昼過ぎから９日夕方まで強風に注意してください。秋田県では、９日昼過ぎから竜巻などの激しい突風や急な強い雨、落雷に注意してください。",
-      "observedAt": "2025-11-08T21:12:40.000Z",
-      "placeCountry": "日本",
-      "placePref": "秋田県",
-      "placeCity": null,
-      "latitude": 39.6898802,
-      "longitude": 140.342608
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251108211110_0_VPWW53_070000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【福島県気象警報・注意報】注意報を解除します。",
-      "observedAt": "2025-11-08T21:11:09.000Z",
-      "placeCountry": "日本",
-      "placePref": "福島県",
-      "placeCity": null,
-      "latitude": 37.3662591,
-      "longitude": 140.2511854
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251108211109_0_VPWW53_040000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【宮城県気象警報・注意報】注意報を解除します。",
-      "observedAt": "2025-11-08T21:11:08.000Z",
-      "placeCountry": "日本",
-      "placePref": "宮城県",
-      "placeCity": null,
-      "latitude": 38.3880155,
-      "longitude": 140.9761025
-    },
     {
       "originId": "https://www.data.jma.go.jp/developer/xml/data/20251108210524_0_VPWW53_220000.xml",
       "title": "気象特別警報・警報・注意報",
@@ -356,6 +290,28 @@
       "placeCity": null,
       "latitude": 33.2185408,
       "longitude": 130.1296585
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251108113128_0_VPWW53_040000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【宮城県気象警報・注意報】宮城県では、９日朝は霜に対する農作物の管理に注意してください。",
+      "observedAt": "2025-11-08T11:31:27.000Z",
+      "placeCountry": "日本",
+      "placePref": "宮城県",
+      "placeCity": null,
+      "latitude": 38.3880155,
+      "longitude": 140.9761025
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251108110713_0_VPWW53_390000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【高知県気象警報・注意報】注意報を解除します。",
+      "observedAt": "2025-11-08T11:07:13.000Z",
+      "placeCountry": "日本",
+      "placePref": "高知県",
+      "placeCity": null,
+      "latitude": 33.6569018,
+      "longitude": 133.5606241
     }
   ]
 }
