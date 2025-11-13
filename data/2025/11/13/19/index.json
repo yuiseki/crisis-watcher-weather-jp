@@ -1,21 +1,10 @@
 {
-  "generatedAt": "2025-11-13T11:07:28.193Z",
+  "generatedAt": "2025-11-13T10:09:07.377Z",
   "timeZone": "Asia/Tokyo",
-  "hourPath": "2025/11/13/20",
+  "hourPath": "2025/11/13/19",
   "source": "http://www.data.jma.go.jp/developer/xml/feed/extra.xml",
-  "totalItems": 24,
+  "totalItems": 29,
   "items": [
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251113103942_0_VPWW53_150000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【新潟県気象警報・注意報】下越、佐渡では、１４日昼前まで高波に、１３日夜遅くまで急な強い雨や落雷に注意してください。",
-      "observedAt": "2025-11-13T10:39:42.000Z",
-      "placeCountry": "日本",
-      "placePref": "新潟県",
-      "placeCity": null,
-      "latitude": 37.6452283,
-      "longitude": 138.7669125
-    },
     {
       "originId": "https://www.data.jma.go.jp/developer/xml/data/20251113093836_0_VPWW53_050000.xml",
       "title": "気象特別警報・警報・注意報",
@@ -268,6 +257,72 @@
       "placeCity": null,
       "latitude": 31.521587,
       "longitude": 130.5474077
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251113010304_0_VPWW53_170000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【石川県気象警報・注意報】能登では、１３日夜のはじめ頃から高潮に注意してください。",
+      "observedAt": "2025-11-13T01:03:04.000Z",
+      "placeCountry": "日本",
+      "placePref": "石川県",
+      "placeCity": null,
+      "latitude": 36.9888678,
+      "longitude": 136.8163563
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251113005325_0_VPWW53_040000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【宮城県気象警報・注意報】宮城県では、１４日まで空気の乾燥した状態が続くため、火の取り扱いに、１４日朝は霜に対する農作物の管理に注意してください。",
+      "observedAt": "2025-11-13T00:53:25.000Z",
+      "placeCountry": "日本",
+      "placePref": "宮城県",
+      "placeCity": null,
+      "latitude": 38.3880155,
+      "longitude": 140.9761025
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251113005011_0_VPWW53_030000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【岩手県気象警報・注意報】内陸では、１３日昼過ぎから１３日夕方まで急な強い雨や落雷に注意してください。",
+      "observedAt": "2025-11-13T00:50:10.000Z",
+      "placeCountry": "日本",
+      "placePref": "岩手県",
+      "placeCity": null,
+      "latitude": 39.5713763,
+      "longitude": 141.4253574
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251113004907_0_VPWW53_050000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【秋田県気象警報・注意報】沿岸では、１３日夕方まで強風に、１３日夕方から高波に注意してください。秋田県では、１３日夕方まで竜巻などの激しい突風や急な強い雨、落雷に注意してください。",
+      "observedAt": "2025-11-13T00:49:06.000Z",
+      "placeCountry": "日本",
+      "placePref": "秋田県",
+      "placeCity": null,
+      "latitude": 39.6898802,
+      "longitude": 140.342608
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251113001409_0_VPWW53_130000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【東京都気象警報・注意報】伊豆諸島南部では、１３日昼過ぎまで急な強い雨や落雷に注意してください。",
+      "observedAt": "2025-11-13T00:14:08.000Z",
+      "placeCountry": "日本",
+      "placePref": "東京都",
+      "placeCity": null,
+      "latitude": 35.6828387,
+      "longitude": 139.7594549
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251113000849_0_VPWW53_200000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【長野県気象警報・注意報】注意報を解除します。",
+      "observedAt": "2025-11-13T00:08:48.000Z",
+      "placeCountry": "日本",
+      "placePref": "長野県",
+      "placeCity": null,
+      "latitude": 36.1143945,
+      "longitude": 138.0319015
     }
   ]
 }
