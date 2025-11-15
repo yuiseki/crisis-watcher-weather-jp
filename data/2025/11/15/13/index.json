@@ -1,21 +1,10 @@
 {
-  "generatedAt": "2025-11-15T05:07:54.661Z",
+  "generatedAt": "2025-11-15T04:08:49.499Z",
   "timeZone": "Asia/Tokyo",
-  "hourPath": "2025/11/15/14",
+  "hourPath": "2025/11/15/13",
   "source": "http://www.data.jma.go.jp/developer/xml/feed/extra.xml",
-  "totalItems": 44,
+  "totalItems": 52,
   "items": [
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251115044342_0_VPWW53_130000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【東京都気象警報・注意報】伊豆諸島南部では、１５日夕方まで急な強い雨や落雷に注意してください。",
-      "observedAt": "2025-11-15T04:43:41.000Z",
-      "placeCountry": "日本",
-      "placePref": "東京都",
-      "placeCity": null,
-      "latitude": 35.6828387,
-      "longitude": 139.7594549
-    },
     {
       "originId": "https://www.data.jma.go.jp/developer/xml/data/20251115012231_0_VPWW53_430000.xml",
       "title": "気象特別警報・警報・注意報",
@@ -488,6 +477,105 @@
       "placeCity": null,
       "latitude": 33.8070292,
       "longitude": 135.5930743
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251114180816_0_VPWW53_320000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【島根県気象警報・注意報】注意報を解除します。",
+      "observedAt": "2025-11-14T18:08:16.000Z",
+      "placeCountry": "日本",
+      "placePref": "島根県",
+      "placeCity": null,
+      "latitude": 34.9418212,
+      "longitude": 132.537439
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251114180813_0_VPWW53_310000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【鳥取県気象警報・注意報】注意報を解除します。",
+      "observedAt": "2025-11-14T18:08:12.000Z",
+      "placeCountry": "日本",
+      "placePref": "鳥取県",
+      "placeCity": null,
+      "latitude": 35.3555075,
+      "longitude": 133.8678525
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251114180354_0_VPWW53_340000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【広島県気象警報・注意報】北部では、１５日昼前まで濃霧による視程障害に注意してください。南部では、１６日まで空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
+      "observedAt": "2025-11-14T18:03:54.000Z",
+      "placeCountry": "日本",
+      "placePref": "広島県",
+      "placeCity": null,
+      "latitude": 34.5666725,
+      "longitude": 132.753565
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251114180145_0_VPWW53_130000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【東京都気象警報・注意報】注意報を解除します。",
+      "observedAt": "2025-11-14T18:01:44.000Z",
+      "placeCountry": "日本",
+      "placePref": "東京都",
+      "placeCity": null,
+      "latitude": 35.6828387,
+      "longitude": 139.7594549
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251114175352_0_VPWW53_210000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【岐阜県気象警報・注意報】飛騨地方では、１５日昼前まで濃霧による視程障害に注意してください。美濃地方では、１５日まで空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
+      "observedAt": "2025-11-14T17:53:51.000Z",
+      "placeCountry": "日本",
+      "placePref": "岐阜県",
+      "placeCity": null,
+      "latitude": 35.7867449,
+      "longitude": 137.0460777
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251114172529_0_VPWW53_410000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【佐賀県気象警報・注意報】北部では、１５日昼前まで濃霧による視程障害に注意してください。",
+      "observedAt": "2025-11-14T17:25:29.000Z",
+      "placeCountry": "日本",
+      "placePref": "佐賀県",
+      "placeCity": null,
+      "latitude": 33.2185408,
+      "longitude": 130.1296585
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251114170650_0_VPWW53_460100.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【鹿児島県（奄美地方を除く）気象警報・注意報】薩摩地方では、１５日昼前まで濃霧による視程障害に、１５日朝は霜に対する農作物の管理に注意してください。",
+      "observedAt": "2025-11-14T17:06:50.000Z",
+      "placeCountry": "日本",
+      "placePref": "鹿児島県",
+      "placeCity": null,
+      "latitude": 31.521587,
+      "longitude": 130.5474077
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251114163109_0_VPWW53_430000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【熊本県気象警報・注意報】熊本、天草・芦北、球磨地方では、１５日昼前まで濃霧による視程障害に注意してください。熊本、阿蘇、球磨地方では、１５日朝は霜に対する農作物の管理に注意してください。",
+      "observedAt": "2025-11-14T16:31:08.000Z",
+      "placeCountry": "日本",
+      "placePref": "熊本県",
+      "placeCity": null,
+      "latitude": 32.6450475,
+      "longitude": 130.6341345
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251114160233_0_VPWW53_050000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【秋田県気象警報・注意報】秋田県では、１５日昼前まで濃霧による視程障害に注意してください。",
+      "observedAt": "2025-11-14T16:02:32.000Z",
+      "placeCountry": "日本",
+      "placePref": "秋田県",
+      "placeCity": null,
+      "latitude": 39.6898802,
+      "longitude": 140.342608
     }
   ]
 }
