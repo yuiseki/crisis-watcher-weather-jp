@@ -1,21 +1,10 @@
 {
-  "generatedAt": "2025-11-18T10:09:40.493Z",
+  "generatedAt": "2025-11-18T09:09:35.628Z",
   "timeZone": "Asia/Tokyo",
-  "hourPath": "2025/11/18/19",
+  "hourPath": "2025/11/18/18",
   "source": "http://www.data.jma.go.jp/developer/xml/feed/extra.xml",
-  "totalItems": 55,
+  "totalItems": 58,
   "items": [
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251118092511_0_VPWW53_060000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【山形県気象警報・注意報】庄内では、風雪や高波に注意してください。村山では、大雪や電線等への着雪に注意してください。山形県では、落雷に注意してください。",
-      "observedAt": "2025-11-18T09:25:10.000Z",
-      "placeCountry": "日本",
-      "placePref": "山形県",
-      "placeCity": null,
-      "latitude": 38.4746705,
-      "longitude": 140.083237
-    },
     {
       "originId": "https://www.data.jma.go.jp/developer/xml/data/20251118084913_0_VPWW53_220000.xml",
       "title": "気象特別警報・警報・注意報",
@@ -609,6 +598,50 @@
       "placeCity": null,
       "latitude": 39.6898802,
       "longitude": 140.342608
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251117231720_0_VPWW53_020000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【青森県気象警報・注意報】津軽、三八上北では、１８日夕方まで大雪に警戒してください。",
+      "observedAt": "2025-11-17T23:17:19.000Z",
+      "placeCountry": "日本",
+      "placePref": "青森県",
+      "placeCity": null,
+      "latitude": 40.886943,
+      "longitude": 140.590121
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251117225411_0_VPWW53_200000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【長野県気象警報・注意報】北部では、１９日明け方まで急な強い雨や落雷に注意してください。",
+      "observedAt": "2025-11-17T22:54:10.000Z",
+      "placeCountry": "日本",
+      "placePref": "長野県",
+      "placeCity": null,
+      "latitude": 36.1143945,
+      "longitude": 138.0319015
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251117225245_0_VPWW53_080000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【茨城県気象警報・注意報】茨城県では、１８日夕方から１８日夜遅くまで急な強い雨や落雷に注意してください。",
+      "observedAt": "2025-11-17T22:52:44.000Z",
+      "placeCountry": "日本",
+      "placePref": "茨城県",
+      "placeCity": null,
+      "latitude": 36.2869536,
+      "longitude": 140.4703384
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251117225006_0_VPWW53_350000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【山口県気象警報・注意報】山口県では、１９日明け方まで強風に注意してください。中部、東部では１８日夜遅くまで、西部、北部では１９日明け方まで、高波に注意してください。",
+      "observedAt": "2025-11-17T22:50:05.000Z",
+      "placeCountry": "日本",
+      "placePref": "山口県",
+      "placeCity": null,
+      "latitude": 34.2379614,
+      "longitude": 131.5873845
     }
   ]
 }
