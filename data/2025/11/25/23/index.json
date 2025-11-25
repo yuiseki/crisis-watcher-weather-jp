@@ -1,43 +1,10 @@
 {
-  "generatedAt": "2025-11-25T15:08:43.936Z",
+  "generatedAt": "2025-11-25T14:08:34.461Z",
   "timeZone": "Asia/Tokyo",
-  "hourPath": "2025/11/26/00",
+  "hourPath": "2025/11/25/23",
   "source": "http://www.data.jma.go.jp/developer/xml/feed/extra.xml",
   "totalItems": 59,
   "items": [
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251125150650_0_VPWW53_180000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【福井県気象警報・注意報】嶺北では、２６日明け方まで低い土地の浸水や河川の増水に注意してください。福井県では、２６日昼前まで竜巻などの激しい突風や落雷に注意してください。",
-      "observedAt": "2025-11-25T15:06:49.000Z",
-      "placeCountry": "日本",
-      "placePref": "福井県",
-      "placeCity": null,
-      "latitude": 35.9263502,
-      "longitude": 136.6068127
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251125145144_0_VPWW53_180000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【福井県気象警報・注意報】嶺北では、２６日明け方まで低い土地の浸水や河川の増水に注意してください。福井県では、２６日昼前まで竜巻などの激しい突風や落雷に注意してください。",
-      "observedAt": "2025-11-25T14:51:43.000Z",
-      "placeCountry": "日本",
-      "placePref": "福井県",
-      "placeCity": null,
-      "latitude": 35.9263502,
-      "longitude": 136.6068127
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251125144008_0_VPWW53_380000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【愛媛県気象警報・注意報】南予では、２６日明け方まで強風や高波に注意してください。",
-      "observedAt": "2025-11-25T14:40:07.000Z",
-      "placeCountry": "日本",
-      "placePref": "愛媛県",
-      "placeCity": null,
-      "latitude": 33.6013646,
-      "longitude": 132.8185275
-    },
     {
       "originId": "https://www.data.jma.go.jp/developer/xml/data/20251125135814_0_VPWW53_040000.xml",
       "title": "気象特別警報・警報・注意報",
@@ -653,6 +620,39 @@
       "placeCity": null,
       "latitude": 36.2869536,
       "longitude": 140.4703384
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251125045312_0_VPWW53_420000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【長崎県気象警報・注意報】五島の海上では、２５日夕方まで暴風に警戒してください。",
+      "observedAt": "2025-11-25T04:53:11.000Z",
+      "placeCountry": "日本",
+      "placePref": "長崎県",
+      "placeCity": null,
+      "latitude": 33.1154683,
+      "longitude": 129.7874339
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251125042150_0_VPWW53_260000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【京都府気象警報・注意報】北部では、強風や高波に注意してください。京都府では、竜巻などの激しい突風や急な強い雨、落雷に注意してください。",
+      "observedAt": "2025-11-25T04:21:49.000Z",
+      "placeCountry": "日本",
+      "placePref": "京都府",
+      "placeCity": null,
+      "latitude": 35.242552,
+      "longitude": 135.454601
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251125041708_0_VPWW53_320000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【島根県気象警報・注意報】島根県では、２６日明け方まで強風に、２５日夕方から２６日昼前まで高波に、２６日昼前まで竜巻などの激しい突風や急な強い雨、落雷に注意してください。",
+      "observedAt": "2025-11-25T04:17:07.000Z",
+      "placeCountry": "日本",
+      "placePref": "島根県",
+      "placeCity": null,
+      "latitude": 34.9418212,
+      "longitude": 132.537439
     }
   ]
 }
