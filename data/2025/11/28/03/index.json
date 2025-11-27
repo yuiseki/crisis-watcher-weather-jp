@@ -1,76 +1,10 @@
 {
-  "generatedAt": "2025-11-27T19:06:31.991Z",
+  "generatedAt": "2025-11-27T18:10:57.579Z",
   "timeZone": "Asia/Tokyo",
-  "hourPath": "2025/11/28/04",
+  "hourPath": "2025/11/28/03",
   "source": "http://www.data.jma.go.jp/developer/xml/feed/extra.xml",
-  "totalItems": 28,
+  "totalItems": 25,
   "items": [
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251127190320_0_VPWW53_290000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【奈良県気象警報・注意報】注意報を解除します。",
-      "observedAt": "2025-11-27T19:03:19.000Z",
-      "placeCountry": "日本",
-      "placePref": "奈良県",
-      "placeCity": null,
-      "latitude": 34.2963089,
-      "longitude": 135.8816819
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251127190318_0_VPWW53_300000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【和歌山県気象警報・注意報】和歌山県では、２８日昼前まで強風に注意してください。南部では、２９日まで空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
-      "observedAt": "2025-11-27T19:03:17.000Z",
-      "placeCountry": "日本",
-      "placePref": "和歌山県",
-      "placeCity": null,
-      "latitude": 33.8070292,
-      "longitude": 135.5930743
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251127184423_0_VPWW53_460040.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【奄美地方（鹿児島県）気象警報・注意報】奄美地方では、２８日夕方まで高波に、２９日まで空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
-      "observedAt": "2025-11-27T18:44:23.000Z",
-      "placeCountry": "日本",
-      "placePref": "鹿児島県",
-      "placeCity": null,
-      "latitude": 31.521587,
-      "longitude": 130.5474077
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251127184210_0_VPWW53_460100.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【鹿児島県（奄美地方を除く）気象警報・注意報】薩摩、大隅地方では、２８日朝まで強風に注意してください。薩摩、大隅地方では２８日昼前まで、種子島・屋久島地方では２８日夕方まで、高波に注意してください。",
-      "observedAt": "2025-11-27T18:42:10.000Z",
-      "placeCountry": "日本",
-      "placePref": "鹿児島県",
-      "placeCity": null,
-      "latitude": 31.521587,
-      "longitude": 130.5474077
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251127183941_0_VPWW53_170000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【石川県気象警報・注意報】石川県では、強風や高波、高潮、竜巻などの激しい突風、急な強い雨、落雷に注意してください。",
-      "observedAt": "2025-11-27T18:39:41.000Z",
-      "placeCountry": "日本",
-      "placePref": "石川県",
-      "placeCity": null,
-      "latitude": 36.9888678,
-      "longitude": 136.8163563
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251127182510_0_VPWW53_050000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【秋田県気象警報・注意報】沿岸では、土砂災害や高波に注意してください。秋田県では、強風や竜巻などの激しい突風、落雷に注意してください。",
-      "observedAt": "2025-11-27T18:25:09.000Z",
-      "placeCountry": "日本",
-      "placePref": "秋田県",
-      "placeCity": null,
-      "latitude": 39.6898802,
-      "longitude": 140.342608
-    },
     {
       "originId": "https://www.data.jma.go.jp/developer/xml/data/20251127174713_0_VPWW53_050000.xml",
       "title": "気象特別警報・警報・注意報",
@@ -312,6 +246,39 @@
       "placeCity": null,
       "latitude": 34.2379614,
       "longitude": 131.5873845
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251127090314_0_VPWW53_410000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【佐賀県気象警報・注意報】佐賀県では、２８日明け方まで強風に注意してください。北部では、２８日明け方まで高波に注意してください。",
+      "observedAt": "2025-11-27T09:03:13.000Z",
+      "placeCountry": "日本",
+      "placePref": "佐賀県",
+      "placeCity": null,
+      "latitude": 33.2185408,
+      "longitude": 130.1296585
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251127090311_0_VPWW53_420000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【長崎県気象警報・注意報】長崎県では、強風や高波に注意してください。南部、北部では、空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
+      "observedAt": "2025-11-27T09:03:10.000Z",
+      "placeCountry": "日本",
+      "placePref": "長崎県",
+      "placeCity": null,
+      "latitude": 33.1154683,
+      "longitude": 129.7874339
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251127080425_0_VPWW53_450000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【宮崎県気象警報・注意報】南部山沿い、北部山沿いでは、２７日夜遅くまで急な強い雨や落雷に注意してください。",
+      "observedAt": "2025-11-27T08:04:25.000Z",
+      "placeCountry": "日本",
+      "placePref": "宮崎県",
+      "placeCity": null,
+      "latitude": 32.097681,
+      "longitude": 131.294542
     }
   ]
 }
