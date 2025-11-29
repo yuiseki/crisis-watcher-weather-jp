@@ -1,21 +1,10 @@
 {
-  "generatedAt": "2025-11-29T22:07:27.095Z",
+  "generatedAt": "2025-11-29T21:06:46.897Z",
   "timeZone": "Asia/Tokyo",
-  "hourPath": "2025/11/30/07",
+  "hourPath": "2025/11/30/06",
   "source": "http://www.data.jma.go.jp/developer/xml/feed/extra.xml",
-  "totalItems": 22,
+  "totalItems": 26,
   "items": [
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251129220331_0_VPWW53_050000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【秋田県気象警報・注意報】沿岸では、強風に注意してください。秋田県では、竜巻などの激しい突風や急な強い雨、落雷、濃霧による視程障害に注意してください。",
-      "observedAt": "2025-11-29T22:03:30.000Z",
-      "placeCountry": "日本",
-      "placePref": "秋田県",
-      "placeCity": null,
-      "latitude": 39.6898802,
-      "longitude": 140.342608
-    },
     {
       "originId": "https://www.data.jma.go.jp/developer/xml/data/20251129204133_0_VPWW53_420000.xml",
       "title": "気象特別警報・警報・注意報",
@@ -246,6 +235,61 @@
       "placeCity": null,
       "latitude": 36.9888678,
       "longitude": 136.8163563
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251129120132_0_VPWW53_130000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【東京都気象警報・注意報】注意報を解除します。",
+      "observedAt": "2025-11-29T12:01:32.000Z",
+      "placeCountry": "日本",
+      "placePref": "東京都",
+      "placeCity": null,
+      "latitude": 35.6828387,
+      "longitude": 139.7594549
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251129114545_0_VPWW53_150000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【新潟県気象警報・注意報】下越、中越では、３０日未明から３０日昼前まで濃霧による視程障害に注意してください。下越、中越、上越では、３０日朝は霜に対する農作物の管理に注意してください。",
+      "observedAt": "2025-11-29T11:45:45.000Z",
+      "placeCountry": "日本",
+      "placePref": "新潟県",
+      "placeCity": null,
+      "latitude": 37.6452283,
+      "longitude": 138.7669125
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251129113637_0_VPWW53_300000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【和歌山県気象警報・注意報】注意報を解除します。",
+      "observedAt": "2025-11-29T11:36:36.000Z",
+      "placeCountry": "日本",
+      "placePref": "和歌山県",
+      "placeCity": null,
+      "latitude": 33.8070292,
+      "longitude": 135.5930743
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251129110913_0_VPWW53_260000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【京都府気象警報・注意報】京都府では、３０日未明から３０日昼前まで濃霧による視程障害に注意してください。",
+      "observedAt": "2025-11-29T11:09:12.000Z",
+      "placeCountry": "日本",
+      "placePref": "京都府",
+      "placeCity": null,
+      "latitude": 35.242552,
+      "longitude": 135.454601
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251129110646_0_VPWW53_280000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【兵庫県気象警報・注意報】兵庫県では、３０日未明から３０日昼前まで濃霧による視程障害に注意してください。",
+      "observedAt": "2025-11-29T11:06:45.000Z",
+      "placeCountry": "日本",
+      "placePref": "兵庫県",
+      "placeCity": null,
+      "latitude": 34.914934,
+      "longitude": 134.860666
     }
   ]
 }
