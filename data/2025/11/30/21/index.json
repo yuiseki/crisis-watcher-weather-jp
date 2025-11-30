@@ -1,32 +1,10 @@
 {
-  "generatedAt": "2025-11-30T13:12:58.653Z",
+  "generatedAt": "2025-11-30T12:12:22.597Z",
   "timeZone": "Asia/Tokyo",
-  "hourPath": "2025/11/30/22",
+  "hourPath": "2025/11/30/21",
   "source": "http://www.data.jma.go.jp/developer/xml/feed/extra.xml",
   "totalItems": 28,
   "items": [
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251130124215_0_VPWW53_460040.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【奄美地方（鹿児島県）気象警報・注意報】奄美地方では、１日朝は霜に対する農作物の管理に注意してください。",
-      "observedAt": "2025-11-30T12:42:14.000Z",
-      "placeCountry": "日本",
-      "placePref": "鹿児島県",
-      "placeCity": null,
-      "latitude": 31.521587,
-      "longitude": 130.5474077
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251130124210_0_VPWW53_450000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【宮崎県気象警報・注意報】注意報を解除します。",
-      "observedAt": "2025-11-30T12:42:09.000Z",
-      "placeCountry": "日本",
-      "placePref": "宮崎県",
-      "placeCity": null,
-      "latitude": 32.097681,
-      "longitude": 131.294542
-    },
     {
       "originId": "https://www.data.jma.go.jp/developer/xml/data/20251130121032_0_VPWW53_170000.xml",
       "title": "気象特別警報・警報・注意報",
@@ -312,6 +290,28 @@
       "placeCity": null,
       "latitude": 35.7867449,
       "longitude": 137.0460777
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251130022239_0_VPWW53_200000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【長野県気象警報・注意報】注意報を解除します。",
+      "observedAt": "2025-11-30T02:22:39.000Z",
+      "placeCountry": "日本",
+      "placePref": "長野県",
+      "placeCity": null,
+      "latitude": 36.1143945,
+      "longitude": 138.0319015
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251130021404_0_VPWW53_260000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【京都府気象警報・注意報】注意報を解除します。",
+      "observedAt": "2025-11-30T02:14:04.000Z",
+      "placeCountry": "日本",
+      "placePref": "京都府",
+      "placeCity": null,
+      "latitude": 35.242552,
+      "longitude": 135.454601
     }
   ]
 }
