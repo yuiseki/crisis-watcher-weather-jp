@@ -1,21 +1,10 @@
 {
-  "generatedAt": "2025-12-01T15:08:48.132Z",
+  "generatedAt": "2025-12-01T14:09:05.489Z",
   "timeZone": "Asia/Tokyo",
-  "hourPath": "2025/12/02/00",
+  "hourPath": "2025/12/01/23",
   "source": "http://www.data.jma.go.jp/developer/xml/feed/extra.xml",
-  "totalItems": 49,
+  "totalItems": 48,
   "items": [
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251201142920_0_VPWW53_050000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【秋田県気象警報・注意報】秋田県では、２日昼前まで濃霧による視程障害に注意してください。",
-      "observedAt": "2025-12-01T14:29:19.000Z",
-      "placeCountry": "日本",
-      "placePref": "秋田県",
-      "placeCity": null,
-      "latitude": 39.6898802,
-      "longitude": 140.342608
-    },
     {
       "originId": "https://www.data.jma.go.jp/developer/xml/data/20251201140822_0_VPWW53_150000.xml",
       "title": "気象特別警報・警報・注意報",
