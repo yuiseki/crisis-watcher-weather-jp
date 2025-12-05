@@ -1,21 +1,10 @@
 {
-  "generatedAt": "2025-12-05T10:08:40.414Z",
+  "generatedAt": "2025-12-05T09:09:32.914Z",
   "timeZone": "Asia/Tokyo",
-  "hourPath": "2025/12/05/19",
+  "hourPath": "2025/12/05/18",
   "source": "http://www.data.jma.go.jp/developer/xml/feed/extra.xml",
-  "totalItems": 83,
+  "totalItems": 86,
   "items": [
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251205092844_0_VPWW53_240000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【三重県気象警報・注意報】注意報を解除します。",
-      "observedAt": "2025-12-05T09:28:44.000Z",
-      "placeCountry": "日本",
-      "placePref": "三重県",
-      "placeCity": null,
-      "latitude": 34.7339685,
-      "longitude": 136.5154489
-    },
     {
       "originId": "https://www.data.jma.go.jp/developer/xml/data/20251205085609_0_VPWW53_130000.xml",
       "title": "気象特別警報・警報・注意報",
@@ -917,6 +906,50 @@
       "placeCity": null,
       "latitude": 37.6452283,
       "longitude": 138.7669125
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251204232542_0_VPWW53_410000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【佐賀県気象警報・注意報】佐賀県では、５日昼前まで強風に、５日まで空気の乾燥した状態が続くため、火の取り扱いに注意してください。北部では、５日昼前まで高波に注意してください。",
+      "observedAt": "2025-12-04T23:25:42.000Z",
+      "placeCountry": "日本",
+      "placePref": "佐賀県",
+      "placeCity": null,
+      "latitude": 33.2185408,
+      "longitude": 130.1296585
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251204232541_0_VPWW53_420000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【長崎県気象警報・注意報】長崎県では、強風と、空気の乾燥した状態が続くため火の取り扱いに注意してください。北部、壱岐・対馬、五島では、高波に注意してください。壱岐・対馬では、高潮に注意してください。",
+      "observedAt": "2025-12-04T23:25:41.000Z",
+      "placeCountry": "日本",
+      "placePref": "長崎県",
+      "placeCity": null,
+      "latitude": 33.1154683,
+      "longitude": 129.7874339
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251204231341_0_VPWW53_170000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【石川県気象警報・注意報】石川県では、５日昼前まで強風に、５日夜のはじめ頃まで高波に、５日夕方まで竜巻などの激しい突風や落雷に注意してください。能登では、５日昼過ぎから６日明け方まで高潮に注意してください。",
+      "observedAt": "2025-12-04T23:13:40.000Z",
+      "placeCountry": "日本",
+      "placePref": "石川県",
+      "placeCity": null,
+      "latitude": 36.9888678,
+      "longitude": 136.8163563
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251204230731_0_VPWW53_440000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【大分県気象警報・注意報】中部、北部、南部では、強風や高波に注意してください。大分県では、空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
+      "observedAt": "2025-12-04T23:07:30.000Z",
+      "placeCountry": "日本",
+      "placePref": "大分県",
+      "placeCity": null,
+      "latitude": 33.1819875,
+      "longitude": 131.4270217
     }
   ]
 }
