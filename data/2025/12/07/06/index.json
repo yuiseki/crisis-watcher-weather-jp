@@ -1,65 +1,10 @@
 {
-  "generatedAt": "2025-12-06T22:07:32.301Z",
+  "generatedAt": "2025-12-06T21:06:29.147Z",
   "timeZone": "Asia/Tokyo",
-  "hourPath": "2025/12/07/07",
+  "hourPath": "2025/12/07/06",
   "source": "http://www.data.jma.go.jp/developer/xml/feed/extra.xml",
-  "totalItems": 30,
+  "totalItems": 35,
   "items": [
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251206215011_0_VPWW53_280000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【兵庫県気象警報・注意報】注意報を解除します。",
-      "observedAt": "2025-12-06T21:50:10.000Z",
-      "placeCountry": "日本",
-      "placePref": "兵庫県",
-      "placeCity": null,
-      "latitude": 34.914934,
-      "longitude": 134.860666
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251206213645_0_VPWW53_170000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【石川県気象警報・注意報】能登では、強風に注意してください。石川県では、高波や落雷に注意してください。",
-      "observedAt": "2025-12-06T21:36:44.000Z",
-      "placeCountry": "日本",
-      "placePref": "石川県",
-      "placeCity": null,
-      "latitude": 36.9888678,
-      "longitude": 136.8163563
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251206213018_0_VPWW53_150000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【新潟県気象警報・注意報】新潟県では、強風や高波、落雷に注意してください。中越では、なだれに注意してください。",
-      "observedAt": "2025-12-06T21:30:17.000Z",
-      "placeCountry": "日本",
-      "placePref": "新潟県",
-      "placeCity": null,
-      "latitude": 37.6452283,
-      "longitude": 138.7669125
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251206211510_0_VPWW53_060000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【山形県気象警報・注意報】山形県では、高波や竜巻などの激しい突風、急な強い雨、落雷に注意してください。村山、置賜、最上では、濃霧による視程障害に注意してください。",
-      "observedAt": "2025-12-06T21:15:09.000Z",
-      "placeCountry": "日本",
-      "placePref": "山形県",
-      "placeCity": null,
-      "latitude": 38.4746705,
-      "longitude": 140.083237
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251206210933_0_VPWW53_050000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【秋田県気象警報・注意報】秋田県では、土砂災害や竜巻などの激しい突風、落雷、濃霧による視程障害に注意してください。沿岸では、河川の増水や強風、高波に注意してください。",
-      "observedAt": "2025-12-06T21:09:32.000Z",
-      "placeCountry": "日本",
-      "placePref": "秋田県",
-      "placeCity": null,
-      "latitude": 39.6898802,
-      "longitude": 140.342608
-    },
     {
       "originId": "https://www.data.jma.go.jp/developer/xml/data/20251206192945_0_VPWW53_400000.xml",
       "title": "気象特別警報・警報・注意報",
@@ -334,6 +279,116 @@
       "placeCity": null,
       "latitude": 34.2379614,
       "longitude": 131.5873845
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251206114632_0_VPWW53_130000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【東京都気象警報・注意報】小笠原諸島では、７日未明から高波に注意してください。東京地方では、７日まで空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
+      "observedAt": "2025-12-06T11:46:31.000Z",
+      "placeCountry": "日本",
+      "placePref": "東京都",
+      "placeCity": null,
+      "latitude": 35.6828387,
+      "longitude": 139.7594549
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251206114321_0_VPWW53_060000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【山形県気象警報・注意報】庄内では、強風や高波に注意してください。庄内、最上では、急な強い雨や落雷に注意してください。村山、置賜、最上では、濃霧による視程障害に注意してください。",
+      "observedAt": "2025-12-06T11:43:20.000Z",
+      "placeCountry": "日本",
+      "placePref": "山形県",
+      "placeCity": null,
+      "latitude": 38.4746705,
+      "longitude": 140.083237
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251206113927_0_VPWW53_210000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【岐阜県気象警報・注意報】岐阜県では、７日昼前まで濃霧による視程障害に注意してください。美濃地方では、７日朝は霜に対する農作物の管理に注意してください。",
+      "observedAt": "2025-12-06T11:39:26.000Z",
+      "placeCountry": "日本",
+      "placePref": "岐阜県",
+      "placeCity": null,
+      "latitude": 35.7867449,
+      "longitude": 137.0460777
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251206112535_0_VPWW53_050000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【秋田県気象警報・注意報】沿岸では、強風や高波に注意してください。秋田県では、竜巻などの激しい突風や急な強い雨、落雷、濃霧による視程障害に注意してください。",
+      "observedAt": "2025-12-06T11:25:34.000Z",
+      "placeCountry": "日本",
+      "placePref": "秋田県",
+      "placeCity": null,
+      "latitude": 39.6898802,
+      "longitude": 140.342608
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251206111835_0_VPWW53_030000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【岩手県気象警報・注意報】岩手県では、７日昼前まで濃霧による視程障害に注意してください。",
+      "observedAt": "2025-12-06T11:18:35.000Z",
+      "placeCountry": "日本",
+      "placePref": "岩手県",
+      "placeCity": null,
+      "latitude": 39.5713763,
+      "longitude": 141.4253574
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251206111138_0_VPWW53_280000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【兵庫県気象警報・注意報】兵庫県では、７日未明から７日昼前まで濃霧による視程障害に注意してください。",
+      "observedAt": "2025-12-06T11:11:37.000Z",
+      "placeCountry": "日本",
+      "placePref": "兵庫県",
+      "placeCity": null,
+      "latitude": 34.914934,
+      "longitude": 134.860666
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251206110218_0_VPWW53_260000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【京都府気象警報・注意報】京都府では、７日未明から７日昼前まで濃霧による視程障害に注意してください。",
+      "observedAt": "2025-12-06T11:02:18.000Z",
+      "placeCountry": "日本",
+      "placePref": "京都府",
+      "placeCity": null,
+      "latitude": 35.242552,
+      "longitude": 135.454601
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251206105743_0_VPWW53_200000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【長野県気象警報・注意報】北部では、７日昼前まで濃霧による視程障害に注意してください。",
+      "observedAt": "2025-12-06T10:57:43.000Z",
+      "placeCountry": "日本",
+      "placePref": "長野県",
+      "placeCity": null,
+      "latitude": 36.1143945,
+      "longitude": 138.0319015
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251206102432_0_VPWW53_060000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【山形県気象警報・注意報】庄内では、高波に注意してください。庄内、最上では、急な強い雨や落雷に注意してください。村山、置賜、最上では、濃霧による視程障害に注意してください。",
+      "observedAt": "2025-12-06T10:24:31.000Z",
+      "placeCountry": "日本",
+      "placePref": "山形県",
+      "placeCity": null,
+      "latitude": 38.4746705,
+      "longitude": 140.083237
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251206102217_0_VPWW53_070000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【福島県気象警報・注意報】会津では、７日昼前まで濃霧による視程障害に注意してください。",
+      "observedAt": "2025-12-06T10:22:16.000Z",
+      "placeCountry": "日本",
+      "placePref": "福島県",
+      "placeCity": null,
+      "latitude": 37.3662591,
+      "longitude": 140.2511854
     }
   ]
 }
