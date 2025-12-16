@@ -1,21 +1,10 @@
 {
-  "generatedAt": "2025-12-16T15:09:58.403Z",
+  "generatedAt": "2025-12-16T14:09:41.523Z",
   "timeZone": "Asia/Tokyo",
-  "hourPath": "2025/12/17/00",
+  "hourPath": "2025/12/16/23",
   "source": "http://www.data.jma.go.jp/developer/xml/feed/extra.xml",
-  "totalItems": 29,
+  "totalItems": 28,
   "items": [
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251216145744_0_VPWW53_150000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【新潟県気象警報・注意報】下越、佐渡では、１７日明け方まで高波に注意してください。新潟県では、１７日明け方まで落雷に注意してください。",
-      "observedAt": "2025-12-16T14:57:44.000Z",
-      "placeCountry": "日本",
-      "placePref": "新潟県",
-      "placeCity": null,
-      "latitude": 37.6452283,
-      "longitude": 138.7669125
-    },
     {
       "originId": "https://www.data.jma.go.jp/developer/xml/data/20251216135417_0_VPWW53_220000.xml",
       "title": "気象特別警報・警報・注意報",
