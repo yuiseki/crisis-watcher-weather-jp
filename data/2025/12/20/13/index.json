@@ -1,43 +1,10 @@
 {
-  "generatedAt": "2025-12-20T05:08:05.988Z",
+  "generatedAt": "2025-12-20T04:12:30.245Z",
   "timeZone": "Asia/Tokyo",
-  "hourPath": "2025/12/20/14",
+  "hourPath": "2025/12/20/13",
   "source": "http://www.data.jma.go.jp/developer/xml/feed/extra.xml",
-  "totalItems": 38,
+  "totalItems": 39,
   "items": [
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251220050730_0_VPWW53_380000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【愛媛県気象警報・注意報】愛媛県では、２０日夜のはじめ頃から２１日昼前まで竜巻などの激しい突風や急な強い雨、落雷に注意してください。",
-      "observedAt": "2025-12-20T05:07:29.000Z",
-      "placeCountry": "日本",
-      "placePref": "愛媛県",
-      "placeCity": null,
-      "latitude": 33.6013646,
-      "longitude": 132.8185275
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251220044017_0_VPWW53_120000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【千葉県気象警報・注意報】南部では、強風や高波に注意してください。",
-      "observedAt": "2025-12-20T04:40:17.000Z",
-      "placeCountry": "日本",
-      "placePref": "千葉県",
-      "placeCity": null,
-      "latitude": 35.549399,
-      "longitude": 140.2647303
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251220042712_0_VPWW53_130000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【東京都気象警報・注意報】伊豆諸島北部、伊豆諸島南部、小笠原諸島では、高波に注意してください。",
-      "observedAt": "2025-12-20T04:27:11.000Z",
-      "placeCountry": "日本",
-      "placePref": "東京都",
-      "placeCity": null,
-      "latitude": 35.6828387,
-      "longitude": 139.7594549
-    },
     {
       "originId": "https://www.data.jma.go.jp/developer/xml/data/20251220025411_0_VPWW53_020000.xml",
       "title": "気象特別警報・警報・注意報",
@@ -422,6 +389,50 @@
       "placeCity": null,
       "latitude": 35.247154,
       "longitude": 136.109385
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251219190616_0_VPWW53_300000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【和歌山県気象警報・注意報】注意報を解除します。",
+      "observedAt": "2025-12-19T19:06:16.000Z",
+      "placeCountry": "日本",
+      "placePref": "和歌山県",
+      "placeCity": null,
+      "latitude": 33.8070292,
+      "longitude": 135.5930743
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251219190110_0_VPWW53_130000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【東京都気象警報・注意報】小笠原諸島では、高波に注意してください。",
+      "observedAt": "2025-12-19T19:01:10.000Z",
+      "placeCountry": "日本",
+      "placePref": "東京都",
+      "placeCity": null,
+      "latitude": 35.6828387,
+      "longitude": 139.7594549
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251219173208_0_VPWW53_420000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【長崎県気象警報・注意報】長崎県では、２０日明け方まで落雷に注意してください。",
+      "observedAt": "2025-12-19T17:32:07.000Z",
+      "placeCountry": "日本",
+      "placePref": "長崎県",
+      "placeCity": null,
+      "latitude": 33.1154683,
+      "longitude": 129.7874339
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251219170222_0_VPWW53_200000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【長野県気象警報・注意報】北部では、２０日昼前まで濃霧による視程障害に、２１日までなだれに注意してください。",
+      "observedAt": "2025-12-19T17:02:21.000Z",
+      "placeCountry": "日本",
+      "placePref": "長野県",
+      "placeCity": null,
+      "latitude": 36.1143945,
+      "longitude": 138.0319015
     }
   ]
 }
