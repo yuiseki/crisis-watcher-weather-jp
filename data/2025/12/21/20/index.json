@@ -1,87 +1,10 @@
 {
-  "generatedAt": "2025-12-21T12:12:48.539Z",
+  "generatedAt": "2025-12-21T11:06:42.152Z",
   "timeZone": "Asia/Tokyo",
-  "hourPath": "2025/12/21/21",
+  "hourPath": "2025/12/21/20",
   "source": "http://www.data.jma.go.jp/developer/xml/feed/extra.xml",
-  "totalItems": 49,
+  "totalItems": 55,
   "items": [
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251221120722_0_VPWW53_050000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【秋田県気象警報・注意報】沿岸では、２２日朝まで風雪に、２２日夕方まで高波に注意してください。",
-      "observedAt": "2025-12-21T12:07:21.000Z",
-      "placeCountry": "日本",
-      "placePref": "秋田県",
-      "placeCity": null,
-      "latitude": 39.6898802,
-      "longitude": 140.342608
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251221120613_0_VPWW53_220000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【静岡県気象警報・注意報】中部、西部では２２日昼前まで、伊豆では２２日明け方から２２日昼過ぎまで、強風に注意してください。中部、西部では、２２日昼前まで高波に注意してください。",
-      "observedAt": "2025-12-21T12:06:12.000Z",
-      "placeCountry": "日本",
-      "placePref": "静岡県",
-      "placeCity": null,
-      "latitude": 34.9332488,
-      "longitude": 138.0955398
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251221115619_0_VPWW53_030000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【岩手県気象警報・注意報】沿岸北部、沿岸南部では、２２日昼前まで強風に、２２日明け方まで高波に注意してください。",
-      "observedAt": "2025-12-21T11:56:19.000Z",
-      "placeCountry": "日本",
-      "placePref": "岩手県",
-      "placeCity": null,
-      "latitude": 39.5713763,
-      "longitude": 141.4253574
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251221114418_0_VPWW53_350000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【山口県気象警報・注意報】西部、東部、北部では、強風や高波に注意してください。",
-      "observedAt": "2025-12-21T11:44:18.000Z",
-      "placeCountry": "日本",
-      "placePref": "山口県",
-      "placeCity": null,
-      "latitude": 34.2379614,
-      "longitude": 131.5873845
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251221114224_0_VPWW53_130000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【東京都気象警報・注意報】東京地方、伊豆諸島北部、伊豆諸島南部では、強風に注意してください。東京都では、高波に注意してください。伊豆諸島南部では、急な強い雨や落雷に注意してください。",
-      "observedAt": "2025-12-21T11:42:23.000Z",
-      "placeCountry": "日本",
-      "placePref": "東京都",
-      "placeCity": null,
-      "latitude": 35.6828387,
-      "longitude": 139.7594549
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251221113851_0_VPWW53_410000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【佐賀県気象警報・注意報】北部では、２２日昼前まで強風に注意してください。",
-      "observedAt": "2025-12-21T11:38:51.000Z",
-      "placeCountry": "日本",
-      "placePref": "佐賀県",
-      "placeCity": null,
-      "latitude": 33.2185408,
-      "longitude": 130.1296585
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251221113819_0_VPWW53_020000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【青森県気象警報・注意報】津軽では、２２日未明から２２日昼過ぎまで高波に注意してください。",
-      "observedAt": "2025-12-21T11:38:18.000Z",
-      "placeCountry": "日本",
-      "placePref": "青森県",
-      "placeCity": null,
-      "latitude": 40.886943,
-      "longitude": 140.590121
-    },
     {
       "originId": "https://www.data.jma.go.jp/developer/xml/data/20251221110437_0_VPWW53_150000.xml",
       "title": "気象特別警報・警報・注意報",
@@ -543,6 +466,149 @@
       "placeCity": null,
       "latitude": 33.9196418,
       "longitude": 134.2509634
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251221015441_0_VPWW53_040000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【宮城県気象警報・注意報】東部では、２２日昼前まで強風に、２１日夜遅くまで高波に注意してください。",
+      "observedAt": "2025-12-21T01:54:41.000Z",
+      "placeCountry": "日本",
+      "placePref": "宮城県",
+      "placeCity": null,
+      "latitude": 38.3880155,
+      "longitude": 140.9761025
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251221013648_0_VPWW53_440000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【大分県気象警報・注意報】中部、北部、南部では、強風や高波に注意してください。",
+      "observedAt": "2025-12-21T01:36:47.000Z",
+      "placeCountry": "日本",
+      "placePref": "大分県",
+      "placeCity": null,
+      "latitude": 33.1819875,
+      "longitude": 131.4270217
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251221012412_0_VPWW53_070000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【福島県気象警報・注意報】浜通りでは、強風や高波に注意してください。",
+      "observedAt": "2025-12-21T01:24:12.000Z",
+      "placeCountry": "日本",
+      "placePref": "福島県",
+      "placeCity": null,
+      "latitude": 37.3662591,
+      "longitude": 140.2511854
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251221012006_0_VPWW53_170000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【石川県気象警報・注意報】能登では、２１日昼過ぎから２２日明け方まで高潮に注意してください。",
+      "observedAt": "2025-12-21T01:20:06.000Z",
+      "placeCountry": "日本",
+      "placePref": "石川県",
+      "placeCity": null,
+      "latitude": 36.9888678,
+      "longitude": 136.8163563
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251221011930_0_VPWW53_150000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【新潟県気象警報・注意報】佐渡では強風に、下越、佐渡では高波に、新潟県では落雷に、中越、上越では融雪による土砂災害に、中越ではなだれに注意してください。",
+      "observedAt": "2025-12-21T01:19:29.000Z",
+      "placeCountry": "日本",
+      "placePref": "新潟県",
+      "placeCity": null,
+      "latitude": 37.6452283,
+      "longitude": 138.7669125
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251221011351_0_VPWW53_230000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【愛知県気象警報・注意報】愛知県では、強風や高波に注意してください。東部では、急な強い雨や落雷に注意してください。",
+      "observedAt": "2025-12-21T01:13:50.000Z",
+      "placeCountry": "日本",
+      "placePref": "愛知県",
+      "placeCity": null,
+      "latitude": 34.9991645,
+      "longitude": 137.254574
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251221011228_0_VPWW53_380000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【愛媛県気象警報・注意報】南予では、２２日昼前まで強風や高波に注意してください。",
+      "observedAt": "2025-12-21T01:12:28.000Z",
+      "placeCountry": "日本",
+      "placePref": "愛媛県",
+      "placeCity": null,
+      "latitude": 33.6013646,
+      "longitude": 132.8185275
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251221011220_0_VPWW53_030000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【岩手県気象警報・注意報】岩手県では、強風や高波に注意してください。内陸では、なだれに注意してください。",
+      "observedAt": "2025-12-21T01:12:19.000Z",
+      "placeCountry": "日本",
+      "placePref": "岩手県",
+      "placeCity": null,
+      "latitude": 39.5713763,
+      "longitude": 141.4253574
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251221011146_0_VPWW53_240000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【三重県気象警報・注意報】三重県では、強風に注意してください。南部では、高波や急な強い雨、落雷に注意してください。",
+      "observedAt": "2025-12-21T01:11:45.000Z",
+      "placeCountry": "日本",
+      "placePref": "三重県",
+      "placeCity": null,
+      "latitude": 34.7339685,
+      "longitude": 136.5154489
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251221010839_0_VPWW53_350000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【山口県気象警報・注意報】山口県では、強風に注意してください。西部、東部、北部では、高波に注意してください。",
+      "observedAt": "2025-12-21T01:08:38.000Z",
+      "placeCountry": "日本",
+      "placePref": "山口県",
+      "placeCity": null,
+      "latitude": 34.2379614,
+      "longitude": 131.5873845
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251221010830_0_VPWW53_210000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【岐阜県気象警報・注意報】注意報を解除します。",
+      "observedAt": "2025-12-21T01:08:30.000Z",
+      "placeCountry": "日本",
+      "placePref": "岐阜県",
+      "placeCity": null,
+      "latitude": 35.7867449,
+      "longitude": 137.0460777
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251221010734_0_VPWW53_020000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【青森県気象警報・注意報】津軽では、２１日昼過ぎまで土砂災害や高波に注意してください。青森県では、２１日昼過ぎまで落雷に注意してください。津軽、三八上北では、２１日までなだれに注意してください。",
+      "observedAt": "2025-12-21T01:07:33.000Z",
+      "placeCountry": "日本",
+      "placePref": "青森県",
+      "placeCity": null,
+      "latitude": 40.886943,
+      "longitude": 140.590121
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20251221010534_0_VPWW53_130000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【東京都気象警報・注意報】東京地方、伊豆諸島南部では、強風に注意してください。東京都では、高波に注意してください。伊豆諸島北部、伊豆諸島南部では、急な強い雨や落雷に注意してください。",
+      "observedAt": "2025-12-21T01:05:34.000Z",
+      "placeCountry": "日本",
+      "placePref": "東京都",
+      "placeCity": null,
+      "latitude": 35.6828387,
+      "longitude": 139.7594549
     }
   ]
 }
