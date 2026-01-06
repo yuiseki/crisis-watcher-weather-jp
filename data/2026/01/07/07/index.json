@@ -1,164 +1,10 @@
 {
-  "generatedAt": "2026-01-06T23:08:28.123Z",
+  "generatedAt": "2026-01-06T22:08:34.829Z",
   "timeZone": "Asia/Tokyo",
-  "hourPath": "2026/01/07/08",
+  "hourPath": "2026/01/07/07",
   "source": "http://www.data.jma.go.jp/developer/xml/feed/extra.xml",
-  "totalItems": 51,
+  "totalItems": 43,
   "items": [
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260106225615_0_VPWW53_110000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【埼玉県気象警報・注意報】南部、北部では、９日まで空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
-      "observedAt": "2026-01-06T22:56:14.000Z",
-      "placeCountry": "日本",
-      "placePref": "埼玉県",
-      "placeCity": null,
-      "latitude": 35.9754168,
-      "longitude": 139.4160114
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260106225510_0_VPWW53_200000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【長野県気象警報・注意報】北部では、７日昼前まで濃霧による視程障害に注意してください。",
-      "observedAt": "2026-01-06T22:55:09.000Z",
-      "placeCountry": "日本",
-      "placePref": "長野県",
-      "placeCity": null,
-      "latitude": 36.1143945,
-      "longitude": 138.0319015
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260106225106_0_VPWW53_350000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【山口県気象警報・注意報】山口県では、７日昼前から強風に、８日まで空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
-      "observedAt": "2026-01-06T22:51:06.000Z",
-      "placeCountry": "日本",
-      "placePref": "山口県",
-      "placeCity": null,
-      "latitude": 34.2379614,
-      "longitude": 131.5873845
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260106224818_0_VPWW53_170000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【石川県気象警報・注意報】能登では、強風に注意してください。石川県では、竜巻などの激しい突風や落雷に注意してください。",
-      "observedAt": "2026-01-06T22:48:17.000Z",
-      "placeCountry": "日本",
-      "placePref": "石川県",
-      "placeCity": null,
-      "latitude": 36.9888678,
-      "longitude": 136.8163563
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260106224808_0_VPWW53_060000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【山形県気象警報・注意報】庄内では、７日昼前から強風に注意してください。村山、置賜、最上では、７日昼前まで濃霧による視程障害に注意してください。",
-      "observedAt": "2026-01-06T22:48:07.000Z",
-      "placeCountry": "日本",
-      "placePref": "山形県",
-      "placeCity": null,
-      "latitude": 38.4746705,
-      "longitude": 140.083237
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260106224228_0_VPWW53_150000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【新潟県気象警報・注意報】新潟県では強風に、佐渡では高波に、下越、佐渡では竜巻などの激しい突風や落雷に、下越、中越、上越では濃霧による視程障害に注意してください。",
-      "observedAt": "2026-01-06T22:42:27.000Z",
-      "placeCountry": "日本",
-      "placePref": "新潟県",
-      "placeCity": null,
-      "latitude": 37.6452283,
-      "longitude": 138.7669125
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260106224027_0_VPWW53_160000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【富山県気象警報・注意報】富山県では、７日昼過ぎから竜巻などの激しい突風や落雷に注意してください。",
-      "observedAt": "2026-01-06T22:40:27.000Z",
-      "placeCountry": "日本",
-      "placePref": "富山県",
-      "placeCity": null,
-      "latitude": 36.6468015,
-      "longitude": 137.2183531
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260106223404_0_VPWW53_020000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【青森県気象警報・注意報】青森県では、７日昼過ぎから７日夜遅くまで竜巻などの激しい突風や落雷に、７日まで低温に注意してください。津軽、三八上北では、８日までなだれに注意してください。",
-      "observedAt": "2026-01-06T22:34:03.000Z",
-      "placeCountry": "日本",
-      "placePref": "青森県",
-      "placeCity": null,
-      "latitude": 40.886943,
-      "longitude": 140.590121
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260106222621_0_VPWW53_400000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【福岡県気象警報・注意報】福岡、北九州地方では、７日昼過ぎから強風に注意してください。福岡県では、７日まで空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
-      "observedAt": "2026-01-06T22:26:20.000Z",
-      "placeCountry": "日本",
-      "placePref": "福岡県",
-      "placeCity": null,
-      "latitude": 33.6251241,
-      "longitude": 130.6180016
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260106222519_0_VPWW53_430000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【熊本県気象警報・注意報】天草・芦北地方では、７日昼過ぎから強風に注意してください。",
-      "observedAt": "2026-01-06T22:25:18.000Z",
-      "placeCountry": "日本",
-      "placePref": "熊本県",
-      "placeCity": null,
-      "latitude": 32.6450475,
-      "longitude": 130.6341345
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260106222347_0_VPWW53_420000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【長崎県気象警報・注意報】長崎県では、強風と、空気の乾燥した状態が続くため火の取り扱いに注意してください。",
-      "observedAt": "2026-01-06T22:23:46.000Z",
-      "placeCountry": "日本",
-      "placePref": "長崎県",
-      "placeCity": null,
-      "latitude": 33.1154683,
-      "longitude": 129.7874339
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260106222008_0_VPWW53_080000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【茨城県気象警報・注意報】注意報を解除します。",
-      "observedAt": "2026-01-06T22:20:07.000Z",
-      "placeCountry": "日本",
-      "placePref": "茨城県",
-      "placeCity": null,
-      "latitude": 36.2869536,
-      "longitude": 140.4703384
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260106221421_0_VPWW53_030000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【岩手県気象警報・注意報】内陸では、７日昼前まで濃霧による視程障害に注意してください。",
-      "observedAt": "2026-01-06T22:14:20.000Z",
-      "placeCountry": "日本",
-      "placePref": "岩手県",
-      "placeCity": null,
-      "latitude": 39.5713763,
-      "longitude": 141.4253574
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260106221415_0_VPWW53_230000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【愛知県気象警報・注意報】注意報を解除します。",
-      "observedAt": "2026-01-06T22:14:14.000Z",
-      "placeCountry": "日本",
-      "placePref": "愛知県",
-      "placeCity": null,
-      "latitude": 34.9991645,
-      "longitude": 137.254574
-    },
     {
       "originId": "https://www.data.jma.go.jp/developer/xml/data/20260106212321_0_VPWW53_050000.xml",
       "title": "気象特別警報・警報・注意報",
@@ -565,6 +411,72 @@
       "placeCity": null,
       "latitude": 36.6468015,
       "longitude": 137.2183531
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260106124524_0_VPWW53_190000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【山梨県気象警報・注意報】注意報を解除します。",
+      "observedAt": "2026-01-06T12:45:24.000Z",
+      "placeCountry": "日本",
+      "placePref": "山梨県",
+      "placeCity": null,
+      "latitude": 35.6399328,
+      "longitude": 138.6380495
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260106124231_0_VPWW53_120000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【千葉県気象警報・注意報】北東部、南部では、７日朝から７日夕方まで急な強い雨や落雷に注意してください。",
+      "observedAt": "2026-01-06T12:42:31.000Z",
+      "placeCountry": "日本",
+      "placePref": "千葉県",
+      "placeCity": null,
+      "latitude": 35.549399,
+      "longitude": 140.2647303
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260106121422_0_VPWW53_020000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【青森県気象警報・注意報】津軽、三八上北では、７日までなだれに注意してください。青森県では、７日まで低温に注意してください。",
+      "observedAt": "2026-01-06T12:14:21.000Z",
+      "placeCountry": "日本",
+      "placePref": "青森県",
+      "placeCity": null,
+      "latitude": 40.886943,
+      "longitude": 140.590121
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260106120715_0_VPWW53_410000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【佐賀県気象警報・注意報】注意報を解除します。",
+      "observedAt": "2026-01-06T12:07:15.000Z",
+      "placeCountry": "日本",
+      "placePref": "佐賀県",
+      "placeCity": null,
+      "latitude": 33.2185408,
+      "longitude": 130.1296585
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260106115518_0_VPWW53_130000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【東京都気象警報・注意報】東京都では、高波や急な強い雨、落雷、空気の乾燥した状態が続くため、火の取り扱い、霜に対する農作物の管理に注意してください。",
+      "observedAt": "2026-01-06T11:55:17.000Z",
+      "placeCountry": "日本",
+      "placePref": "東京都",
+      "placeCity": null,
+      "latitude": 35.6828387,
+      "longitude": 139.7594549
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260106115407_0_VPWW53_050000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【秋田県気象警報・注意報】秋田県では、６日夜遅くまで大雪や高波、電線等への着雪に、６日までなだれに注意してください。",
+      "observedAt": "2026-01-06T11:54:06.000Z",
+      "placeCountry": "日本",
+      "placePref": "秋田県",
+      "placeCity": null,
+      "latitude": 39.6898802,
+      "longitude": 140.342608
     }
   ]
 }
