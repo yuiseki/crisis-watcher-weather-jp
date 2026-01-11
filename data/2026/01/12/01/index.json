@@ -1,21 +1,10 @@
 {
-  "generatedAt": "2026-01-11T17:07:03.620Z",
+  "generatedAt": "2026-01-11T16:09:09.073Z",
   "timeZone": "Asia/Tokyo",
-  "hourPath": "2026/01/12/02",
+  "hourPath": "2026/01/12/01",
   "source": "http://www.data.jma.go.jp/developer/xml/feed/extra.xml",
-  "totalItems": 75,
+  "totalItems": 83,
   "items": [
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260111165643_0_VPWW53_230000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【愛知県気象警報・注意報】西部では、１２日朝まで大雪に警戒してください。",
-      "observedAt": "2026-01-11T16:56:42.000Z",
-      "placeCountry": "日本",
-      "placePref": "愛知県",
-      "placeCity": null,
-      "latitude": 34.9991645,
-      "longitude": 137.254574
-    },
     {
       "originId": "https://www.data.jma.go.jp/developer/xml/data/20260111144341_0_VPWW53_140000.xml",
       "title": "気象特別警報・警報・注意報",
@@ -829,6 +818,105 @@
       "placeCity": null,
       "latitude": 34.914934,
       "longitude": 134.860666
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260111065640_0_VPWW53_150000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【新潟県気象警報・注意報】佐渡では、１２日明け方まで暴風雪に警戒してください。中越、上越では１２日明け方まで、下越、佐渡では１２日昼前まで、高波に警戒してください。",
+      "observedAt": "2026-01-11T06:56:39.000Z",
+      "placeCountry": "日本",
+      "placePref": "新潟県",
+      "placeCity": null,
+      "latitude": 37.6452283,
+      "longitude": 138.7669125
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260111065624_0_VPWW53_400000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【福岡県気象警報・注意報】福岡、北九州、筑後地方では強風に、福岡、北九州地方では高波に、福岡県では空気の乾燥した状態が続くため、火の取り扱いに、筑後地方では低温に注意してください。",
+      "observedAt": "2026-01-11T06:56:23.000Z",
+      "placeCountry": "日本",
+      "placePref": "福岡県",
+      "placeCity": null,
+      "latitude": 33.6251241,
+      "longitude": 130.6180016
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260111065526_0_VPWW53_440000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【大分県気象警報・注意報】中部、北部、南部では、強風や高波に注意してください。中部、北部、西部では、大雪に注意してください。大分県では、乾燥や低温に注意してください。",
+      "observedAt": "2026-01-11T06:55:25.000Z",
+      "placeCountry": "日本",
+      "placePref": "大分県",
+      "placeCity": null,
+      "latitude": 33.1819875,
+      "longitude": 131.4270217
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260111064931_0_VPWW53_340000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【広島県気象警報・注意報】南部では、１１日夜のはじめ頃まで風雪や高波に注意してください。広島県では、１２日明け方まで大雪や電線等への着雪に、１１日夜遅くまで落雷に注意してください。",
+      "observedAt": "2026-01-11T06:49:30.000Z",
+      "placeCountry": "日本",
+      "placePref": "広島県",
+      "placeCity": null,
+      "latitude": 34.5666725,
+      "longitude": 132.753565
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260111064037_0_VPWW53_410000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【佐賀県気象警報・注意報】佐賀県では、１１日夜遅くまで強風に、１１日まで空気の乾燥した状態が続くため、火の取り扱いに、１２日まで低温に注意してください。北部では、１１日夜遅くまで高波に注意してください。",
+      "observedAt": "2026-01-11T06:40:36.000Z",
+      "placeCountry": "日本",
+      "placePref": "佐賀県",
+      "placeCity": null,
+      "latitude": 33.2185408,
+      "longitude": 130.1296585
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260111063611_0_VPWW53_080000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【茨城県気象警報・注意報】茨城県では、強風や高波、急な強い雨、落雷と、空気の乾燥した状態が続くため火の取り扱いに注意してください。北部では、低温に注意してください。",
+      "observedAt": "2026-01-11T06:36:10.000Z",
+      "placeCountry": "日本",
+      "placePref": "茨城県",
+      "placeCity": null,
+      "latitude": 36.2869536,
+      "longitude": 140.4703384
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260111063139_0_VPWW53_130000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【東京都気象警報・注意報】伊豆諸島北部では、１１日夜遅くまで暴風に警戒してください。伊豆諸島北部では１２日明け方まで、伊豆諸島南部では１２日朝まで、高波に警戒してください。",
+      "observedAt": "2026-01-11T06:31:38.000Z",
+      "placeCountry": "日本",
+      "placePref": "東京都",
+      "placeCity": null,
+      "latitude": 35.6828387,
+      "longitude": 139.7594549
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260111060729_0_VPWW53_110000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【埼玉県気象警報・注意報】埼玉県では、強風に注意してください。南部、北部では、空気の乾燥した状態が続くため、火の取り扱いに注意してください。秩父地方では、低温に注意してください。",
+      "observedAt": "2026-01-11T06:07:28.000Z",
+      "placeCountry": "日本",
+      "placePref": "埼玉県",
+      "placeCity": null,
+      "latitude": 35.9754168,
+      "longitude": 139.4160114
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260111060543_0_VPWW53_450000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【宮崎県気象警報・注意報】南部平野部では、強風に注意してください。宮崎県では、空気の乾燥した状態が続くため、火の取り扱いに注意してください。北部平野部、北部山沿いでは、低温に注意してください。",
+      "observedAt": "2026-01-11T06:05:42.000Z",
+      "placeCountry": "日本",
+      "placePref": "宮崎県",
+      "placeCity": null,
+      "latitude": 32.097681,
+      "longitude": 131.294542
     }
   ]
 }
