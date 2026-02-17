@@ -1,21 +1,10 @@
 {
-  "generatedAt": "2026-02-17T16:25:16.197Z",
+  "generatedAt": "2026-02-17T15:23:53.393Z",
   "timeZone": "Asia/Tokyo",
-  "hourPath": "2026/02/18/01",
+  "hourPath": "2026/02/18/00",
   "source": "http://www.data.jma.go.jp/developer/xml/feed/extra.xml",
-  "totalItems": 23,
+  "totalItems": 28,
   "items": [
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260217160217_0_VPWW53_060000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【山形県気象警報・注意報】村山、置賜、最上では、１８日昼前まで濃霧による視程障害に、１８日まで低温に注意してください。",
-      "observedAt": "2026-02-17T16:02:17.000Z",
-      "placeCountry": "日本",
-      "placePref": "山形県",
-      "placeCity": null,
-      "latitude": 38.4746705,
-      "longitude": 140.083237
-    },
     {
       "originId": "https://www.data.jma.go.jp/developer/xml/data/20260217120245_0_VPWW53_130000.xml",
       "title": "気象特別警報・警報・注意報",
@@ -257,6 +246,72 @@
       "placeCity": null,
       "latitude": 32.6450475,
       "longitude": 130.6341345
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260217060105_0_VPWW53_090000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【栃木県気象警報・注意報】栃木県では、１９日まで空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
+      "observedAt": "2026-02-17T06:01:04.000Z",
+      "placeCountry": "日本",
+      "placePref": "栃木県",
+      "placeCity": null,
+      "latitude": 36.6782167,
+      "longitude": 139.8096549
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260217055514_0_VPWW53_240000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【三重県気象警報・注意報】三重県では、１９日まで空気の乾燥した状態が続くため、火の取り扱いに注意してください。北中部では、１８日まで低温に注意してください。",
+      "observedAt": "2026-02-17T05:55:14.000Z",
+      "placeCountry": "日本",
+      "placePref": "三重県",
+      "placeCity": null,
+      "latitude": 34.7339685,
+      "longitude": 136.5154489
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260217053416_0_VPWW53_170000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【石川県気象警報・注意報】石川県では、１８日まで低温に注意してください。",
+      "observedAt": "2026-02-17T05:34:16.000Z",
+      "placeCountry": "日本",
+      "placePref": "石川県",
+      "placeCity": null,
+      "latitude": 36.9888678,
+      "longitude": 136.8163563
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260217024810_0_VPWW53_130000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【東京都気象警報・注意報】伊豆諸島北部では１７日夜のはじめ頃まで、伊豆諸島南部では１７日夜遅くまで、高波に注意してください。",
+      "observedAt": "2026-02-17T02:48:10.000Z",
+      "placeCountry": "日本",
+      "placePref": "東京都",
+      "placeCity": null,
+      "latitude": 35.6828387,
+      "longitude": 139.7594549
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260217024415_0_VPWW53_080000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【茨城県気象警報・注意報】注意報を解除します。",
+      "observedAt": "2026-02-17T02:44:14.000Z",
+      "placeCountry": "日本",
+      "placePref": "茨城県",
+      "placeCity": null,
+      "latitude": 36.2869536,
+      "longitude": 140.4703384
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260217024050_0_VPWW53_120000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【千葉県気象警報・注意報】南部では、１７日夕方まで高波に注意してください。",
+      "observedAt": "2026-02-17T02:40:49.000Z",
+      "placeCountry": "日本",
+      "placePref": "千葉県",
+      "placeCity": null,
+      "latitude": 35.549399,
+      "longitude": 140.2647303
     }
   ]
 }
