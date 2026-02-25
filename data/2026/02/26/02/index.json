@@ -1,21 +1,10 @@
 {
-  "generatedAt": "2026-02-25T18:30:21.968Z",
+  "generatedAt": "2026-02-25T17:28:16.926Z",
   "timeZone": "Asia/Tokyo",
-  "hourPath": "2026/02/26/03",
+  "hourPath": "2026/02/26/02",
   "source": "http://www.data.jma.go.jp/developer/xml/feed/extra.xml",
-  "totalItems": 21,
+  "totalItems": 25,
   "items": [
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260225174715_0_VPWW53_140000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【神奈川県気象警報・注意報】神奈川県では、２６日夜遅くまで強風に注意してください。東部では、２６日夜遅くまで高波に注意してください。",
-      "observedAt": "2026-02-25T17:47:14.000Z",
-      "placeCountry": "日本",
-      "placePref": "神奈川県",
-      "placeCity": null,
-      "latitude": 35.4342935,
-      "longitude": 139.374753
-    },
     {
       "originId": "https://www.data.jma.go.jp/developer/xml/data/20260225172128_0_VPWW53_210000.xml",
       "title": "気象特別警報・警報・注意報",
@@ -235,6 +224,61 @@
       "placeCity": null,
       "latitude": 35.7867449,
       "longitude": 137.0460777
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260225073618_0_VPWW53_300000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【和歌山県気象警報・注意報】南部では、２６日明け方まで強風に、２５日夜のはじめ頃から高波に注意してください。",
+      "observedAt": "2026-02-25T07:36:17.000Z",
+      "placeCountry": "日本",
+      "placePref": "和歌山県",
+      "placeCity": null,
+      "latitude": 33.8070292,
+      "longitude": 135.5930743
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260225073143_0_VPWW53_140000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【神奈川県気象警報・注意報】東部では、土砂災害や高波に注意してください。神奈川県では、強風に注意してください。",
+      "observedAt": "2026-02-25T07:31:42.000Z",
+      "placeCountry": "日本",
+      "placePref": "神奈川県",
+      "placeCity": null,
+      "latitude": 35.4342935,
+      "longitude": 139.374753
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260225073130_0_VPWW53_420000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【長崎県気象警報・注意報】長崎県では、強風や高波に注意してください。",
+      "observedAt": "2026-02-25T07:31:28.000Z",
+      "placeCountry": "日本",
+      "placePref": "長崎県",
+      "placeCity": null,
+      "latitude": 33.1154683,
+      "longitude": 129.7874339
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260225072626_0_VPWW53_200000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【長野県気象警報・注意報】中部、南部では、融雪による土砂災害に注意してください。長野県では、濃霧による視程障害やなだれに注意してください。",
+      "observedAt": "2026-02-25T07:26:25.000Z",
+      "placeCountry": "日本",
+      "placePref": "長野県",
+      "placeCity": null,
+      "latitude": 36.1143945,
+      "longitude": 138.0319015
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260225072350_0_VPWW53_120000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【千葉県気象警報・注意報】千葉県では、強風や高波に注意してください。",
+      "observedAt": "2026-02-25T07:23:49.000Z",
+      "placeCountry": "日本",
+      "placePref": "千葉県",
+      "placeCity": null,
+      "latitude": 35.549399,
+      "longitude": 140.2647303
     }
   ]
 }
