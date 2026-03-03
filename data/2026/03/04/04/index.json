@@ -1,142 +1,10 @@
 {
-  "generatedAt": "2026-03-03T20:13:57.629Z",
+  "generatedAt": "2026-03-03T19:21:18.782Z",
   "timeZone": "Asia/Tokyo",
-  "hourPath": "2026/03/04/05",
+  "hourPath": "2026/03/04/04",
   "source": "http://www.data.jma.go.jp/developer/xml/feed/extra.xml",
-  "totalItems": 67,
+  "totalItems": 57,
   "items": [
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260303201224_0_VPWW53_070000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【福島県気象警報・注意報】中通り、浜通りでは、風雪に注意してください。福島県では、大雪や電線等への着雪に注意してください。浜通りでは、高波に注意してください。中通り、会津では、なだれに注意してください。",
-      "observedAt": "2026-03-03T20:12:23.000Z",
-      "placeCountry": "日本",
-      "placePref": "福島県",
-      "placeCity": null,
-      "latitude": 37.3662591,
-      "longitude": 140.2511854
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260303200749_0_VPWW53_190000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【山梨県気象警報・注意報】注意報を解除します。",
-      "observedAt": "2026-03-03T20:07:48.000Z",
-      "placeCountry": "日本",
-      "placePref": "山梨県",
-      "placeCity": null,
-      "latitude": 35.6399328,
-      "longitude": 138.6380495
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260303195209_0_VPWW53_160000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【富山県気象警報・注意報】東部では、４日朝から高波に注意してください。富山県では、４日朝から４日夕方まで急な強い雨や落雷に、４日までなだれに注意してください。",
-      "observedAt": "2026-03-03T19:52:08.000Z",
-      "placeCountry": "日本",
-      "placePref": "富山県",
-      "placeCity": null,
-      "latitude": 36.6468015,
-      "longitude": 137.2183531
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260303195013_0_VPWW53_150000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【新潟県気象警報・注意報】上越、佐渡では、４日昼前から高波に注意してください。下越、中越、上越では、４日朝から４日夕方まで急な強い雨や落雷に、４日までなだれに注意してください。",
-      "observedAt": "2026-03-03T19:50:12.000Z",
-      "placeCountry": "日本",
-      "placePref": "新潟県",
-      "placeCity": null,
-      "latitude": 37.6452283,
-      "longitude": 138.7669125
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260303194316_0_VPWW53_120000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【千葉県気象警報・注意報】北東部では、４日朝から４日夕方まで高波に警戒してください。",
-      "observedAt": "2026-03-03T19:43:15.000Z",
-      "placeCountry": "日本",
-      "placePref": "千葉県",
-      "placeCity": null,
-      "latitude": 35.549399,
-      "longitude": 140.2647303
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260303193842_0_VPWW53_400000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【福岡県気象警報・注意報】福岡、北九州地方では、４日夕方まで高波に注意してください。",
-      "observedAt": "2026-03-03T19:38:41.000Z",
-      "placeCountry": "日本",
-      "placePref": "福岡県",
-      "placeCity": null,
-      "latitude": 33.6251241,
-      "longitude": 130.6180016
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260303193840_0_VPWW53_350000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【山口県気象警報・注意報】西部、中部、北部では４日夕方まで、東部では４日夜遅くまで、強風に注意してください。山口県では、４日夕方まで高波に注意してください。",
-      "observedAt": "2026-03-03T19:38:39.000Z",
-      "placeCountry": "日本",
-      "placePref": "山口県",
-      "placeCity": null,
-      "latitude": 34.2379614,
-      "longitude": 131.5873845
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260303193056_0_VPWW53_280000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【兵庫県気象警報・注意報】兵庫県では、４日夕方まで高波に、５日までなだれに注意してください。",
-      "observedAt": "2026-03-03T19:30:55.000Z",
-      "placeCountry": "日本",
-      "placePref": "兵庫県",
-      "placeCity": null,
-      "latitude": 34.914934,
-      "longitude": 134.860666
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260303193055_0_VPWW53_270000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【大阪府気象警報・注意報】注意報を解除します。",
-      "observedAt": "2026-03-03T19:30:54.000Z",
-      "placeCountry": "日本",
-      "placePref": "大阪府",
-      "placeCity": null,
-      "latitude": 34.6198813,
-      "longitude": 135.490357
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260303192839_0_VPWW53_300000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【和歌山県気象警報・注意報】北部では４日夜遅くまで、南部では５日明け方まで、強風に注意してください。南部では、４日夜のはじめ頃まで高波に注意してください。",
-      "observedAt": "2026-03-03T19:28:38.000Z",
-      "placeCountry": "日本",
-      "placePref": "和歌山県",
-      "placeCity": null,
-      "latitude": 33.8070292,
-      "longitude": 135.5930743
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260303192735_0_VPWW53_180000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【福井県気象警報・注意報】嶺南では、４日夜のはじめ頃まで強風に注意してください。福井県では、４日夕方まで高波に注意してください。嶺北では、４日までなだれに注意してください。",
-      "observedAt": "2026-03-03T19:27:35.000Z",
-      "placeCountry": "日本",
-      "placePref": "福井県",
-      "placeCity": null,
-      "latitude": 35.9263502,
-      "longitude": 136.6068127
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260303192623_0_VPWW53_170000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【石川県気象警報・注意報】加賀では４日昼過ぎまで、能登では４日夜のはじめ頃まで、高波に注意してください。加賀では、４日までなだれに注意してください。",
-      "observedAt": "2026-03-03T19:26:23.000Z",
-      "placeCountry": "日本",
-      "placePref": "石川県",
-      "placeCity": null,
-      "latitude": 36.9888678,
-      "longitude": 136.8163563
-    },
     {
       "originId": "https://www.data.jma.go.jp/developer/xml/data/20260303191831_0_VPWW53_100000.xml",
       "title": "気象特別警報・警報・注意報",
@@ -741,6 +609,28 @@
       "placeCity": null,
       "latitude": 34.9991645,
       "longitude": 137.254574
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260303095123_0_VPWW53_390000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【高知県気象警報・注意報】中部では３日夜遅くまで、東部では４日夕方まで、西部では４日夜のはじめ頃まで、強風に注意してください。中部では３日夜遅くまで、東部、西部では４日夕方まで、高波に注意してください。",
+      "observedAt": "2026-03-03T09:51:22.000Z",
+      "placeCountry": "日本",
+      "placePref": "高知県",
+      "placeCity": null,
+      "latitude": 33.6569018,
+      "longitude": 133.5606241
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260303092724_0_VPWW53_070000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【福島県気象警報・注意報】中通り、浜通りでは、風雪に注意してください。福島県では、大雪や電線等への着雪に注意してください。浜通りでは、高波に注意してください。中通り、会津では、なだれに注意してください。",
+      "observedAt": "2026-03-03T09:27:23.000Z",
+      "placeCountry": "日本",
+      "placePref": "福島県",
+      "placeCity": null,
+      "latitude": 37.3662591,
+      "longitude": 140.2511854
     }
   ]
 }
