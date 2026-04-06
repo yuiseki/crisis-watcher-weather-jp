@@ -27,7 +27,7 @@
     "@vitejs/plugin-react": "^5.0.2",
     "ts-node": "^10.9.2",
     "typescript": "^5.9.2",
-    "vite": "^7.1.11"
+    "vite": "^7.3.2"
   },
   "dependencies": {
     "detect-location-jp": "^0.0.4",
