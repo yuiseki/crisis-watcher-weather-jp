@@ -1,10 +1,197 @@
 {
-  "generatedAt": "2026-05-09T01:00:21.918Z",
+  "generatedAt": "2026-05-09T01:43:37.739Z",
   "timeZone": "Asia/Tokyo",
   "hourPath": "2026/05/09/10",
   "source": "http://www.data.jma.go.jp/developer/xml/feed/extra.xml",
-  "totalItems": 60,
+  "totalItems": 76,
   "items": [
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260509011851_0_VPWW53_360000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【徳島県気象警報・注意報】徳島県では、１１日まで空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
+      "observedAt": "2026-05-09T01:18:50.000Z",
+      "placeCountry": "日本",
+      "placePref": "徳島県",
+      "placeCity": null,
+      "latitude": 33.9196418,
+      "longitude": 134.2509634
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260509011737_0_VPWW53_460040.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【奄美地方（鹿児島県）気象警報・注意報】奄美地方では、９日昼過ぎから高波に注意してください。",
+      "observedAt": "2026-05-09T01:17:36.000Z",
+      "placeCountry": "日本",
+      "placePref": "鹿児島県",
+      "placeCity": null,
+      "latitude": 31.521587,
+      "longitude": 130.5474077
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260509011545_0_VPWW53_020000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【青森県気象警報・注意報】三八上北では、９日夕方まで暴風に警戒してください。",
+      "observedAt": "2026-05-09T01:15:44.000Z",
+      "placeCountry": "日本",
+      "placePref": "青森県",
+      "placeCity": null,
+      "latitude": 40.886943,
+      "longitude": 140.590121
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260509011343_0_VPWW53_150000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【新潟県気象警報・注意報】下越、佐渡では、強風に注意してください。新潟県では、高波や竜巻などの激しい突風、急な強い雨、落雷に注意してください。",
+      "observedAt": "2026-05-09T01:13:42.000Z",
+      "placeCountry": "日本",
+      "placePref": "新潟県",
+      "placeCity": null,
+      "latitude": 37.6452283,
+      "longitude": 138.7669125
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260509011209_0_VPWW53_220000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【静岡県気象警報・注意報】中部、伊豆、西部では、９日夕方まで強風や高波に注意してください。",
+      "observedAt": "2026-05-09T01:12:09.000Z",
+      "placeCountry": "日本",
+      "placePref": "静岡県",
+      "placeCity": null,
+      "latitude": 34.9332488,
+      "longitude": 138.0955398
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260509011123_0_VPWW53_320000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【島根県気象警報・注意報】東部、西部では、１０日朝は霜に対する農作物の管理に注意してください。",
+      "observedAt": "2026-05-09T01:11:22.000Z",
+      "placeCountry": "日本",
+      "placePref": "島根県",
+      "placeCity": null,
+      "latitude": 34.9418212,
+      "longitude": 132.537439
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260509011054_0_VPWW53_230000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【愛知県気象警報・注意報】東部では、９日夕方まで強風に注意してください。愛知県では、１０日まで空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
+      "observedAt": "2026-05-09T01:10:53.000Z",
+      "placeCountry": "日本",
+      "placePref": "愛知県",
+      "placeCity": null,
+      "latitude": 34.9991645,
+      "longitude": 137.254574
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260509011051_0_VPWW53_060000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【山形県気象警報・注意報】庄内では、９日夕方まで強風や高波に注意してください。山形県では、９日夕方まで急な強い雨や落雷に、１１日までなだれに注意してください。",
+      "observedAt": "2026-05-09T01:10:50.000Z",
+      "placeCountry": "日本",
+      "placePref": "山形県",
+      "placeCity": null,
+      "latitude": 38.4746705,
+      "longitude": 140.083237
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260509011050_0_VPWW53_050000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【秋田県気象警報・注意報】秋田県では、９日夕方まで強風や高波、急な強い雨、落雷に注意してください。",
+      "observedAt": "2026-05-09T01:10:49.000Z",
+      "placeCountry": "日本",
+      "placePref": "秋田県",
+      "placeCity": null,
+      "latitude": 39.6898802,
+      "longitude": 140.342608
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260509011016_0_VPWW53_080000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【茨城県気象警報・注意報】南部では、９日夕方まで強風に注意してください。",
+      "observedAt": "2026-05-09T01:10:15.000Z",
+      "placeCountry": "日本",
+      "placePref": "茨城県",
+      "placeCity": null,
+      "latitude": 36.2869536,
+      "longitude": 140.4703384
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260509010925_0_VPWW53_120000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【千葉県気象警報・注意報】北西部、南部では、９日夕方まで強風や高波に注意してください。",
+      "observedAt": "2026-05-09T01:09:24.000Z",
+      "placeCountry": "日本",
+      "placePref": "千葉県",
+      "placeCity": null,
+      "latitude": 35.549399,
+      "longitude": 140.2647303
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260509010848_0_VPWW53_140000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【神奈川県気象警報・注意報】東部では、９日夕方まで強風や高波に注意してください。",
+      "observedAt": "2026-05-09T01:08:48.000Z",
+      "placeCountry": "日本",
+      "placePref": "神奈川県",
+      "placeCity": null,
+      "latitude": 35.4342935,
+      "longitude": 139.374753
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260509010643_0_VPWW53_190000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【山梨県気象警報・注意報】中・西部では、１０日まで空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
+      "observedAt": "2026-05-09T01:06:43.000Z",
+      "placeCountry": "日本",
+      "placePref": "山梨県",
+      "placeCity": null,
+      "latitude": 35.6399328,
+      "longitude": 138.6380495
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260509010611_0_VPWW53_450000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【宮崎県気象警報・注意報】宮崎県では、１０日まで空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
+      "observedAt": "2026-05-09T01:06:10.000Z",
+      "placeCountry": "日本",
+      "placePref": "宮崎県",
+      "placeCity": null,
+      "latitude": 32.097681,
+      "longitude": 131.294542
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260509010456_0_VPWW53_460100.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【鹿児島県（奄美地方を除く）気象警報・注意報】薩摩、大隅地方では、１０日まで空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
+      "observedAt": "2026-05-09T01:04:55.000Z",
+      "placeCountry": "日本",
+      "placePref": "鹿児島県",
+      "placeCity": null,
+      "latitude": 31.521587,
+      "longitude": 130.5474077
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260509010439_0_VPWW53_240000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【三重県気象警報・注意報】注意報を解除します。",
+      "observedAt": "2026-05-09T01:04:38.000Z",
+      "placeCountry": "日本",
+      "placePref": "三重県",
+      "placeCity": null,
+      "latitude": 34.7339685,
+      "longitude": 136.5154489
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260509010310_0_VPWW53_330000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【岡山県気象警報・注意報】岡山県では、１０日朝は霜に対する農作物の管理に注意してください。",
+      "observedAt": "2026-05-09T01:03:10.000Z",
+      "placeCountry": "日本",
+      "placePref": "岡山県",
+      "placeCity": null,
+      "latitude": 34.8581334,
+      "longitude": 133.7759256
+    },
     {
       "originId": "https://www.data.jma.go.jp/developer/xml/data/20260509005654_0_VPWW53_030000.xml",
       "title": "気象特別警報・警報・注意報",
@@ -653,17 +840,6 @@
       "placeCity": null,
       "latitude": 36.2869536,
       "longitude": 140.4703384
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260508150542_0_VPWW53_220000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【静岡県気象警報・注意報】中部、伊豆、西部では、９日昼前まで強風や高波に注意してください。",
-      "observedAt": "2026-05-08T15:05:41.000Z",
-      "placeCountry": "日本",
-      "placePref": "静岡県",
-      "placeCity": null,
-      "latitude": 34.9332488,
-      "longitude": 138.0955398
     }
   ]
 }
