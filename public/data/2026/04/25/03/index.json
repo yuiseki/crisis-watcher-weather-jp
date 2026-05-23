@@ -1,0 +1,141 @@
+{
+  "generatedAt": "2026-04-24T18:22:18.690Z",
+  "timeZone": "Asia/Tokyo",
+  "hourPath": "2026/04/25/03",
+  "source": "http://www.data.jma.go.jp/developer/xml/feed/extra.xml",
+  "totalItems": 12,
+  "items": [
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260424181111_0_VPWW53_070000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【福島県気象警報・注意報】福島県では、２６日まで空気の乾燥した状態が続くため、火の取り扱いに、２５日朝は霜に対する農作物の管理に注意してください。",
+      "observedAt": "2026-04-24T18:11:10.000Z",
+      "placeCountry": "日本",
+      "placePref": "福島県",
+      "placeCity": null,
+      "latitude": 37.3662591,
+      "longitude": 140.2511854
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260424181109_0_VPWW53_040000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【宮城県気象警報・注意報】宮城県では、２６日まで空気の乾燥した状態が続くため、火の取り扱いに、２５日朝は霜に対する農作物の管理に注意してください。",
+      "observedAt": "2026-04-24T18:11:08.000Z",
+      "placeCountry": "日本",
+      "placePref": "宮城県",
+      "placeCity": null,
+      "latitude": 38.3880155,
+      "longitude": 140.9761025
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260424175719_0_VPWW53_440000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【大分県気象警報・注意報】南部では、２５日朝から高波に注意してください。",
+      "observedAt": "2026-04-24T17:57:18.000Z",
+      "placeCountry": "日本",
+      "placePref": "大分県",
+      "placeCity": null,
+      "latitude": 33.1819875,
+      "longitude": 131.4270217
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260424174315_0_VPWW53_130000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【東京都気象警報・注意報】伊豆諸島北部、伊豆諸島南部では、高波に注意してください。小笠原諸島では、濃霧による視程障害に注意してください。",
+      "observedAt": "2026-04-24T17:43:15.000Z",
+      "placeCountry": "日本",
+      "placePref": "東京都",
+      "placeCity": null,
+      "latitude": 35.6828387,
+      "longitude": 139.7594549
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260424144210_0_VPWW53_180000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【福井県気象警報・注意報】福井県では、２５日まで空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
+      "observedAt": "2026-04-24T14:42:10.000Z",
+      "placeCountry": "日本",
+      "placePref": "福井県",
+      "placeCity": null,
+      "latitude": 35.9263502,
+      "longitude": 136.6068127
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260424130742_0_VPWW53_420000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【長崎県気象警報・注意報】壱岐・対馬、五島では２５日明け方まで、北部では２５日夕方まで、強風に注意してください。北部、壱岐・対馬、五島では、２５日明け方まで高波に注意してください。",
+      "observedAt": "2026-04-24T13:07:41.000Z",
+      "placeCountry": "日本",
+      "placePref": "長崎県",
+      "placeCity": null,
+      "latitude": 33.1154683,
+      "longitude": 129.7874339
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260424122512_0_VPWW53_220000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【静岡県気象警報・注意報】伊豆では、２５日朝から２５日夕方まで強風に注意してください。",
+      "observedAt": "2026-04-24T12:25:11.000Z",
+      "placeCountry": "日本",
+      "placePref": "静岡県",
+      "placeCity": null,
+      "latitude": 34.9332488,
+      "longitude": 138.0955398
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260424120828_0_VPWW53_090000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【栃木県気象警報・注意報】栃木県では、２５日昼前まで濃霧による視程障害に、２６日まで空気の乾燥した状態が続くため、火の取り扱いに、２５日朝は霜に対する農作物の管理に注意してください。",
+      "observedAt": "2026-04-24T12:08:27.000Z",
+      "placeCountry": "日本",
+      "placePref": "栃木県",
+      "placeCity": null,
+      "latitude": 36.6782167,
+      "longitude": 139.8096549
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260424120820_0_VPWW53_390000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【高知県気象警報・注意報】西部では２５日未明から、東部では２５日明け方から、高波に注意してください。",
+      "observedAt": "2026-04-24T12:08:20.000Z",
+      "placeCountry": "日本",
+      "placePref": "高知県",
+      "placeCity": null,
+      "latitude": 33.6569018,
+      "longitude": 133.5606241
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260424114952_0_VPWW53_350000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【山口県気象警報・注意報】東部では２５日朝まで、西部、北部では２５日夕方まで、強風に注意してください。中部、東部では、２５日朝は霜に対する農作物の管理に注意してください。",
+      "observedAt": "2026-04-24T11:49:51.000Z",
+      "placeCountry": "日本",
+      "placePref": "山口県",
+      "placeCity": null,
+      "latitude": 34.2379614,
+      "longitude": 131.5873845
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260424113815_0_VPWW53_320000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【島根県気象警報・注意報】注意報を解除します。",
+      "observedAt": "2026-04-24T11:38:14.000Z",
+      "placeCountry": "日本",
+      "placePref": "島根県",
+      "placeCity": null,
+      "latitude": 34.9418212,
+      "longitude": 132.537439
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260424091652_0_VPWW53_250000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【滋賀県気象警報・注意報】注意報を解除します。",
+      "observedAt": "2026-04-24T09:16:52.000Z",
+      "placeCountry": "日本",
+      "placePref": "滋賀県",
+      "placeCity": null,
+      "latitude": 35.247154,
+      "longitude": 136.109385
+    }
+  ]
+}

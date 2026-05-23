@@ -1,0 +1,86 @@
+{
+  "generatedAt": "2026-05-06T18:43:43.452Z",
+  "timeZone": "Asia/Tokyo",
+  "hourPath": "2026/05/07/03",
+  "source": "http://www.data.jma.go.jp/developer/xml/feed/extra.xml",
+  "totalItems": 7,
+  "items": [
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260506184138_0_VPWW53_060000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【山形県気象警報・注意報】村山では、７日まで空気の乾燥した状態が続くため、火の取り扱いに注意してください。山形県では、８日までなだれに注意してください。",
+      "observedAt": "2026-05-06T18:41:38.000Z",
+      "placeCountry": "日本",
+      "placePref": "山形県",
+      "placeCity": null,
+      "latitude": 38.4746705,
+      "longitude": 140.083237
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260506184135_0_VPWW53_050000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【秋田県気象警報・注意報】内陸では、ここしばらくなだれに注意してください。",
+      "observedAt": "2026-05-06T18:41:34.000Z",
+      "placeCountry": "日本",
+      "placePref": "秋田県",
+      "placeCity": null,
+      "latitude": 39.6898802,
+      "longitude": 140.342608
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260506184132_0_VPWW53_030000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【岩手県気象警報・注意報】岩手県では、７日まで空気の乾燥した状態が続くため、火の取り扱いに注意してください。内陸では、ここしばらくなだれに注意してください。",
+      "observedAt": "2026-05-06T18:41:32.000Z",
+      "placeCountry": "日本",
+      "placePref": "岩手県",
+      "placeCity": null,
+      "latitude": 39.5713763,
+      "longitude": 141.4253574
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260506184130_0_VPWW53_020000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【青森県気象警報・注意報】津軽、三八上北では、７日朝から７日夕方まで強風に、ここしばらくなだれに注意してください。青森県では、７日まで空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
+      "observedAt": "2026-05-06T18:41:29.000Z",
+      "placeCountry": "日本",
+      "placePref": "青森県",
+      "placeCity": null,
+      "latitude": 40.886943,
+      "longitude": 140.590121
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260506170931_0_VPWW53_240000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【三重県気象警報・注意報】北中部では、７日昼前まで濃霧による視程障害に注意してください。",
+      "observedAt": "2026-05-06T17:09:30.000Z",
+      "placeCountry": "日本",
+      "placePref": "三重県",
+      "placeCity": null,
+      "latitude": 34.7339685,
+      "longitude": 136.5154489
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260506110527_0_VPWW53_430000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【熊本県気象警報・注意報】注意報を解除します。",
+      "observedAt": "2026-05-06T11:05:26.000Z",
+      "placeCountry": "日本",
+      "placePref": "熊本県",
+      "placeCity": null,
+      "latitude": 32.6450475,
+      "longitude": 130.6341345
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260506110524_0_VPWW53_440000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【大分県気象警報・注意報】注意報を解除します。",
+      "observedAt": "2026-05-06T11:05:23.000Z",
+      "placeCountry": "日本",
+      "placePref": "大分県",
+      "placeCity": null,
+      "latitude": 33.1819875,
+      "longitude": 131.4270217
+    }
+  ]
+}

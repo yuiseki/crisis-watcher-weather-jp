@@ -1,0 +1,108 @@
+{
+  "generatedAt": "2026-05-16T18:27:13.925Z",
+  "timeZone": "Asia/Tokyo",
+  "hourPath": "2026/05/17/03",
+  "source": "http://www.data.jma.go.jp/developer/xml/feed/extra.xml",
+  "totalItems": 9,
+  "items": [
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260516173834_0_VPWW53_060000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【山形県気象警報・注意報】庄内では、１７日昼前まで濃霧による視程障害に注意してください。村山、置賜、最上では、ここしばらく空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
+      "observedAt": "2026-05-16T17:38:33.000Z",
+      "placeCountry": "日本",
+      "placePref": "山形県",
+      "placeCity": null,
+      "latitude": 38.4746705,
+      "longitude": 140.083237
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260516173830_0_VPWW53_050000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【秋田県気象警報・注意報】沿岸では、１７日昼前まで濃霧による視程障害に注意してください。",
+      "observedAt": "2026-05-16T17:38:29.000Z",
+      "placeCountry": "日本",
+      "placePref": "秋田県",
+      "placeCity": null,
+      "latitude": 39.6898802,
+      "longitude": 140.342608
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260516173728_0_VPWW53_150000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【新潟県気象警報・注意報】新潟県では、１７日昼前まで濃霧による視程障害に注意してください。",
+      "observedAt": "2026-05-16T17:37:27.000Z",
+      "placeCountry": "日本",
+      "placePref": "新潟県",
+      "placeCity": null,
+      "latitude": 37.6452283,
+      "longitude": 138.7669125
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260516173426_0_VPWW53_020000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【青森県気象警報・注意報】津軽では、１７日昼前まで濃霧による視程障害に注意してください。",
+      "observedAt": "2026-05-16T17:34:25.000Z",
+      "placeCountry": "日本",
+      "placePref": "青森県",
+      "placeCity": null,
+      "latitude": 40.886943,
+      "longitude": 140.590121
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260516164442_0_VPWW53_160000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【富山県気象警報・注意報】富山県では、１７日昼前まで濃霧による視程障害に注意してください。",
+      "observedAt": "2026-05-16T16:44:42.000Z",
+      "placeCountry": "日本",
+      "placePref": "富山県",
+      "placeCity": null,
+      "latitude": 36.6468015,
+      "longitude": 137.2183531
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260516150930_0_VPWW53_340000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【広島県気象警報・注意報】広島県では、１９日まで空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
+      "observedAt": "2026-05-16T15:09:29.000Z",
+      "placeCountry": "日本",
+      "placePref": "広島県",
+      "placeCity": null,
+      "latitude": 34.5666725,
+      "longitude": 132.753565
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260516122848_0_VPWW53_170000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【石川県気象警報・注意報】能登では、１７日昼前まで濃霧による視程障害に注意してください。",
+      "observedAt": "2026-05-16T12:28:47.000Z",
+      "placeCountry": "日本",
+      "placePref": "石川県",
+      "placeCity": null,
+      "latitude": 36.9888678,
+      "longitude": 136.8163563
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260516110217_0_VPWW53_020000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【青森県気象警報・注意報】注意報を解除します。",
+      "observedAt": "2026-05-16T11:02:16.000Z",
+      "placeCountry": "日本",
+      "placePref": "青森県",
+      "placeCity": null,
+      "latitude": 40.886943,
+      "longitude": 140.590121
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260516083008_0_VPWW53_130000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【東京都気象警報・注意報】注意報を解除します。",
+      "observedAt": "2026-05-16T08:30:07.000Z",
+      "placeCountry": "日本",
+      "placePref": "東京都",
+      "placeCity": null,
+      "latitude": 35.6828387,
+      "longitude": 139.7594549
+    }
+  ]
+}

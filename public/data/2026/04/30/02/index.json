@@ -1,0 +1,53 @@
+{
+  "generatedAt": "2026-04-29T17:37:45.452Z",
+  "timeZone": "Asia/Tokyo",
+  "hourPath": "2026/04/30/02",
+  "source": "http://www.data.jma.go.jp/developer/xml/feed/extra.xml",
+  "totalItems": 4,
+  "items": [
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260429163814_0_VPWW53_040000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【宮城県気象警報・注意報】東部では、濃霧による視程障害に注意してください。宮城県では、乾燥や霜に対する農作物の管理に注意してください。",
+      "observedAt": "2026-04-29T16:38:13.000Z",
+      "placeCountry": "日本",
+      "placePref": "宮城県",
+      "placeCity": null,
+      "latitude": 38.3880155,
+      "longitude": 140.9761025
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260429162409_0_VPWW53_030000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【岩手県気象警報・注意報】岩手県では、３０日昼前まで濃霧による視程障害に、３０日朝は霜に対する農作物の管理に注意してください。内陸では、ここしばらくなだれに注意してください。",
+      "observedAt": "2026-04-29T16:24:08.000Z",
+      "placeCountry": "日本",
+      "placePref": "岩手県",
+      "placeCity": null,
+      "latitude": 39.5713763,
+      "longitude": 141.4253574
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260429123608_0_VPWW53_200000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【長野県気象警報・注意報】中部、南部では、３０日朝は霜に対する農作物の管理に注意してください。",
+      "observedAt": "2026-04-29T12:36:07.000Z",
+      "placeCountry": "日本",
+      "placePref": "長野県",
+      "placeCity": null,
+      "latitude": 36.1143945,
+      "longitude": 138.0319015
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260429110206_0_VPWW53_340000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【広島県気象警報・注意報】注意報を解除します。",
+      "observedAt": "2026-04-29T11:02:06.000Z",
+      "placeCountry": "日本",
+      "placePref": "広島県",
+      "placeCity": null,
+      "latitude": 34.5666725,
+      "longitude": 132.753565
+    }
+  ]
+}

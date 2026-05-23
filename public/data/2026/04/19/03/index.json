@@ -1,0 +1,86 @@
+{
+  "generatedAt": "2026-04-18T18:20:59.965Z",
+  "timeZone": "Asia/Tokyo",
+  "hourPath": "2026/04/19/03",
+  "source": "http://www.data.jma.go.jp/developer/xml/feed/extra.xml",
+  "totalItems": 7,
+  "items": [
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260418174521_0_VPWW53_060000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【山形県気象警報・注意報】村山、置賜、最上では、１９日昼前まで濃霧による視程障害に、２０日まで空気の乾燥した状態が続くため、火の取り扱いに注意してください。山形県では、ここしばらくなだれに注意してください。",
+      "observedAt": "2026-04-18T17:45:20.000Z",
+      "placeCountry": "日本",
+      "placePref": "山形県",
+      "placeCity": null,
+      "latitude": 38.4746705,
+      "longitude": 140.083237
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260418152422_0_VPWW53_340000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【広島県気象警報・注意報】注意報を解除します。",
+      "observedAt": "2026-04-18T15:24:21.000Z",
+      "placeCountry": "日本",
+      "placePref": "広島県",
+      "placeCity": null,
+      "latitude": 34.5666725,
+      "longitude": 132.753565
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260418151216_0_VPWW53_130000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【東京都気象警報・注意報】伊豆諸島北部、伊豆諸島南部、小笠原諸島では、高波に注意してください。",
+      "observedAt": "2026-04-18T15:12:16.000Z",
+      "placeCountry": "日本",
+      "placePref": "東京都",
+      "placeCity": null,
+      "latitude": 35.6828387,
+      "longitude": 139.7594549
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260418140735_0_VPWW53_430000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【熊本県気象警報・注意報】天草・芦北地方では、１９日明け方から１９日夜遅くまで強風に、１９日まで高潮に注意してください。",
+      "observedAt": "2026-04-18T14:07:34.000Z",
+      "placeCountry": "日本",
+      "placePref": "熊本県",
+      "placeCity": null,
+      "latitude": 32.6450475,
+      "longitude": 130.6341345
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260418121836_0_VPWW53_240000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【三重県気象警報・注意報】南部では、高波に注意してください。",
+      "observedAt": "2026-04-18T12:18:35.000Z",
+      "placeCountry": "日本",
+      "placePref": "三重県",
+      "placeCity": null,
+      "latitude": 34.7339685,
+      "longitude": 136.5154489
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260418110809_0_VPWW53_020000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【青森県気象警報・注意報】津軽、三八上北では、２０日まで空気の乾燥した状態が続くため、火の取り扱いに、ここしばらくなだれに注意してください。青森県では、１９日朝は霜に対する農作物の管理に注意してください。",
+      "observedAt": "2026-04-18T11:08:08.000Z",
+      "placeCountry": "日本",
+      "placePref": "青森県",
+      "placeCity": null,
+      "latitude": 40.886943,
+      "longitude": 140.590121
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260418094516_0_VPWW53_170000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【石川県気象警報・注意報】注意報を解除します。",
+      "observedAt": "2026-04-18T09:45:16.000Z",
+      "placeCountry": "日本",
+      "placePref": "石川県",
+      "placeCity": null,
+      "latitude": 36.9888678,
+      "longitude": 136.8163563
+    }
+  ]
+}

@@ -1,0 +1,273 @@
+{
+  "generatedAt": "2026-05-15T20:31:57.626Z",
+  "timeZone": "Asia/Tokyo",
+  "hourPath": "2026/05/16/05",
+  "source": "http://www.data.jma.go.jp/developer/xml/feed/extra.xml",
+  "totalItems": 24,
+  "items": [
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260515191816_0_VPWW53_420000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【長崎県気象警報・注意報】壱岐・対馬では、１６日昼前まで濃霧による視程障害に注意してください。南部、北部では、１６日まで空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
+      "observedAt": "2026-05-15T19:18:15.000Z",
+      "placeCountry": "日本",
+      "placePref": "長崎県",
+      "placeCity": null,
+      "latitude": 33.1154683,
+      "longitude": 129.7874339
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260515191739_0_VPWW53_200000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【長野県気象警報・注意報】中部では、１８日まで空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
+      "observedAt": "2026-05-15T19:17:38.000Z",
+      "placeCountry": "日本",
+      "placePref": "長野県",
+      "placeCity": null,
+      "latitude": 36.1143945,
+      "longitude": 138.0319015
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260515191312_0_VPWW53_360000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【徳島県気象警報・注意報】徳島県では、１７日まで空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
+      "observedAt": "2026-05-15T19:13:12.000Z",
+      "placeCountry": "日本",
+      "placePref": "徳島県",
+      "placeCity": null,
+      "latitude": 33.9196418,
+      "longitude": 134.2509634
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260515191240_0_VPWW53_260000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【京都府気象警報・注意報】京都府では、１７日まで空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
+      "observedAt": "2026-05-15T19:12:40.000Z",
+      "placeCountry": "日本",
+      "placePref": "京都府",
+      "placeCity": null,
+      "latitude": 35.242552,
+      "longitude": 135.454601
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260515191236_0_VPWW53_370000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【香川県気象警報・注意報】香川県では、１８日まで空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
+      "observedAt": "2026-05-15T19:12:35.000Z",
+      "placeCountry": "日本",
+      "placePref": "香川県",
+      "placeCity": null,
+      "latitude": 34.2480104,
+      "longitude": 134.0586579
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260515190933_0_VPWW53_210000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【岐阜県気象警報・注意報】岐阜県では、１８日まで空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
+      "observedAt": "2026-05-15T19:09:32.000Z",
+      "placeCountry": "日本",
+      "placePref": "岐阜県",
+      "placeCity": null,
+      "latitude": 35.7867449,
+      "longitude": 137.0460777
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260515190624_0_VPWW53_460040.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【奄美地方（鹿児島県）気象警報・注意報】奄美地方では、高波に注意してください。",
+      "observedAt": "2026-05-15T19:06:24.000Z",
+      "placeCountry": "日本",
+      "placePref": "鹿児島県",
+      "placeCity": null,
+      "latitude": 31.521587,
+      "longitude": 130.5474077
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260515190547_0_VPWW53_030000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【岩手県気象警報・注意報】岩手県では、１６日昼前まで濃霧による視程障害に注意してください。内陸では、ここしばらく空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
+      "observedAt": "2026-05-15T19:05:47.000Z",
+      "placeCountry": "日本",
+      "placePref": "岩手県",
+      "placeCity": null,
+      "latitude": 39.5713763,
+      "longitude": 141.4253574
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260515190538_0_VPWW53_330000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【岡山県気象警報・注意報】岡山県では、１８日まで空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
+      "observedAt": "2026-05-15T19:05:38.000Z",
+      "placeCountry": "日本",
+      "placePref": "岡山県",
+      "placeCity": null,
+      "latitude": 34.8581334,
+      "longitude": 133.7759256
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260515190526_0_VPWW53_340000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【広島県気象警報・注意報】広島県では、１８日まで空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
+      "observedAt": "2026-05-15T19:05:26.000Z",
+      "placeCountry": "日本",
+      "placePref": "広島県",
+      "placeCity": null,
+      "latitude": 34.5666725,
+      "longitude": 132.753565
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260515190326_0_VPWW53_060000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【山形県気象警報・注意報】山形県では、１６日昼前まで濃霧による視程障害に注意してください。村山、置賜、最上では、ここしばらく空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
+      "observedAt": "2026-05-15T19:03:25.000Z",
+      "placeCountry": "日本",
+      "placePref": "山形県",
+      "placeCity": null,
+      "latitude": 38.4746705,
+      "longitude": 140.083237
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260515190325_0_VPWW53_350000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【山口県気象警報・注意報】山口県では、１８日まで空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
+      "observedAt": "2026-05-15T19:03:24.000Z",
+      "placeCountry": "日本",
+      "placePref": "山口県",
+      "placeCity": null,
+      "latitude": 34.2379614,
+      "longitude": 131.5873845
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260515190307_0_VPWW53_440000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【大分県気象警報・注意報】大分県では、１８日まで空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
+      "observedAt": "2026-05-15T19:03:06.000Z",
+      "placeCountry": "日本",
+      "placePref": "大分県",
+      "placeCity": null,
+      "latitude": 33.1819875,
+      "longitude": 131.4270217
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260515190240_0_VPWW53_270000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【大阪府気象警報・注意報】大阪府では、１８日まで空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
+      "observedAt": "2026-05-15T19:02:39.000Z",
+      "placeCountry": "日本",
+      "placePref": "大阪府",
+      "placeCity": null,
+      "latitude": 34.6198813,
+      "longitude": 135.490357
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260515190206_0_VPWW53_290000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【奈良県気象警報・注意報】奈良県では、１８日まで空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
+      "observedAt": "2026-05-15T19:02:06.000Z",
+      "placeCountry": "日本",
+      "placePref": "奈良県",
+      "placeCity": null,
+      "latitude": 34.2963089,
+      "longitude": 135.8816819
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260515190116_0_VPWW53_280000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【兵庫県気象警報・注意報】兵庫県では、１６日昼前まで濃霧による視程障害に、１７日まで空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
+      "observedAt": "2026-05-15T19:01:15.000Z",
+      "placeCountry": "日本",
+      "placePref": "兵庫県",
+      "placeCity": null,
+      "latitude": 34.914934,
+      "longitude": 134.860666
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260515162428_0_VPWW53_070000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【福島県気象警報・注意報】福島県では、１６日昼前まで濃霧による視程障害に注意してください。",
+      "observedAt": "2026-05-15T16:24:27.000Z",
+      "placeCountry": "日本",
+      "placePref": "福島県",
+      "placeCity": null,
+      "latitude": 37.3662591,
+      "longitude": 140.2511854
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260515160645_0_VPWW53_130000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【東京都気象警報・注意報】伊豆諸島南部では、１６日夕方まで急な強い雨や落雷に注意してください。",
+      "observedAt": "2026-05-15T16:06:45.000Z",
+      "placeCountry": "日本",
+      "placePref": "東京都",
+      "placeCity": null,
+      "latitude": 35.6828387,
+      "longitude": 139.7594549
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260515124950_0_VPWW53_030000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【岩手県気象警報・注意報】岩手県では、濃霧による視程障害に注意してください。内陸では、空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
+      "observedAt": "2026-05-15T12:49:49.000Z",
+      "placeCountry": "日本",
+      "placePref": "岩手県",
+      "placeCity": null,
+      "latitude": 39.5713763,
+      "longitude": 141.4253574
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260515124730_0_VPWW53_040000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【宮城県気象警報・注意報】宮城県では、１６日昼前まで濃霧による視程障害に注意してください。",
+      "observedAt": "2026-05-15T12:47:29.000Z",
+      "placeCountry": "日本",
+      "placePref": "宮城県",
+      "placeCity": null,
+      "latitude": 38.3880155,
+      "longitude": 140.9761025
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260515124521_0_VPWW53_050000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【秋田県気象警報・注意報】秋田県では、１６日昼前まで濃霧による視程障害に注意してください。",
+      "observedAt": "2026-05-15T12:45:21.000Z",
+      "placeCountry": "日本",
+      "placePref": "秋田県",
+      "placeCity": null,
+      "latitude": 39.6898802,
+      "longitude": 140.342608
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260515111438_0_VPWW53_410000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【佐賀県気象警報・注意報】佐賀県では、１７日まで空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
+      "observedAt": "2026-05-15T11:14:37.000Z",
+      "placeCountry": "日本",
+      "placePref": "佐賀県",
+      "placeCity": null,
+      "latitude": 33.2185408,
+      "longitude": 130.1296585
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260515111434_0_VPWW53_420000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【長崎県気象警報・注意報】南部、北部では、１６日まで空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
+      "observedAt": "2026-05-15T11:14:33.000Z",
+      "placeCountry": "日本",
+      "placePref": "長崎県",
+      "placeCity": null,
+      "latitude": 33.1154683,
+      "longitude": 129.7874339
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260515100542_0_VPWW53_390000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【高知県気象警報・注意報】注意報を解除します。",
+      "observedAt": "2026-05-15T10:05:41.000Z",
+      "placeCountry": "日本",
+      "placePref": "高知県",
+      "placeCity": null,
+      "latitude": 33.6569018,
+      "longitude": 133.5606241
+    }
+  ]
+}

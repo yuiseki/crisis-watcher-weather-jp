@@ -1,0 +1,174 @@
+{
+  "generatedAt": "2026-05-18T17:05:23.474Z",
+  "timeZone": "Asia/Tokyo",
+  "hourPath": "2026/05/19/02",
+  "source": "http://www.data.jma.go.jp/developer/xml/feed/extra.xml",
+  "totalItems": 15,
+  "items": [
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260518162506_0_VPWW53_430000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【熊本県気象警報・注意報】天草・芦北地方では、２０日まで高潮に注意してください。熊本県では、１９日まで空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
+      "observedAt": "2026-05-18T16:25:05.000Z",
+      "placeCountry": "日本",
+      "placePref": "熊本県",
+      "placeCity": null,
+      "latitude": 32.6450475,
+      "longitude": 130.6341345
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260518162501_0_VPWW53_440000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【大分県気象警報・注意報】注意報を解除します。",
+      "observedAt": "2026-05-18T16:25:01.000Z",
+      "placeCountry": "日本",
+      "placePref": "大分県",
+      "placeCity": null,
+      "latitude": 33.1819875,
+      "longitude": 131.4270217
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260518161938_0_VPWW53_340000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【広島県気象警報・注意報】広島県では、１９日まで空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
+      "observedAt": "2026-05-18T16:19:38.000Z",
+      "placeCountry": "日本",
+      "placePref": "広島県",
+      "placeCity": null,
+      "latitude": 34.5666725,
+      "longitude": 132.753565
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260518161332_0_VPWW53_040000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【宮城県気象警報・注意報】宮城県では、１９日昼前まで濃霧による視程障害に注意してください。",
+      "observedAt": "2026-05-18T16:13:32.000Z",
+      "placeCountry": "日本",
+      "placePref": "宮城県",
+      "placeCity": null,
+      "latitude": 38.3880155,
+      "longitude": 140.9761025
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260518123309_0_VPWW53_280000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【兵庫県気象警報・注意報】兵庫県では、１９日まで空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
+      "observedAt": "2026-05-18T12:33:09.000Z",
+      "placeCountry": "日本",
+      "placePref": "兵庫県",
+      "placeCity": null,
+      "latitude": 34.914934,
+      "longitude": 134.860666
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260518122836_0_VPWW53_440000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【大分県気象警報・注意報】中部、北部では、１９日まで高潮に注意してください。",
+      "observedAt": "2026-05-18T12:28:35.000Z",
+      "placeCountry": "日本",
+      "placePref": "大分県",
+      "placeCity": null,
+      "latitude": 33.1819875,
+      "longitude": 131.4270217
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260518111404_0_VPWW53_360000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【徳島県気象警報・注意報】注意報を解除します。",
+      "observedAt": "2026-05-18T11:14:03.000Z",
+      "placeCountry": "日本",
+      "placePref": "徳島県",
+      "placeCity": null,
+      "latitude": 33.9196418,
+      "longitude": 134.2509634
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260518111351_0_VPWW53_390000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【高知県気象警報・注意報】注意報を解除します。",
+      "observedAt": "2026-05-18T11:13:51.000Z",
+      "placeCountry": "日本",
+      "placePref": "高知県",
+      "placeCity": null,
+      "latitude": 33.6569018,
+      "longitude": 133.5606241
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260518110241_0_VPWW53_230000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【愛知県気象警報・注意報】注意報を解除します。",
+      "observedAt": "2026-05-18T11:02:41.000Z",
+      "placeCountry": "日本",
+      "placePref": "愛知県",
+      "placeCity": null,
+      "latitude": 34.9991645,
+      "longitude": 137.254574
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260518071646_0_VPWW53_100000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【群馬県気象警報・注意報】群馬県では、１９日まで空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
+      "observedAt": "2026-05-18T07:16:45.000Z",
+      "placeCountry": "日本",
+      "placePref": "群馬県",
+      "placeCity": null,
+      "latitude": 36.52198,
+      "longitude": 139.033483
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260518070730_0_VPWW53_090000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【栃木県気象警報・注意報】栃木県では、１９日まで空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
+      "observedAt": "2026-05-18T07:07:30.000Z",
+      "placeCountry": "日本",
+      "placePref": "栃木県",
+      "placeCity": null,
+      "latitude": 36.6782167,
+      "longitude": 139.8096549
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260518070548_0_VPWW53_460040.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【奄美地方（鹿児島県）気象警報・注意報】奄美地方では、高波に注意してください。",
+      "observedAt": "2026-05-18T07:05:48.000Z",
+      "placeCountry": "日本",
+      "placePref": "鹿児島県",
+      "placeCity": null,
+      "latitude": 31.521587,
+      "longitude": 130.5474077
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260518064021_0_VPWW53_440000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【大分県気象警報・注意報】中部、北部では、１９日まで高潮に注意してください。大分県では、１８日まで空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
+      "observedAt": "2026-05-18T06:40:21.000Z",
+      "placeCountry": "日本",
+      "placePref": "大分県",
+      "placeCity": null,
+      "latitude": 33.1819875,
+      "longitude": 131.4270217
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260518063252_0_VPWW53_250000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【滋賀県気象警報・注意報】滋賀県では、１９日まで空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
+      "observedAt": "2026-05-18T06:32:51.000Z",
+      "placeCountry": "日本",
+      "placePref": "滋賀県",
+      "placeCity": null,
+      "latitude": 35.247154,
+      "longitude": 136.109385
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260518062531_0_VPWW53_030000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【岩手県気象警報・注意報】内陸では、２０日まで空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
+      "observedAt": "2026-05-18T06:25:31.000Z",
+      "placeCountry": "日本",
+      "placePref": "岩手県",
+      "placeCity": null,
+      "latitude": 39.5713763,
+      "longitude": 141.4253574
+    }
+  ]
+}

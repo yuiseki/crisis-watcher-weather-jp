@@ -1,0 +1,229 @@
+{
+  "generatedAt": "2026-04-28T11:38:38.070Z",
+  "timeZone": "Asia/Tokyo",
+  "hourPath": "2026/04/28/20",
+  "source": "http://www.data.jma.go.jp/developer/xml/feed/extra.xml",
+  "totalItems": 20,
+  "items": [
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260428110328_0_VPWW53_320000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【島根県気象警報・注意報】注意報を解除します。",
+      "observedAt": "2026-04-28T11:03:27.000Z",
+      "placeCountry": "日本",
+      "placePref": "島根県",
+      "placeCity": null,
+      "latitude": 34.9418212,
+      "longitude": 132.537439
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260428104914_0_VPWW53_130000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【東京都気象警報・注意報】東京地方では、２８日夜遅くまで強風や高波に注意してください。",
+      "observedAt": "2026-04-28T10:49:13.000Z",
+      "placeCountry": "日本",
+      "placePref": "東京都",
+      "placeCity": null,
+      "latitude": 35.6828387,
+      "longitude": 139.7594549
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260428100146_0_VPWW53_290000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【奈良県気象警報・注意報】注意報を解除します。",
+      "observedAt": "2026-04-28T10:01:45.000Z",
+      "placeCountry": "日本",
+      "placePref": "奈良県",
+      "placeCity": null,
+      "latitude": 34.2963089,
+      "longitude": 135.8816819
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260428092735_0_VPWW53_150000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【新潟県気象警報・注意報】新潟県では、２８日夜遅くまで急な強い雨や落雷に注意してください。",
+      "observedAt": "2026-04-28T09:27:35.000Z",
+      "placeCountry": "日本",
+      "placePref": "新潟県",
+      "placeCity": null,
+      "latitude": 37.6452283,
+      "longitude": 138.7669125
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260428091821_0_VPWW53_310000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【鳥取県気象警報・注意報】注意報を解除します。",
+      "observedAt": "2026-04-28T09:18:21.000Z",
+      "placeCountry": "日本",
+      "placePref": "鳥取県",
+      "placeCity": null,
+      "latitude": 35.3555075,
+      "longitude": 133.8678525
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260428072425_0_VPWW53_200000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【長野県気象警報・注意報】中部では、２９日まで空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
+      "observedAt": "2026-04-28T07:24:24.000Z",
+      "placeCountry": "日本",
+      "placePref": "長野県",
+      "placeCity": null,
+      "latitude": 36.1143945,
+      "longitude": 138.0319015
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260428071813_0_VPWW53_120000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【千葉県気象警報・注意報】北西部では２８日夜遅くまで、北東部、南部では２９日明け方まで、強風や高波に注意してください。",
+      "observedAt": "2026-04-28T07:18:12.000Z",
+      "placeCountry": "日本",
+      "placePref": "千葉県",
+      "placeCity": null,
+      "latitude": 35.549399,
+      "longitude": 140.2647303
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260428070829_0_VPWW53_030000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【岩手県気象警報・注意報】岩手県では、２８日夜遅くまで急な強い雨や落雷に、２９日昼前まで濃霧による視程障害に注意してください。内陸では、ここしばらくなだれに注意してください。",
+      "observedAt": "2026-04-28T07:08:28.000Z",
+      "placeCountry": "日本",
+      "placePref": "岩手県",
+      "placeCity": null,
+      "latitude": 39.5713763,
+      "longitude": 141.4253574
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260428070229_0_VPWW53_420000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【長崎県気象警報・注意報】北部、壱岐・対馬では２９日明け方まで、南部、五島では２９日未明から２９日明け方まで、強風に注意してください。",
+      "observedAt": "2026-04-28T07:02:28.000Z",
+      "placeCountry": "日本",
+      "placePref": "長崎県",
+      "placeCity": null,
+      "latitude": 33.1154683,
+      "longitude": 129.7874339
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260428064311_0_VPWW53_350000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【山口県気象警報・注意報】西部、北部では、２９日未明まで強風に注意してください。",
+      "observedAt": "2026-04-28T06:43:10.000Z",
+      "placeCountry": "日本",
+      "placePref": "山口県",
+      "placeCity": null,
+      "latitude": 34.2379614,
+      "longitude": 131.5873845
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260428053917_0_VPWW53_220000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【静岡県気象警報・注意報】伊豆では、２８日夜遅くまで強風に注意してください。",
+      "observedAt": "2026-04-28T05:39:17.000Z",
+      "placeCountry": "日本",
+      "placePref": "静岡県",
+      "placeCity": null,
+      "latitude": 34.9332488,
+      "longitude": 138.0955398
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260428050303_0_VPWW53_320000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【島根県気象警報・注意報】島根県では、２８日夜のはじめ頃まで強風に注意してください。",
+      "observedAt": "2026-04-28T05:03:02.000Z",
+      "placeCountry": "日本",
+      "placePref": "島根県",
+      "placeCity": null,
+      "latitude": 34.9418212,
+      "longitude": 132.537439
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260428040531_0_VPWW53_140000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【神奈川県気象警報・注意報】神奈川県では、２９日明け方まで強風に注意してください。東部では、２８日夕方から２９日昼前まで高波に注意してください。",
+      "observedAt": "2026-04-28T04:05:30.000Z",
+      "placeCountry": "日本",
+      "placePref": "神奈川県",
+      "placeCity": null,
+      "latitude": 35.4342935,
+      "longitude": 139.374753
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260428040153_0_VPWW53_200000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【長野県気象警報・注意報】中部では、２８日夕方まで強風に、２９日まで空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
+      "observedAt": "2026-04-28T04:01:52.000Z",
+      "placeCountry": "日本",
+      "placePref": "長野県",
+      "placeCity": null,
+      "latitude": 36.1143945,
+      "longitude": 138.0319015
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260428012144_0_VPWW53_140000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【神奈川県気象警報・注意報】神奈川県では、２８日昼過ぎから２８日夜遅くまで強風に注意してください。東部では、２８日夕方から２９日明け方まで高波に注意してください。",
+      "observedAt": "2026-04-28T01:21:44.000Z",
+      "placeCountry": "日本",
+      "placePref": "神奈川県",
+      "placeCity": null,
+      "latitude": 35.4342935,
+      "longitude": 139.374753
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260428010936_0_VPWW53_120000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【千葉県気象警報・注意報】北西部では２８日夜遅くまで、南部では２９日明け方まで、北東部では２８日夕方から２８日夜遅くまで、強風や高波に注意してください。",
+      "observedAt": "2026-04-28T01:09:35.000Z",
+      "placeCountry": "日本",
+      "placePref": "千葉県",
+      "placeCity": null,
+      "latitude": 35.549399,
+      "longitude": 140.2647303
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260428010732_0_VPWW53_310000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【鳥取県気象警報・注意報】鳥取県では、２８日昼過ぎから２８日夕方まで強風に注意してください。",
+      "observedAt": "2026-04-28T01:07:31.000Z",
+      "placeCountry": "日本",
+      "placePref": "鳥取県",
+      "placeCity": null,
+      "latitude": 35.3555075,
+      "longitude": 133.8678525
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260428010626_0_VPWW53_060000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【山形県気象警報・注意報】山形県では、２８日昼過ぎから２８日夜遅くまで急な強い雨や落雷に、ここしばらくなだれに注意してください。",
+      "observedAt": "2026-04-28T01:06:25.000Z",
+      "placeCountry": "日本",
+      "placePref": "山形県",
+      "placeCity": null,
+      "latitude": 38.4746705,
+      "longitude": 140.083237
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260428010625_0_VPWW53_050000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【秋田県気象警報・注意報】秋田県では、２８日昼過ぎから２８日夜遅くまで急な強い雨や落雷に注意してください。内陸では、ここしばらくなだれに注意してください。",
+      "observedAt": "2026-04-28T01:06:24.000Z",
+      "placeCountry": "日本",
+      "placePref": "秋田県",
+      "placeCity": null,
+      "latitude": 39.6898802,
+      "longitude": 140.342608
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260428010347_0_VPWW53_150000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【新潟県気象警報・注意報】下越、佐渡では、２８日夕方から２８日夜遅くまで急な強い雨や落雷に注意してください。",
+      "observedAt": "2026-04-28T01:03:46.000Z",
+      "placeCountry": "日本",
+      "placePref": "新潟県",
+      "placeCity": null,
+      "latitude": 37.6452283,
+      "longitude": 138.7669125
+    }
+  ]
+}

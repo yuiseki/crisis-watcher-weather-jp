@@ -1,0 +1,64 @@
+{
+  "generatedAt": "2026-05-06T17:38:23.774Z",
+  "timeZone": "Asia/Tokyo",
+  "hourPath": "2026/05/07/02",
+  "source": "http://www.data.jma.go.jp/developer/xml/feed/extra.xml",
+  "totalItems": 5,
+  "items": [
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260506170931_0_VPWW53_240000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【三重県気象警報・注意報】北中部では、７日昼前まで濃霧による視程障害に注意してください。",
+      "observedAt": "2026-05-06T17:09:30.000Z",
+      "placeCountry": "日本",
+      "placePref": "三重県",
+      "placeCity": null,
+      "latitude": 34.7339685,
+      "longitude": 136.5154489
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260506110527_0_VPWW53_430000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【熊本県気象警報・注意報】注意報を解除します。",
+      "observedAt": "2026-05-06T11:05:26.000Z",
+      "placeCountry": "日本",
+      "placePref": "熊本県",
+      "placeCity": null,
+      "latitude": 32.6450475,
+      "longitude": 130.6341345
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260506110524_0_VPWW53_440000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【大分県気象警報・注意報】注意報を解除します。",
+      "observedAt": "2026-05-06T11:05:23.000Z",
+      "placeCountry": "日本",
+      "placePref": "大分県",
+      "placeCity": null,
+      "latitude": 33.1819875,
+      "longitude": 131.4270217
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260506071033_0_VPWW53_460040.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【奄美地方（鹿児島県）気象警報・注意報】注意報を解除します。",
+      "observedAt": "2026-05-06T07:10:32.000Z",
+      "placeCountry": "日本",
+      "placePref": "鹿児島県",
+      "placeCity": null,
+      "latitude": 31.521587,
+      "longitude": 130.5474077
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260506071026_0_VPWW53_020000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【青森県気象警報・注意報】津軽では、高波に注意してください。青森県では、空気の乾燥した状態が続くため、火の取り扱いに注意してください。津軽、三八上北では、なだれに注意してください。",
+      "observedAt": "2026-05-06T07:10:25.000Z",
+      "placeCountry": "日本",
+      "placePref": "青森県",
+      "placeCity": null,
+      "latitude": 40.886943,
+      "longitude": 140.590121
+    }
+  ]
+}

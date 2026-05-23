@@ -1,0 +1,152 @@
+{
+  "generatedAt": "2026-05-05T12:37:11.732Z",
+  "timeZone": "Asia/Tokyo",
+  "hourPath": "2026/05/05/21",
+  "source": "http://www.data.jma.go.jp/developer/xml/feed/extra.xml",
+  "totalItems": 13,
+  "items": [
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260505120231_0_VPWW53_090000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【栃木県気象警報・注意報】注意報を解除します。",
+      "observedAt": "2026-05-05T12:02:30.000Z",
+      "placeCountry": "日本",
+      "placePref": "栃木県",
+      "placeCity": null,
+      "latitude": 36.6782167,
+      "longitude": 139.8096549
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260505112934_0_VPWW53_210000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【岐阜県気象警報・注意報】注意報を解除します。",
+      "observedAt": "2026-05-05T11:29:33.000Z",
+      "placeCountry": "日本",
+      "placePref": "岐阜県",
+      "placeCity": null,
+      "latitude": 35.7867449,
+      "longitude": 137.0460777
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260505112008_0_VPWW53_450000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【宮崎県気象警報・注意報】注意報を解除します。",
+      "observedAt": "2026-05-05T11:20:07.000Z",
+      "placeCountry": "日本",
+      "placePref": "宮崎県",
+      "placeCity": null,
+      "latitude": 32.097681,
+      "longitude": 131.294542
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260505111020_0_VPWW53_380000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【愛媛県気象警報・注意報】南予では、５日夜遅くまで強風や高波に注意してください。",
+      "observedAt": "2026-05-05T11:10:20.000Z",
+      "placeCountry": "日本",
+      "placePref": "愛媛県",
+      "placeCity": null,
+      "latitude": 33.6013646,
+      "longitude": 132.8185275
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260505095124_0_VPWW53_120000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【千葉県気象警報・注意報】注意報を解除します。",
+      "observedAt": "2026-05-05T09:51:23.000Z",
+      "placeCountry": "日本",
+      "placePref": "千葉県",
+      "placeCity": null,
+      "latitude": 35.549399,
+      "longitude": 140.2647303
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260505070523_0_VPWW53_140000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【神奈川県気象警報・注意報】注意報を解除します。",
+      "observedAt": "2026-05-05T07:05:23.000Z",
+      "placeCountry": "日本",
+      "placePref": "神奈川県",
+      "placeCity": null,
+      "latitude": 35.4342935,
+      "longitude": 139.374753
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260505064728_0_VPWW53_020000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【青森県気象警報・注意報】津軽、三八上北では、強風やなだれに注意してください。青森県では、高波と、空気の乾燥した状態が続くため火の取り扱いに注意してください。",
+      "observedAt": "2026-05-05T06:47:27.000Z",
+      "placeCountry": "日本",
+      "placePref": "青森県",
+      "placeCity": null,
+      "latitude": 40.886943,
+      "longitude": 140.590121
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260505063015_0_VPWW53_040000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【宮城県気象警報・注意報】宮城県では、７日まで空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
+      "observedAt": "2026-05-05T06:30:14.000Z",
+      "placeCountry": "日本",
+      "placePref": "宮城県",
+      "placeCity": null,
+      "latitude": 38.3880155,
+      "longitude": 140.9761025
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260505060234_0_VPWW53_190000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【山梨県気象警報・注意報】山梨県では、６日朝は霜に対する農作物の管理に注意してください。",
+      "observedAt": "2026-05-05T06:02:34.000Z",
+      "placeCountry": "日本",
+      "placePref": "山梨県",
+      "placeCity": null,
+      "latitude": 35.6399328,
+      "longitude": 138.6380495
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260505055013_0_VPWW53_150000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【新潟県気象警報・注意報】注意報を解除します。",
+      "observedAt": "2026-05-05T05:50:12.000Z",
+      "placeCountry": "日本",
+      "placePref": "新潟県",
+      "placeCity": null,
+      "latitude": 37.6452283,
+      "longitude": 138.7669125
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260505054033_0_VPWW53_200000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【長野県気象警報・注意報】中部では、６日まで空気の乾燥した状態が続くため、火の取り扱いに注意してください。中部、南部では、６日朝は霜に対する農作物の管理に注意してください。",
+      "observedAt": "2026-05-05T05:40:32.000Z",
+      "placeCountry": "日本",
+      "placePref": "長野県",
+      "placeCity": null,
+      "latitude": 36.1143945,
+      "longitude": 138.0319015
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260505052431_0_VPWW53_100000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【群馬県気象警報・注意報】北部では、６日朝は霜に対する農作物の管理に注意してください。",
+      "observedAt": "2026-05-05T05:24:30.000Z",
+      "placeCountry": "日本",
+      "placePref": "群馬県",
+      "placeCity": null,
+      "latitude": 36.52198,
+      "longitude": 139.033483
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260505041142_0_VPWW53_030000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【岩手県気象警報・注意報】岩手県では、空気の乾燥した状態が続くため、火の取り扱いに注意してください。内陸では、なだれに注意してください。内陸、沿岸北部では、霜に対する農作物の管理に注意してください。",
+      "observedAt": "2026-05-05T04:11:41.000Z",
+      "placeCountry": "日本",
+      "placePref": "岩手県",
+      "placeCity": null,
+      "latitude": 39.5713763,
+      "longitude": 141.4253574
+    }
+  ]
+}

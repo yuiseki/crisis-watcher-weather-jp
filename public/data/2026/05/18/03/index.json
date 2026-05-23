@@ -1,0 +1,86 @@
+{
+  "generatedAt": "2026-05-17T18:30:32.759Z",
+  "timeZone": "Asia/Tokyo",
+  "hourPath": "2026/05/18/03",
+  "source": "http://www.data.jma.go.jp/developer/xml/feed/extra.xml",
+  "totalItems": 7,
+  "items": [
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260517181451_0_VPWW53_420000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【長崎県気象警報・注意報】壱岐・対馬では高潮に、北部、壱岐・対馬、五島では濃霧による視程障害に、南部、北部では空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
+      "observedAt": "2026-05-17T18:14:50.000Z",
+      "placeCountry": "日本",
+      "placePref": "長崎県",
+      "placeCity": null,
+      "latitude": 33.1154683,
+      "longitude": 129.7874339
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260517161947_0_VPWW53_370000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【香川県気象警報・注意報】香川県では、１９日まで空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
+      "observedAt": "2026-05-17T16:19:47.000Z",
+      "placeCountry": "日本",
+      "placePref": "香川県",
+      "placeCity": null,
+      "latitude": 34.2480104,
+      "longitude": 134.0586579
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260517161443_0_VPWW53_340000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【広島県気象警報・注意報】広島県では、１９日まで空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
+      "observedAt": "2026-05-17T16:14:42.000Z",
+      "placeCountry": "日本",
+      "placePref": "広島県",
+      "placeCity": null,
+      "latitude": 34.5666725,
+      "longitude": 132.753565
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260517133515_0_VPWW53_430000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【熊本県気象警報・注意報】天草・芦北地方では、１９日まで高潮に注意してください。熊本県では、１９日まで空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
+      "observedAt": "2026-05-17T13:35:14.000Z",
+      "placeCountry": "日本",
+      "placePref": "熊本県",
+      "placeCity": null,
+      "latitude": 32.6450475,
+      "longitude": 130.6341345
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260517131510_0_VPWW53_070000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【福島県気象警報・注意報】浜通りでは、１８日昼前まで濃霧による視程障害に注意してください。中通り、会津では、ここしばらく空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
+      "observedAt": "2026-05-17T13:15:09.000Z",
+      "placeCountry": "日本",
+      "placePref": "福島県",
+      "placeCity": null,
+      "latitude": 37.3662591,
+      "longitude": 140.2511854
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260517131507_0_VPWW53_040000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【宮城県気象警報・注意報】東部では、１８日昼前まで濃霧による視程障害に注意してください。",
+      "observedAt": "2026-05-17T13:15:06.000Z",
+      "placeCountry": "日本",
+      "placePref": "宮城県",
+      "placeCity": null,
+      "latitude": 38.3880155,
+      "longitude": 140.9761025
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260517125705_0_VPWW53_030000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【岩手県気象警報・注意報】沿岸北部、沿岸南部では、１８日昼前まで濃霧による視程障害に注意してください。内陸では、ここしばらく空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
+      "observedAt": "2026-05-17T12:57:05.000Z",
+      "placeCountry": "日本",
+      "placePref": "岩手県",
+      "placeCity": null,
+      "latitude": 39.5713763,
+      "longitude": 141.4253574
+    }
+  ]
+}
