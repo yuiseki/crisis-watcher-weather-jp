@@ -1,0 +1,185 @@
+{
+  "generatedAt": "2026-04-18T05:37:35.438Z",
+  "timeZone": "Asia/Tokyo",
+  "hourPath": "2026/04/18/14",
+  "source": "http://www.data.jma.go.jp/developer/xml/feed/extra.xml",
+  "totalItems": 16,
+  "items": [
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260418052832_0_VPWW53_200000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【長野県気象警報・注意報】北部、中部では、２０日まで空気の乾燥した状態が続くため、火の取り扱いに注意してください。中部、南部では、１９日朝は霜に対する農作物の管理に注意してください。",
+      "observedAt": "2026-04-18T05:28:31.000Z",
+      "placeCountry": "日本",
+      "placePref": "長野県",
+      "placeCity": null,
+      "latitude": 36.1143945,
+      "longitude": 138.0319015
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260418052715_0_VPWW53_100000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【群馬県気象警報・注意報】北部では、１９日朝は霜に対する農作物の管理に注意してください。",
+      "observedAt": "2026-04-18T05:27:15.000Z",
+      "placeCountry": "日本",
+      "placePref": "群馬県",
+      "placeCity": null,
+      "latitude": 36.52198,
+      "longitude": 139.033483
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260418040823_0_VPWW53_280000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【兵庫県気象警報・注意報】南部では、高波と、空気の乾燥した状態が続くため火の取り扱いに注意してください。",
+      "observedAt": "2026-04-18T04:08:22.000Z",
+      "placeCountry": "日本",
+      "placePref": "兵庫県",
+      "placeCity": null,
+      "latitude": 34.914934,
+      "longitude": 134.860666
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260418040427_0_VPWW53_150000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【新潟県気象警報・注意報】佐渡では、強風に注意してください。中越、上越では、融雪による土砂災害に注意してください。中越では、なだれに注意してください。",
+      "observedAt": "2026-04-18T04:04:26.000Z",
+      "placeCountry": "日本",
+      "placePref": "新潟県",
+      "placeCity": null,
+      "latitude": 37.6452283,
+      "longitude": 138.7669125
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260418010622_0_VPWW53_020000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【青森県気象警報・注意報】津軽、三八上北では、強風や乾燥、なだれに注意してください。青森県では、霜に対する農作物の管理に注意してください。",
+      "observedAt": "2026-04-18T01:06:21.000Z",
+      "placeCountry": "日本",
+      "placePref": "青森県",
+      "placeCity": null,
+      "latitude": 40.886943,
+      "longitude": 140.590121
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260418010517_0_VPWW53_420000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【長崎県気象警報・注意報】五島では、強風や高波、急な強い雨、落雷に注意してください。南部、北部、壱岐・対馬では、高潮に注意してください。",
+      "observedAt": "2026-04-18T01:05:16.000Z",
+      "placeCountry": "日本",
+      "placePref": "長崎県",
+      "placeCity": null,
+      "latitude": 33.1154683,
+      "longitude": 129.7874339
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260418005309_0_VPWW53_030000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【岩手県気象警報・注意報】沿岸北部、沿岸南部では高波に、岩手県では空気の乾燥した状態が続くため、火の取り扱いに、内陸ではなだれに、内陸、沿岸北部では霜に対する農作物の管理に注意してください。",
+      "observedAt": "2026-04-18T00:53:08.000Z",
+      "placeCountry": "日本",
+      "placePref": "岩手県",
+      "placeCity": null,
+      "latitude": 39.5713763,
+      "longitude": 141.4253574
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260418000643_0_VPWW53_050000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【秋田県気象警報・注意報】秋田県では、１８日夕方まで落雷に注意してください。内陸では、ここしばらくなだれに注意してください。",
+      "observedAt": "2026-04-18T00:06:43.000Z",
+      "placeCountry": "日本",
+      "placePref": "秋田県",
+      "placeCity": null,
+      "latitude": 39.6898802,
+      "longitude": 140.342608
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260417225442_0_VPWW53_020000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【青森県気象警報・注意報】津軽、三八上北では、強風や乾燥、なだれに注意してください。津軽、下北では、濃霧による視程障害に注意してください。",
+      "observedAt": "2026-04-17T22:54:41.000Z",
+      "placeCountry": "日本",
+      "placePref": "青森県",
+      "placeCity": null,
+      "latitude": 40.886943,
+      "longitude": 140.590121
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260417223718_0_VPWW53_170000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【石川県気象警報・注意報】加賀では、１８日まで空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
+      "observedAt": "2026-04-17T22:37:18.000Z",
+      "placeCountry": "日本",
+      "placePref": "石川県",
+      "placeCity": null,
+      "latitude": 36.9888678,
+      "longitude": 136.8163563
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260417221434_0_VPWW53_100000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【群馬県気象警報・注意報】注意報を解除します。",
+      "observedAt": "2026-04-17T22:14:34.000Z",
+      "placeCountry": "日本",
+      "placePref": "群馬県",
+      "placeCity": null,
+      "latitude": 36.52198,
+      "longitude": 139.033483
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260417221152_0_VPWW53_090000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【栃木県気象警報・注意報】栃木県では、１９日まで空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
+      "observedAt": "2026-04-17T22:11:51.000Z",
+      "placeCountry": "日本",
+      "placePref": "栃木県",
+      "placeCity": null,
+      "latitude": 36.6782167,
+      "longitude": 139.8096549
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260417220425_0_VPWW53_190000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【山梨県気象警報・注意報】注意報を解除します。",
+      "observedAt": "2026-04-17T22:04:24.000Z",
+      "placeCountry": "日本",
+      "placePref": "山梨県",
+      "placeCity": null,
+      "latitude": 35.6399328,
+      "longitude": 138.6380495
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260417214726_0_VPWW53_200000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【長野県気象警報・注意報】北部、中部では、２０日まで空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
+      "observedAt": "2026-04-17T21:47:25.000Z",
+      "placeCountry": "日本",
+      "placePref": "長野県",
+      "placeCity": null,
+      "latitude": 36.1143945,
+      "longitude": 138.0319015
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260417212409_0_VPWW53_080000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【茨城県気象警報・注意報】茨城県では、高波に注意してください。",
+      "observedAt": "2026-04-17T21:24:09.000Z",
+      "placeCountry": "日本",
+      "placePref": "茨城県",
+      "placeCity": null,
+      "latitude": 36.2869536,
+      "longitude": 140.4703384
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260417211218_0_VPWW53_070000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【福島県気象警報・注意報】浜通りでは、高波に注意してください。中通り、会津では、空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
+      "observedAt": "2026-04-17T21:12:17.000Z",
+      "placeCountry": "日本",
+      "placePref": "福島県",
+      "placeCity": null,
+      "latitude": 37.3662591,
+      "longitude": 140.2511854
+    }
+  ]
+}

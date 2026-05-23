@@ -1,0 +1,64 @@
+{
+  "generatedAt": "2026-03-11T18:25:53.739Z",
+  "timeZone": "Asia/Tokyo",
+  "hourPath": "2026/03/12/03",
+  "source": "http://www.data.jma.go.jp/developer/xml/feed/extra.xml",
+  "totalItems": 5,
+  "items": [
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260311123517_0_VPWW53_130000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【東京都気象警報・注意報】伊豆諸島北部、伊豆諸島南部、小笠原諸島では高波に、伊豆諸島北部、伊豆諸島南部では急な強い雨や落雷に、東京地方では空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
+      "observedAt": "2026-03-11T12:35:16.000Z",
+      "placeCountry": "日本",
+      "placePref": "東京都",
+      "placeCity": null,
+      "latitude": 35.6828387,
+      "longitude": 139.7594549
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260311120444_0_VPWW53_130000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【東京都気象警報・注意報】伊豆諸島北部、小笠原諸島では高波に、伊豆諸島北部、伊豆諸島南部では急な強い雨や落雷に、東京地方では空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
+      "observedAt": "2026-03-11T12:04:44.000Z",
+      "placeCountry": "日本",
+      "placePref": "東京都",
+      "placeCity": null,
+      "latitude": 35.6828387,
+      "longitude": 139.7594549
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260311115425_0_VPWW53_460100.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【鹿児島県（奄美地方を除く）気象警報・注意報】大隅、種子島・屋久島地方では、竜巻などの激しい突風や急な強い雨、落雷に注意してください。薩摩、大隅地方では、乾燥や霜に対する農作物の管理に注意してください。",
+      "observedAt": "2026-03-11T11:54:24.000Z",
+      "placeCountry": "日本",
+      "placePref": "鹿児島県",
+      "placeCity": null,
+      "latitude": 31.521587,
+      "longitude": 130.5474077
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260311111529_0_VPWW53_170000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【石川県気象警報・注意報】石川県では、１２日まで低温に注意してください。",
+      "observedAt": "2026-03-11T11:15:28.000Z",
+      "placeCountry": "日本",
+      "placePref": "石川県",
+      "placeCity": null,
+      "latitude": 36.9888678,
+      "longitude": 136.8163563
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260311100042_0_VPWW53_450000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【宮崎県気象警報・注意報】南部平野部では、急な強い雨や落雷に注意してください。南部山沿い、北部山沿いでは、霜に対する農作物の管理に注意してください。",
+      "observedAt": "2026-03-11T10:00:41.000Z",
+      "placeCountry": "日本",
+      "placePref": "宮崎県",
+      "placeCity": null,
+      "latitude": 32.097681,
+      "longitude": 131.294542
+    }
+  ]
+}

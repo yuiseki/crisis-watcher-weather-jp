@@ -1,0 +1,174 @@
+{
+  "generatedAt": "2026-04-29T12:44:58.421Z",
+  "timeZone": "Asia/Tokyo",
+  "hourPath": "2026/04/29/21",
+  "source": "http://www.data.jma.go.jp/developer/xml/feed/extra.xml",
+  "totalItems": 15,
+  "items": [
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260429123608_0_VPWW53_200000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【長野県気象警報・注意報】中部、南部では、３０日朝は霜に対する農作物の管理に注意してください。",
+      "observedAt": "2026-04-29T12:36:07.000Z",
+      "placeCountry": "日本",
+      "placePref": "長野県",
+      "placeCity": null,
+      "latitude": 36.1143945,
+      "longitude": 138.0319015
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260429110206_0_VPWW53_340000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【広島県気象警報・注意報】注意報を解除します。",
+      "observedAt": "2026-04-29T11:02:06.000Z",
+      "placeCountry": "日本",
+      "placePref": "広島県",
+      "placeCity": null,
+      "latitude": 34.5666725,
+      "longitude": 132.753565
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260429070837_0_VPWW53_100000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【群馬県気象警報・注意報】群馬県では、３０日未明から３０日昼前まで濃霧による視程障害に注意してください。北部では、３０日朝は霜に対する農作物の管理に注意してください。",
+      "observedAt": "2026-04-29T07:08:36.000Z",
+      "placeCountry": "日本",
+      "placePref": "群馬県",
+      "placeCity": null,
+      "latitude": 36.52198,
+      "longitude": 139.033483
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260429070636_0_VPWW53_420000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【長崎県気象警報・注意報】南部、北部、五島では、３０日明け方から強風に注意してください。",
+      "observedAt": "2026-04-29T07:06:36.000Z",
+      "placeCountry": "日本",
+      "placePref": "長崎県",
+      "placeCity": null,
+      "latitude": 33.1154683,
+      "longitude": 129.7874339
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260429070532_0_VPWW53_430000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【熊本県気象警報・注意報】天草・芦北地方では、３０日明け方から強風に注意してください。",
+      "observedAt": "2026-04-29T07:05:31.000Z",
+      "placeCountry": "日本",
+      "placePref": "熊本県",
+      "placeCity": null,
+      "latitude": 32.6450475,
+      "longitude": 130.6341345
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260429070317_0_VPWW53_190000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【山梨県気象警報・注意報】東部・富士五湖では、２９日夜のはじめ頃から３０日昼前まで濃霧による視程障害に注意してください。",
+      "observedAt": "2026-04-29T07:03:16.000Z",
+      "placeCountry": "日本",
+      "placePref": "山梨県",
+      "placeCity": null,
+      "latitude": 35.6399328,
+      "longitude": 138.6380495
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260429070213_0_VPWW53_130000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【東京都気象警報・注意報】注意報を解除します。",
+      "observedAt": "2026-04-29T07:02:13.000Z",
+      "placeCountry": "日本",
+      "placePref": "東京都",
+      "placeCity": null,
+      "latitude": 35.6828387,
+      "longitude": 139.7594549
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260429065215_0_VPWW53_460040.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【奄美地方（鹿児島県）気象警報・注意報】奄美地方では、３０日未明から３０日夕方まで竜巻などの激しい突風や急な強い雨、落雷に注意してください。",
+      "observedAt": "2026-04-29T06:52:14.000Z",
+      "placeCountry": "日本",
+      "placePref": "鹿児島県",
+      "placeCity": null,
+      "latitude": 31.521587,
+      "longitude": 130.5474077
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260429065043_0_VPWW53_460100.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【鹿児島県（奄美地方を除く）気象警報・注意報】種子島・屋久島地方では、３０日明け方から３０日夕方まで竜巻などの激しい突風や急な強い雨、落雷に注意してください。",
+      "observedAt": "2026-04-29T06:50:43.000Z",
+      "placeCountry": "日本",
+      "placePref": "鹿児島県",
+      "placeCity": null,
+      "latitude": 31.521587,
+      "longitude": 130.5474077
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260429064153_0_VPWW53_220000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【静岡県気象警報・注意報】注意報を解除します。",
+      "observedAt": "2026-04-29T06:41:53.000Z",
+      "placeCountry": "日本",
+      "placePref": "静岡県",
+      "placeCity": null,
+      "latitude": 34.9332488,
+      "longitude": 138.0955398
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260429060422_0_VPWW53_260000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【京都府気象警報・注意報】注意報を解除します。",
+      "observedAt": "2026-04-29T06:04:21.000Z",
+      "placeCountry": "日本",
+      "placePref": "京都府",
+      "placeCity": null,
+      "latitude": 35.242552,
+      "longitude": 135.454601
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260429053808_0_VPWW53_100000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【群馬県気象警報・注意報】北部では、３０日朝は霜に対する農作物の管理に注意してください。",
+      "observedAt": "2026-04-29T05:38:07.000Z",
+      "placeCountry": "日本",
+      "placePref": "群馬県",
+      "placeCity": null,
+      "latitude": 36.52198,
+      "longitude": 139.033483
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260429053646_0_VPWW53_200000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【長野県気象警報・注意報】中部では、２９日まで空気の乾燥した状態が続くため、火の取り扱いに注意してください。中部、南部では、３０日朝は霜に対する農作物の管理に注意してください。",
+      "observedAt": "2026-04-29T05:36:45.000Z",
+      "placeCountry": "日本",
+      "placePref": "長野県",
+      "placeCity": null,
+      "latitude": 36.1143945,
+      "longitude": 138.0319015
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260429052607_0_VPWW53_150000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【新潟県気象警報・注意報】下越では、３０日朝は霜に対する農作物の管理に注意してください。",
+      "observedAt": "2026-04-29T05:26:07.000Z",
+      "placeCountry": "日本",
+      "placePref": "新潟県",
+      "placeCity": null,
+      "latitude": 37.6452283,
+      "longitude": 138.7669125
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260429030229_0_VPWW53_220000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【静岡県気象警報・注意報】中部、西部では、２９日夕方まで強風に注意してください。",
+      "observedAt": "2026-04-29T03:02:28.000Z",
+      "placeCountry": "日本",
+      "placePref": "静岡県",
+      "placeCity": null,
+      "latitude": 34.9332488,
+      "longitude": 138.0955398
+    }
+  ]
+}

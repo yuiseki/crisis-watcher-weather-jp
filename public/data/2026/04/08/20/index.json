@@ -1,0 +1,229 @@
+{
+  "generatedAt": "2026-04-08T11:25:46.691Z",
+  "timeZone": "Asia/Tokyo",
+  "hourPath": "2026/04/08/20",
+  "source": "http://www.data.jma.go.jp/developer/xml/feed/extra.xml",
+  "totalItems": 20,
+  "items": [
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260408111929_0_VPWW53_230000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【愛知県気象警報・注意報】注意報を解除します。",
+      "observedAt": "2026-04-08T11:19:28.000Z",
+      "placeCountry": "日本",
+      "placePref": "愛知県",
+      "placeCity": null,
+      "latitude": 34.9991645,
+      "longitude": 137.254574
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260408072204_0_VPWW53_420000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【長崎県気象警報・注意報】南部、北部では、９日未明から強風に、９日まで空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
+      "observedAt": "2026-04-08T07:22:03.000Z",
+      "placeCountry": "日本",
+      "placePref": "長崎県",
+      "placeCity": null,
+      "latitude": 33.1154683,
+      "longitude": 129.7874339
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260408070352_0_VPWW53_130000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【東京都気象警報・注意報】伊豆諸島南部では、８日夜遅くまで高波に注意してください。東京地方では、９日朝は霜に対する農作物の管理に注意してください。",
+      "observedAt": "2026-04-08T07:03:51.000Z",
+      "placeCountry": "日本",
+      "placePref": "東京都",
+      "placeCity": null,
+      "latitude": 35.6828387,
+      "longitude": 139.7594549
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260408062510_0_VPWW53_430000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【熊本県気象警報・注意報】天草・芦北地方では強風に、熊本県では空気の乾燥した状態が続くため、火の取り扱いに、熊本、阿蘇、球磨地方では霜に対する農作物の管理に注意してください。",
+      "observedAt": "2026-04-08T06:25:09.000Z",
+      "placeCountry": "日本",
+      "placePref": "熊本県",
+      "placeCity": null,
+      "latitude": 32.6450475,
+      "longitude": 130.6341345
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260408060818_0_VPWW53_190000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【山梨県気象警報・注意報】山梨県では、９日朝は霜に対する農作物の管理に注意してください。",
+      "observedAt": "2026-04-08T06:08:17.000Z",
+      "placeCountry": "日本",
+      "placePref": "山梨県",
+      "placeCity": null,
+      "latitude": 35.6399328,
+      "longitude": 138.6380495
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260408060443_0_VPWW53_090000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【栃木県気象警報・注意報】栃木県では、９日朝は霜に対する農作物の管理に注意してください。",
+      "observedAt": "2026-04-08T06:04:42.000Z",
+      "placeCountry": "日本",
+      "placePref": "栃木県",
+      "placeCity": null,
+      "latitude": 36.6782167,
+      "longitude": 139.8096549
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260408060211_0_VPWW53_160000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【富山県気象警報・注意報】東部では、８日夜遅くから融雪による土砂災害に、ここしばらくなだれに注意してください。富山県では、９日朝は霜に対する農作物の管理に注意してください。",
+      "observedAt": "2026-04-08T06:02:11.000Z",
+      "placeCountry": "日本",
+      "placePref": "富山県",
+      "placeCity": null,
+      "latitude": 36.6468015,
+      "longitude": 137.2183531
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260408060134_0_VPWW53_080000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【茨城県気象警報・注意報】北部では、９日朝は霜に対する農作物の管理に注意してください。",
+      "observedAt": "2026-04-08T06:01:34.000Z",
+      "placeCountry": "日本",
+      "placePref": "茨城県",
+      "placeCity": null,
+      "latitude": 36.2869536,
+      "longitude": 140.4703384
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260408055006_0_VPWW53_110000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【埼玉県気象警報・注意報】埼玉県では、９日朝は霜に対する農作物の管理に注意してください。",
+      "observedAt": "2026-04-08T05:50:05.000Z",
+      "placeCountry": "日本",
+      "placePref": "埼玉県",
+      "placeCity": null,
+      "latitude": 35.9754168,
+      "longitude": 139.4160114
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260408054323_0_VPWW53_220000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【静岡県気象警報・注意報】中部、東部、西部では、９日朝は霜に対する農作物の管理に注意してください。",
+      "observedAt": "2026-04-08T05:43:23.000Z",
+      "placeCountry": "日本",
+      "placePref": "静岡県",
+      "placeCity": null,
+      "latitude": 34.9332488,
+      "longitude": 138.0955398
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260408054242_0_VPWW53_100000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【群馬県気象警報・注意報】群馬県では、９日朝は霜に対する農作物の管理に注意してください。",
+      "observedAt": "2026-04-08T05:42:41.000Z",
+      "placeCountry": "日本",
+      "placePref": "群馬県",
+      "placeCity": null,
+      "latitude": 36.52198,
+      "longitude": 139.033483
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260408053735_0_VPWW53_210000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【岐阜県気象警報・注意報】美濃地方では、８日まで空気の乾燥した状態が続くため、火の取り扱いに注意してください。岐阜県では、９日朝は霜に対する農作物の管理に注意してください。",
+      "observedAt": "2026-04-08T05:37:34.000Z",
+      "placeCountry": "日本",
+      "placePref": "岐阜県",
+      "placeCity": null,
+      "latitude": 35.7867449,
+      "longitude": 137.0460777
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260408053137_0_VPWW53_170000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【石川県気象警報・注意報】加賀では、９日まで空気の乾燥した状態が続くため、火の取り扱いに注意してください。能登では、９日朝は霜に対する農作物の管理に注意してください。",
+      "observedAt": "2026-04-08T05:31:37.000Z",
+      "placeCountry": "日本",
+      "placePref": "石川県",
+      "placeCity": null,
+      "latitude": 36.9888678,
+      "longitude": 136.8163563
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260408042208_0_VPWW53_150000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【新潟県気象警報・注意報】中越、上越では、ここしばらくなだれに注意してください。下越、中越、上越では、９日朝は霜に対する農作物の管理に注意してください。",
+      "observedAt": "2026-04-08T04:22:08.000Z",
+      "placeCountry": "日本",
+      "placePref": "新潟県",
+      "placeCity": null,
+      "latitude": 37.6452283,
+      "longitude": 138.7669125
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260408040725_0_VPWW53_200000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【長野県気象警報・注意報】中部では、９日まで空気の乾燥した状態が続くため、火の取り扱いに注意してください。長野県では、９日朝は霜に対する農作物の管理に注意してください。",
+      "observedAt": "2026-04-08T04:07:24.000Z",
+      "placeCountry": "日本",
+      "placePref": "長野県",
+      "placeCity": null,
+      "latitude": 36.1143945,
+      "longitude": 138.0319015
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260408040634_0_VPWW53_030000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【岩手県気象警報・注意報】内陸では、ここしばらくなだれに注意してください。岩手県では、９日朝は霜に対する農作物の管理に注意してください。",
+      "observedAt": "2026-04-08T04:06:33.000Z",
+      "placeCountry": "日本",
+      "placePref": "岩手県",
+      "placeCity": null,
+      "latitude": 39.5713763,
+      "longitude": 141.4253574
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260408030204_0_VPWW53_130000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【東京都気象警報・注意報】伊豆諸島南部では、８日夕方まで高波に注意してください。",
+      "observedAt": "2026-04-08T03:02:03.000Z",
+      "placeCountry": "日本",
+      "placePref": "東京都",
+      "placeCity": null,
+      "latitude": 35.6828387,
+      "longitude": 139.7594549
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260408023013_0_VPWW53_460040.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【奄美地方（鹿児島県）気象警報・注意報】注意報を解除します。",
+      "observedAt": "2026-04-08T02:30:12.000Z",
+      "placeCountry": "日本",
+      "placePref": "鹿児島県",
+      "placeCity": null,
+      "latitude": 31.521587,
+      "longitude": 130.5474077
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260408014709_0_VPWW53_120000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【千葉県気象警報・注意報】千葉県では、８日まで空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
+      "observedAt": "2026-04-08T01:47:09.000Z",
+      "placeCountry": "日本",
+      "placePref": "千葉県",
+      "placeCity": null,
+      "latitude": 35.549399,
+      "longitude": 140.2647303
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260408013444_0_VPWW53_350000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【山口県気象警報・注意報】山口県では、８日まで空気の乾燥した状態が続くため、火の取り扱いに、９日朝は霜に対する農作物の管理に注意してください。",
+      "observedAt": "2026-04-08T01:34:44.000Z",
+      "placeCountry": "日本",
+      "placePref": "山口県",
+      "placeCity": null,
+      "latitude": 34.2379614,
+      "longitude": 131.5873845
+    }
+  ]
+}

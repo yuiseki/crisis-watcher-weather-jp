@@ -1,0 +1,240 @@
+{
+  "generatedAt": "2026-03-21T20:09:44.314Z",
+  "timeZone": "Asia/Tokyo",
+  "hourPath": "2026/03/22/05",
+  "source": "http://www.data.jma.go.jp/developer/xml/feed/extra.xml",
+  "totalItems": 21,
+  "items": [
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260321191626_0_VPWW53_200000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【長野県気象警報・注意報】南部では２２日まで、中部では２３日まで、空気の乾燥した状態が続くため、火の取り扱いに注意してください。北部、中部では、２３日までなだれに注意してください。",
+      "observedAt": "2026-03-21T19:16:25.000Z",
+      "placeCountry": "日本",
+      "placePref": "長野県",
+      "placeCity": null,
+      "latitude": 36.1143945,
+      "longitude": 138.0319015
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260321191413_0_VPWW53_140000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【神奈川県気象警報・注意報】神奈川県では、２２日まで空気の乾燥した状態が続くため、火の取り扱いに、２２日朝は霜に対する農作物の管理に注意してください。",
+      "observedAt": "2026-03-21T19:14:12.000Z",
+      "placeCountry": "日本",
+      "placePref": "神奈川県",
+      "placeCity": null,
+      "latitude": 35.4342935,
+      "longitude": 139.374753
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260321191210_0_VPWW53_120000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【千葉県気象警報・注意報】北東部、南部では、急な強い雨や落雷に注意してください。千葉県では、乾燥や霜に対する農作物の管理に注意してください。",
+      "observedAt": "2026-03-21T19:12:09.000Z",
+      "placeCountry": "日本",
+      "placePref": "千葉県",
+      "placeCity": null,
+      "latitude": 35.549399,
+      "longitude": 140.2647303
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260321190908_0_VPWW53_080000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【茨城県気象警報・注意報】南部では、２２日昼前まで急な強い雨や落雷に注意してください。茨城県では、２２日まで空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
+      "observedAt": "2026-03-21T19:09:07.000Z",
+      "placeCountry": "日本",
+      "placePref": "茨城県",
+      "placeCity": null,
+      "latitude": 36.2869536,
+      "longitude": 140.4703384
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260321190643_0_VPWW53_020000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【青森県気象警報・注意報】下北では２２日まで、津軽、三八上北では２３日まで、空気の乾燥した状態が続くため、火の取り扱いに注意してください。青森県では、ここしばらくなだれに注意してください。",
+      "observedAt": "2026-03-21T19:06:42.000Z",
+      "placeCountry": "日本",
+      "placePref": "青森県",
+      "placeCity": null,
+      "latitude": 40.886943,
+      "longitude": 140.590121
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260321190417_0_VPWW53_160000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【富山県気象警報・注意報】富山県では、２２日まで空気の乾燥した状態が続くため、火の取り扱いに、ここしばらくなだれに注意してください。",
+      "observedAt": "2026-03-21T19:04:16.000Z",
+      "placeCountry": "日本",
+      "placePref": "富山県",
+      "placeCity": null,
+      "latitude": 36.6468015,
+      "longitude": 137.2183531
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260321190313_0_VPWW53_250000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【滋賀県気象警報・注意報】滋賀県では、２２日まで空気の乾燥した状態が続くため、火の取り扱いに、２２日朝は霜に対する農作物の管理に注意してください。",
+      "observedAt": "2026-03-21T19:03:12.000Z",
+      "placeCountry": "日本",
+      "placePref": "滋賀県",
+      "placeCity": null,
+      "latitude": 35.247154,
+      "longitude": 136.109385
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260321190308_0_VPWW53_150000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【新潟県気象警報・注意報】下越、中越、上越では、濃霧による視程障害やなだれに注意してください。新潟県では、乾燥や霜に対する農作物の管理に注意してください。",
+      "observedAt": "2026-03-21T19:03:07.000Z",
+      "placeCountry": "日本",
+      "placePref": "新潟県",
+      "placeCity": null,
+      "latitude": 37.6452283,
+      "longitude": 138.7669125
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260321183517_0_VPWW53_350000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【山口県気象警報・注意報】山口県では、２２日昼前から２２日夜遅くまで強風に、２２日朝は霜に対する農作物の管理に注意してください。",
+      "observedAt": "2026-03-21T18:35:17.000Z",
+      "placeCountry": "日本",
+      "placePref": "山口県",
+      "placeCity": null,
+      "latitude": 34.2379614,
+      "longitude": 131.5873845
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260321182508_0_VPWW53_420000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【長崎県気象警報・注意報】南部、北部では、２２日まで空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
+      "observedAt": "2026-03-21T18:25:07.000Z",
+      "placeCountry": "日本",
+      "placePref": "長崎県",
+      "placeCity": null,
+      "latitude": 33.1154683,
+      "longitude": 129.7874339
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260321144948_0_VPWW53_150000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【新潟県気象警報・注意報】下越、中越、上越では濃霧による視程障害やなだれに、下越、佐渡では空気の乾燥した状態が続くため、火の取り扱いに、新潟県では霜に対する農作物の管理に注意してください。",
+      "observedAt": "2026-03-21T14:49:47.000Z",
+      "placeCountry": "日本",
+      "placePref": "新潟県",
+      "placeCity": null,
+      "latitude": 37.6452283,
+      "longitude": 138.7669125
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260321143135_0_VPWW53_430000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【熊本県気象警報・注意報】熊本県では、２２日まで空気の乾燥した状態が続くため、火の取り扱いに注意してください。熊本、阿蘇、球磨地方では、２２日朝は霜に対する農作物の管理に注意してください。",
+      "observedAt": "2026-03-21T14:31:34.000Z",
+      "placeCountry": "日本",
+      "placePref": "熊本県",
+      "placeCity": null,
+      "latitude": 32.6450475,
+      "longitude": 130.6341345
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260321124220_0_VPWW53_020000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【青森県気象警報・注意報】青森県では、２２日まで空気の乾燥した状態が続くため、火の取り扱いに、ここしばらくなだれに注意してください。",
+      "observedAt": "2026-03-21T12:42:19.000Z",
+      "placeCountry": "日本",
+      "placePref": "青森県",
+      "placeCity": null,
+      "latitude": 40.886943,
+      "longitude": 140.590121
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260321122017_0_VPWW53_350000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【山口県気象警報・注意報】山口県では、２２日朝は霜に対する農作物の管理に注意してください。",
+      "observedAt": "2026-03-21T12:20:16.000Z",
+      "placeCountry": "日本",
+      "placePref": "山口県",
+      "placeCity": null,
+      "latitude": 34.2379614,
+      "longitude": 131.5873845
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260321121541_0_VPWW53_370000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【香川県気象警報・注意報】香川県では、２２日朝は霜に対する農作物の管理に注意してください。",
+      "observedAt": "2026-03-21T12:15:41.000Z",
+      "placeCountry": "日本",
+      "placePref": "香川県",
+      "placeCity": null,
+      "latitude": 34.2480104,
+      "longitude": 134.0586579
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260321121149_0_VPWW53_460100.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【鹿児島県（奄美地方を除く）気象警報・注意報】注意報を解除します。",
+      "observedAt": "2026-03-21T12:11:48.000Z",
+      "placeCountry": "日本",
+      "placePref": "鹿児島県",
+      "placeCity": null,
+      "latitude": 31.521587,
+      "longitude": 130.5474077
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260321120835_0_VPWW53_060000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【山形県気象警報・注意報】村山、庄内では、２２日まで空気の乾燥した状態が続くため、火の取り扱いに注意してください。山形県では、ここしばらくなだれに、２２日朝は霜に対する農作物の管理に注意してください。",
+      "observedAt": "2026-03-21T12:08:34.000Z",
+      "placeCountry": "日本",
+      "placePref": "山形県",
+      "placeCity": null,
+      "latitude": 38.4746705,
+      "longitude": 140.083237
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260321120833_0_VPWW53_050000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【秋田県気象警報・注意報】秋田県では、２３日まで空気の乾燥した状態が続くため、火の取り扱いに、ここしばらくなだれに、２２日朝は霜に対する農作物の管理に注意してください。",
+      "observedAt": "2026-03-21T12:08:32.000Z",
+      "placeCountry": "日本",
+      "placePref": "秋田県",
+      "placeCity": null,
+      "latitude": 39.6898802,
+      "longitude": 140.342608
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260321120416_0_VPWW53_330000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【岡山県気象警報・注意報】岡山県では、２２日朝は霜に対する農作物の管理に注意してください。",
+      "observedAt": "2026-03-21T12:04:16.000Z",
+      "placeCountry": "日本",
+      "placePref": "岡山県",
+      "placeCity": null,
+      "latitude": 34.8581334,
+      "longitude": 133.7759256
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260321112238_0_VPWW53_040000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【宮城県気象警報・注意報】宮城県では、２３日まで空気の乾燥した状態が続くため、火の取り扱いに、２２日朝は霜に対する農作物の管理に注意してください。西部では、ここしばらくなだれに注意してください。",
+      "observedAt": "2026-03-21T11:22:37.000Z",
+      "placeCountry": "日本",
+      "placePref": "宮城県",
+      "placeCity": null,
+      "latitude": 38.3880155,
+      "longitude": 140.9761025
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260321111229_0_VPWW53_030000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【岩手県気象警報・注意報】内陸、沿岸南部では、２３日まで空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
+      "observedAt": "2026-03-21T11:12:28.000Z",
+      "placeCountry": "日本",
+      "placePref": "岩手県",
+      "placeCity": null,
+      "latitude": 39.5713763,
+      "longitude": 141.4253574
+    }
+  ]
+}

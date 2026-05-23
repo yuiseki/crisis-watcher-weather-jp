@@ -1,0 +1,97 @@
+{
+  "generatedAt": "2026-05-05T18:41:02.563Z",
+  "timeZone": "Asia/Tokyo",
+  "hourPath": "2026/05/06/03",
+  "source": "http://www.data.jma.go.jp/developer/xml/feed/extra.xml",
+  "totalItems": 8,
+  "items": [
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260505182427_0_VPWW53_460040.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【奄美地方（鹿児島県）気象警報・注意報】奄美地方では、６日夕方まで急な強い雨や落雷に注意してください。",
+      "observedAt": "2026-05-05T18:24:27.000Z",
+      "placeCountry": "日本",
+      "placePref": "鹿児島県",
+      "placeCity": null,
+      "latitude": 31.521587,
+      "longitude": 130.5474077
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260505145923_0_VPWW53_020000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【青森県気象警報・注意報】津軽、三八上北では、強風やなだれに注意してください。青森県では、高波と、空気の乾燥した状態が続くため火の取り扱いに注意してください。",
+      "observedAt": "2026-05-05T14:59:22.000Z",
+      "placeCountry": "日本",
+      "placePref": "青森県",
+      "placeCity": null,
+      "latitude": 40.886943,
+      "longitude": 140.590121
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260505140706_0_VPWW53_380000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【愛媛県気象警報・注意報】注意報を解除します。",
+      "observedAt": "2026-05-05T14:07:06.000Z",
+      "placeCountry": "日本",
+      "placePref": "愛媛県",
+      "placeCity": null,
+      "latitude": 33.6013646,
+      "longitude": 132.8185275
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260505120231_0_VPWW53_090000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【栃木県気象警報・注意報】注意報を解除します。",
+      "observedAt": "2026-05-05T12:02:30.000Z",
+      "placeCountry": "日本",
+      "placePref": "栃木県",
+      "placeCity": null,
+      "latitude": 36.6782167,
+      "longitude": 139.8096549
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260505112934_0_VPWW53_210000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【岐阜県気象警報・注意報】注意報を解除します。",
+      "observedAt": "2026-05-05T11:29:33.000Z",
+      "placeCountry": "日本",
+      "placePref": "岐阜県",
+      "placeCity": null,
+      "latitude": 35.7867449,
+      "longitude": 137.0460777
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260505112008_0_VPWW53_450000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【宮崎県気象警報・注意報】注意報を解除します。",
+      "observedAt": "2026-05-05T11:20:07.000Z",
+      "placeCountry": "日本",
+      "placePref": "宮崎県",
+      "placeCity": null,
+      "latitude": 32.097681,
+      "longitude": 131.294542
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260505111020_0_VPWW53_380000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【愛媛県気象警報・注意報】南予では、５日夜遅くまで強風や高波に注意してください。",
+      "observedAt": "2026-05-05T11:10:20.000Z",
+      "placeCountry": "日本",
+      "placePref": "愛媛県",
+      "placeCity": null,
+      "latitude": 33.6013646,
+      "longitude": 132.8185275
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260505095124_0_VPWW53_120000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【千葉県気象警報・注意報】注意報を解除します。",
+      "observedAt": "2026-05-05T09:51:23.000Z",
+      "placeCountry": "日本",
+      "placePref": "千葉県",
+      "placeCity": null,
+      "latitude": 35.549399,
+      "longitude": 140.2647303
+    }
+  ]
+}

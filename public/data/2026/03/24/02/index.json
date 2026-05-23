@@ -1,0 +1,240 @@
+{
+  "generatedAt": "2026-03-23T17:23:30.094Z",
+  "timeZone": "Asia/Tokyo",
+  "hourPath": "2026/03/24/02",
+  "source": "http://www.data.jma.go.jp/developer/xml/feed/extra.xml",
+  "totalItems": 21,
+  "items": [
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260323171246_0_VPWW53_400000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【福岡県気象警報・注意報】筑豊、筑後地方では、２４日朝は霜に対する農作物の管理に注意してください。",
+      "observedAt": "2026-03-23T17:12:46.000Z",
+      "placeCountry": "日本",
+      "placePref": "福岡県",
+      "placeCity": null,
+      "latitude": 33.6251241,
+      "longitude": 130.6180016
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260323141936_0_VPWW53_150000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【新潟県気象警報・注意報】下越、中越、上越では、２４日昼前まで濃霧による視程障害に、ここしばらくなだれに注意してください。下越、佐渡では、２４日朝は霜に対する農作物の管理に注意してください。",
+      "observedAt": "2026-03-23T14:19:35.000Z",
+      "placeCountry": "日本",
+      "placePref": "新潟県",
+      "placeCity": null,
+      "latitude": 37.6452283,
+      "longitude": 138.7669125
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260323124820_0_VPWW53_430000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【熊本県気象警報・注意報】熊本、天草・芦北地方では強風に、熊本県では空気の乾燥した状態が続くため、火の取り扱いに、熊本、阿蘇地方では霜に対する農作物の管理に注意してください。",
+      "observedAt": "2026-03-23T12:48:19.000Z",
+      "placeCountry": "日本",
+      "placePref": "熊本県",
+      "placeCity": null,
+      "latitude": 32.6450475,
+      "longitude": 130.6341345
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260323122336_0_VPWW53_420000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【長崎県気象警報・注意報】壱岐・対馬、五島では２４日明け方まで、北部では２４日昼前まで、強風に注意してください。南部、北部では、２４日まで空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
+      "observedAt": "2026-03-23T12:23:35.000Z",
+      "placeCountry": "日本",
+      "placePref": "長崎県",
+      "placeCity": null,
+      "latitude": 33.1154683,
+      "longitude": 129.7874339
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260323121209_0_VPWW53_090000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【栃木県気象警報・注意報】栃木県では、２４日まで空気の乾燥した状態が続くため、火の取り扱いに、２４日朝は霜に対する農作物の管理に注意してください。",
+      "observedAt": "2026-03-23T12:12:08.000Z",
+      "placeCountry": "日本",
+      "placePref": "栃木県",
+      "placeCity": null,
+      "latitude": 36.6782167,
+      "longitude": 139.8096549
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260323120744_0_VPWW53_200000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【長野県気象警報・注意報】中部、南部では、２５日まで空気の乾燥した状態が続くため、火の取り扱いに注意してください。北部、中部では、２５日までなだれに注意してください。",
+      "observedAt": "2026-03-23T12:07:43.000Z",
+      "placeCountry": "日本",
+      "placePref": "長野県",
+      "placeCity": null,
+      "latitude": 36.1143945,
+      "longitude": 138.0319015
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260323115527_0_VPWW53_150000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【新潟県気象警報・注意報】下越、中越、上越では、急な強い雨や落雷、融雪による土砂災害、なだれに注意してください。下越、佐渡では、霜に対する農作物の管理に注意してください。",
+      "observedAt": "2026-03-23T11:55:26.000Z",
+      "placeCountry": "日本",
+      "placePref": "新潟県",
+      "placeCity": null,
+      "latitude": 37.6452283,
+      "longitude": 138.7669125
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260323114940_0_VPWW53_160000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【富山県気象警報・注意報】富山県では、ここしばらくなだれに、２４日朝は霜に対する農作物の管理に注意してください。",
+      "observedAt": "2026-03-23T11:49:40.000Z",
+      "placeCountry": "日本",
+      "placePref": "富山県",
+      "placeCity": null,
+      "latitude": 36.6468015,
+      "longitude": 137.2183531
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260323114552_0_VPWW53_060000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【山形県気象警報・注意報】村山、置賜、最上では、２４日昼前まで濃霧による視程障害に、２４日朝は霜に対する農作物の管理に注意してください。山形県では、ここしばらくなだれに注意してください。",
+      "observedAt": "2026-03-23T11:45:51.000Z",
+      "placeCountry": "日本",
+      "placePref": "山形県",
+      "placeCity": null,
+      "latitude": 38.4746705,
+      "longitude": 140.083237
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260323114216_0_VPWW53_250000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【滋賀県気象警報・注意報】滋賀県では、２４日明け方まで強風に、２４日朝は霜に対する農作物の管理に注意してください。",
+      "observedAt": "2026-03-23T11:42:15.000Z",
+      "placeCountry": "日本",
+      "placePref": "滋賀県",
+      "placeCity": null,
+      "latitude": 35.247154,
+      "longitude": 136.109385
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260323112626_0_VPWW53_080000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【茨城県気象警報・注意報】注意報を解除します。",
+      "observedAt": "2026-03-23T11:26:26.000Z",
+      "placeCountry": "日本",
+      "placePref": "茨城県",
+      "placeCity": null,
+      "latitude": 36.2869536,
+      "longitude": 140.4703384
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260323112310_0_VPWW53_050000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【秋田県気象警報・注意報】秋田県では、ここしばらく乾燥やなだれに、２４日朝は霜に対する農作物の管理に注意してください。",
+      "observedAt": "2026-03-23T11:23:09.000Z",
+      "placeCountry": "日本",
+      "placePref": "秋田県",
+      "placeCity": null,
+      "latitude": 39.6898802,
+      "longitude": 140.342608
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260323104348_0_VPWW53_110000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【埼玉県気象警報・注意報】秩父地方では、２４日朝は霜に対する農作物の管理に注意してください。",
+      "observedAt": "2026-03-23T10:43:47.000Z",
+      "placeCountry": "日本",
+      "placePref": "埼玉県",
+      "placeCity": null,
+      "latitude": 35.9754168,
+      "longitude": 139.4160114
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260323104234_0_VPWW53_130000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【東京都気象警報・注意報】東京地方では、強風や高波、霜に対する農作物の管理に注意してください。小笠原諸島では、急な強い雨や落雷に注意してください。",
+      "observedAt": "2026-03-23T10:42:33.000Z",
+      "placeCountry": "日本",
+      "placePref": "東京都",
+      "placeCity": null,
+      "latitude": 35.6828387,
+      "longitude": 139.7594549
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260323091512_0_VPWW53_190000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【山梨県気象警報・注意報】山梨県では、２４日朝は霜に対する農作物の管理に注意してください。",
+      "observedAt": "2026-03-23T09:15:12.000Z",
+      "placeCountry": "日本",
+      "placePref": "山梨県",
+      "placeCity": null,
+      "latitude": 35.6399328,
+      "longitude": 138.6380495
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260323091004_0_VPWW53_140000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【神奈川県気象警報・注意報】神奈川県では、２３日夜遅くから２４日昼前まで強風に注意してください。",
+      "observedAt": "2026-03-23T09:10:03.000Z",
+      "placeCountry": "日本",
+      "placePref": "神奈川県",
+      "placeCity": null,
+      "latitude": 35.4342935,
+      "longitude": 139.374753
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260323090728_0_VPWW53_130000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【東京都気象警報・注意報】東京地方では、強風や霜に対する農作物の管理に注意してください。東京地方、伊豆諸島南部では、高波に注意してください。小笠原諸島では、急な強い雨や落雷に注意してください。",
+      "observedAt": "2026-03-23T09:07:27.000Z",
+      "placeCountry": "日本",
+      "placePref": "東京都",
+      "placeCity": null,
+      "latitude": 35.6828387,
+      "longitude": 139.7594549
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260323085323_0_VPWW53_210000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【岐阜県気象警報・注意報】岐阜県では、２４日朝は霜に対する農作物の管理に注意してください。",
+      "observedAt": "2026-03-23T08:53:23.000Z",
+      "placeCountry": "日本",
+      "placePref": "岐阜県",
+      "placeCity": null,
+      "latitude": 35.7867449,
+      "longitude": 137.0460777
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260323072917_0_VPWW53_200000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【長野県気象警報・注意報】長野県では、急な強い雨や落雷に注意してください。中部、南部では、空気の乾燥した状態が続くため、火の取り扱いに注意してください。北部、中部では、なだれに注意してください。",
+      "observedAt": "2026-03-23T07:29:16.000Z",
+      "placeCountry": "日本",
+      "placePref": "長野県",
+      "placeCity": null,
+      "latitude": 36.1143945,
+      "longitude": 138.0319015
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260323072529_0_VPWW53_140000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【神奈川県気象警報・注意報】神奈川県では、２３日夜遅くから２４日昼前まで強風に注意してください。西部では、２３日夕方まで急な強い雨や落雷に注意してください。",
+      "observedAt": "2026-03-23T07:25:28.000Z",
+      "placeCountry": "日本",
+      "placePref": "神奈川県",
+      "placeCity": null,
+      "latitude": 35.4342935,
+      "longitude": 139.374753
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260323071620_0_VPWW53_160000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【富山県気象警報・注意報】富山県では、２３日夜のはじめ頃まで急な強い雨や落雷、融雪による土砂災害に、ここしばらくなだれに、２４日朝は霜に対する農作物の管理に注意してください。",
+      "observedAt": "2026-03-23T07:16:19.000Z",
+      "placeCountry": "日本",
+      "placePref": "富山県",
+      "placeCity": null,
+      "latitude": 36.6468015,
+      "longitude": 137.2183531
+    }
+  ]
+}

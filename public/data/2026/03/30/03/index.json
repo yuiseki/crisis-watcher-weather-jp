@@ -1,0 +1,229 @@
+{
+  "generatedAt": "2026-03-29T18:16:30.569Z",
+  "timeZone": "Asia/Tokyo",
+  "hourPath": "2026/03/30/03",
+  "source": "http://www.data.jma.go.jp/developer/xml/feed/extra.xml",
+  "totalItems": 20,
+  "items": [
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260329175132_0_VPWW53_090000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【栃木県気象警報・注意報】栃木県では、３０日昼前まで濃霧による視程障害に注意してください。",
+      "observedAt": "2026-03-29T17:51:31.000Z",
+      "placeCountry": "日本",
+      "placePref": "栃木県",
+      "placeCity": null,
+      "latitude": 36.6782167,
+      "longitude": 139.8096549
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260329170555_0_VPWW53_310000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【鳥取県気象警報・注意報】中・西部では、３０日昼前まで濃霧による視程障害に注意してください。",
+      "observedAt": "2026-03-29T17:05:55.000Z",
+      "placeCountry": "日本",
+      "placePref": "鳥取県",
+      "placeCity": null,
+      "latitude": 35.3555075,
+      "longitude": 133.8678525
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260329170450_0_VPWW53_240000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【三重県気象警報・注意報】三重県では、３０日明け方まで急な強い雨や落雷に注意してください。北中部では、３０日朝まで濃霧による視程障害に注意してください。",
+      "observedAt": "2026-03-29T17:04:49.000Z",
+      "placeCountry": "日本",
+      "placePref": "三重県",
+      "placeCity": null,
+      "latitude": 34.7339685,
+      "longitude": 136.5154489
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260329164421_0_VPWW53_260000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【京都府気象警報・注意報】京都府では、急な強い雨や落雷、濃霧による視程障害に注意してください。南部では、空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
+      "observedAt": "2026-03-29T16:44:20.000Z",
+      "placeCountry": "日本",
+      "placePref": "京都府",
+      "placeCity": null,
+      "latitude": 35.242552,
+      "longitude": 135.454601
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260329163933_0_VPWW53_320000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【島根県気象警報・注意報】東部では、３０日昼前まで濃霧による視程障害に注意してください。",
+      "observedAt": "2026-03-29T16:39:33.000Z",
+      "placeCountry": "日本",
+      "placePref": "島根県",
+      "placeCity": null,
+      "latitude": 34.9418212,
+      "longitude": 132.537439
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260329145255_0_VPWW53_090000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【栃木県気象警報・注意報】栃木県では、３０日未明まで急な強い雨や落雷に、３０日昼前まで濃霧による視程障害に注意してください。",
+      "observedAt": "2026-03-29T14:52:55.000Z",
+      "placeCountry": "日本",
+      "placePref": "栃木県",
+      "placeCity": null,
+      "latitude": 36.6782167,
+      "longitude": 139.8096549
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260329144914_0_VPWW53_100000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【群馬県気象警報・注意報】群馬県では、３０日昼前まで濃霧による視程障害に注意してください。北部では、３１日までなだれに注意してください。",
+      "observedAt": "2026-03-29T14:49:13.000Z",
+      "placeCountry": "日本",
+      "placePref": "群馬県",
+      "placeCity": null,
+      "latitude": 36.52198,
+      "longitude": 139.033483
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260329144816_0_VPWW53_110000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【埼玉県気象警報・注意報】注意報を解除します。",
+      "observedAt": "2026-03-29T14:48:15.000Z",
+      "placeCountry": "日本",
+      "placePref": "埼玉県",
+      "placeCity": null,
+      "latitude": 35.9754168,
+      "longitude": 139.4160114
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260329132747_0_VPWW53_130000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【東京都気象警報・注意報】伊豆諸島北部、伊豆諸島南部では、３０日昼前まで急な強い雨や落雷に注意してください。",
+      "observedAt": "2026-03-29T13:27:47.000Z",
+      "placeCountry": "日本",
+      "placePref": "東京都",
+      "placeCity": null,
+      "latitude": 35.6828387,
+      "longitude": 139.7594549
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260329132709_0_VPWW53_250000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【滋賀県気象警報・注意報】滋賀県では、３０日明け方まで急な強い雨や落雷に注意してください。",
+      "observedAt": "2026-03-29T13:27:08.000Z",
+      "placeCountry": "日本",
+      "placePref": "滋賀県",
+      "placeCity": null,
+      "latitude": 35.247154,
+      "longitude": 136.109385
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260329131737_0_VPWW53_140000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【神奈川県気象警報・注意報】西部では、３０日昼前まで急な強い雨や落雷に注意してください。",
+      "observedAt": "2026-03-29T13:17:36.000Z",
+      "placeCountry": "日本",
+      "placePref": "神奈川県",
+      "placeCity": null,
+      "latitude": 35.4342935,
+      "longitude": 139.374753
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260329121250_0_VPWW53_200000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【長野県気象警報・注意報】中部では、３０日昼前まで濃霧による視程障害に注意してください。北部、中部では、３１日までなだれに注意してください。",
+      "observedAt": "2026-03-29T12:12:50.000Z",
+      "placeCountry": "日本",
+      "placePref": "長野県",
+      "placeCity": null,
+      "latitude": 36.1143945,
+      "longitude": 138.0319015
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260329120431_0_VPWW53_100000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【群馬県気象警報・注意報】南部では、河川の増水に注意してください。群馬県では、落雷や濃霧による視程障害に注意してください。北部では、なだれに注意してください。",
+      "observedAt": "2026-03-29T12:04:30.000Z",
+      "placeCountry": "日本",
+      "placePref": "群馬県",
+      "placeCity": null,
+      "latitude": 36.52198,
+      "longitude": 139.033483
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260329115644_0_VPWW53_250000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【滋賀県気象警報・注意報】南部では、２９日夜遅くまで低い土地の浸水に注意してください。滋賀県では、３０日明け方まで落雷に注意してください。",
+      "observedAt": "2026-03-29T11:56:44.000Z",
+      "placeCountry": "日本",
+      "placePref": "滋賀県",
+      "placeCity": null,
+      "latitude": 35.247154,
+      "longitude": 136.109385
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260329113754_0_VPWW53_260000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【京都府気象警報・注意報】京都府では、急な強い雨や落雷、濃霧による視程障害に注意してください。南部では、空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
+      "observedAt": "2026-03-29T11:37:53.000Z",
+      "placeCountry": "日本",
+      "placePref": "京都府",
+      "placeCity": null,
+      "latitude": 35.242552,
+      "longitude": 135.454601
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260329112815_0_VPWW53_030000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【岩手県気象警報・注意報】沿岸北部、沿岸南部では、３０日昼前まで濃霧による視程障害に注意してください。内陸では、ここしばらくなだれに注意してください。",
+      "observedAt": "2026-03-29T11:28:14.000Z",
+      "placeCountry": "日本",
+      "placePref": "岩手県",
+      "placeCity": null,
+      "latitude": 39.5713763,
+      "longitude": 141.4253574
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260329094815_0_VPWW53_060000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【山形県気象警報・注意報】山形県では、ここしばらくなだれに注意してください。村山、置賜、最上では、３０日朝は霜に対する農作物の管理に注意してください。",
+      "observedAt": "2026-03-29T09:48:14.000Z",
+      "placeCountry": "日本",
+      "placePref": "山形県",
+      "placeCity": null,
+      "latitude": 38.4746705,
+      "longitude": 140.083237
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260329094635_0_VPWW53_210000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【岐阜県気象警報・注意報】岐阜県では、３０日明け方まで急な強い雨や落雷に注意してください。",
+      "observedAt": "2026-03-29T09:46:34.000Z",
+      "placeCountry": "日本",
+      "placePref": "岐阜県",
+      "placeCity": null,
+      "latitude": 35.7867449,
+      "longitude": 137.0460777
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260329094340_0_VPWW53_230000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【愛知県気象警報・注意報】愛知県では、３０日昼前まで急な強い雨や落雷に注意してください。",
+      "observedAt": "2026-03-29T09:43:39.000Z",
+      "placeCountry": "日本",
+      "placePref": "愛知県",
+      "placeCity": null,
+      "latitude": 34.9991645,
+      "longitude": 137.254574
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260329091003_0_VPWW53_290000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【奈良県気象警報・注意報】奈良県では、３０日明け方まで急な強い雨や落雷に注意してください。",
+      "observedAt": "2026-03-29T09:10:02.000Z",
+      "placeCountry": "日本",
+      "placePref": "奈良県",
+      "placeCity": null,
+      "latitude": 34.2963089,
+      "longitude": 135.8816819
+    }
+  ]
+}
