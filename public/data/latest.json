@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-06-10T21:00:03.042Z",
+  "generatedAt": "2026-06-10T21:46:33.321Z",
   "timeZone": "Asia/Tokyo",
   "hourPath": "2026/06/11/06",
   "source": "http://www.data.jma.go.jp/developer/xml/feed/extra.xml",
-  "totalItems": 31,
+  "totalItems": 34,
   "items": [
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260610211208_0_VPWW53_050000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【秋田県気象警報・注意報】秋田県では、落雷や濃霧による視程障害に注意してください。",
+      "observedAt": "2026-06-10T21:12:06.000Z",
+      "placeCountry": "日本",
+      "placePref": "秋田県",
+      "placeCity": null,
+      "latitude": 39.6898802,
+      "longitude": 140.342608
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260610210718_0_VPWW53_030000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【岩手県気象警報・注意報】内陸、沿岸北部では、落雷に注意してください。岩手県では、濃霧による視程障害に注意してください。",
+      "observedAt": "2026-06-10T21:07:16.000Z",
+      "placeCountry": "日本",
+      "placePref": "岩手県",
+      "placeCity": null,
+      "latitude": 39.5713763,
+      "longitude": 141.4253574
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260610210716_0_VPWW53_020000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【青森県気象警報・注意報】青森県では、落雷に注意してください。",
+      "observedAt": "2026-06-10T21:07:15.000Z",
+      "placeCountry": "日本",
+      "placePref": "青森県",
+      "placeCity": null,
+      "latitude": 40.886943,
+      "longitude": 140.590121
+    },
     {
       "originId": "https://www.data.jma.go.jp/developer/xml/data/20260610203831_0_VPWW53_070000.xml",
       "title": "気象特別警報・警報・注意報",
