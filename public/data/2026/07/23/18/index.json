@@ -1,10 +1,43 @@
 {
-  "generatedAt": "2026-07-23T09:00:03.119Z",
+  "generatedAt": "2026-07-23T09:55:52.555Z",
   "timeZone": "Asia/Tokyo",
   "hourPath": "2026/07/23/18",
   "source": "http://www.data.jma.go.jp/developer/xml/feed/extra.xml",
   "totalItems": 48,
   "items": [
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260723094627_0_VPWW53_430000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【熊本県気象警報・注意報】注意報を解除します。",
+      "observedAt": "2026-07-23T09:46:26.000Z",
+      "placeCountry": "日本",
+      "placePref": "熊本県",
+      "placeCity": null,
+      "latitude": 32.6450475,
+      "longitude": 130.6341345
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260723094625_0_VPWW53_440000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【大分県気象警報・注意報】注意報を解除します。",
+      "observedAt": "2026-07-23T09:46:25.000Z",
+      "placeCountry": "日本",
+      "placePref": "大分県",
+      "placeCity": null,
+      "latitude": 33.1819875,
+      "longitude": 131.4270217
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260723094134_0_VPWW53_030000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【岩手県気象警報・注意報】注意報を解除します。",
+      "observedAt": "2026-07-23T09:41:33.000Z",
+      "placeCountry": "日本",
+      "placePref": "岩手県",
+      "placeCity": null,
+      "latitude": 39.5713763,
+      "longitude": 141.4253574
+    },
     {
       "originId": "https://www.data.jma.go.jp/developer/xml/data/20260723075808_0_VPWW53_460040.xml",
       "title": "気象特別警報・警報・注意報",
@@ -494,39 +527,6 @@
       "title": "気象特別警報・警報・注意報",
       "content": "【新潟県気象警報・注意報】下越では、低い土地の浸水に警戒してください。",
       "observedAt": "2026-07-23T00:16:00.000Z",
-      "placeCountry": "日本",
-      "placePref": "新潟県",
-      "placeCity": null,
-      "latitude": 37.6452283,
-      "longitude": 138.7669125
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260722224617_0_VPWW53_200000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【長野県気象警報・注意報】長野県では、落雷に注意してください。",
-      "observedAt": "2026-07-22T22:46:14.000Z",
-      "placeCountry": "日本",
-      "placePref": "長野県",
-      "placeCity": null,
-      "latitude": 36.1143945,
-      "longitude": 138.0319015
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260722221502_0_VPWW53_150000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【新潟県気象警報・注意報】〈危険警報（大雨）〉下越では、低い土地の浸水に厳重に警戒してください。",
-      "observedAt": "2026-07-22T22:15:00.000Z",
-      "placeCountry": "日本",
-      "placePref": "新潟県",
-      "placeCity": null,
-      "latitude": 37.6452283,
-      "longitude": 138.7669125
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20260722221318_0_VPWW53_150000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【新潟県気象警報・注意報】〈危険警報（大雨）〉下越では、低い土地の浸水に厳重に警戒してください。",
-      "observedAt": "2026-07-22T22:13:17.000Z",
       "placeCountry": "日本",
       "placePref": "新潟県",
       "placeCity": null,
