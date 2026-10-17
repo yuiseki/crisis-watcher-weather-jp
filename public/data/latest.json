@@ -1,10 +1,76 @@
 {
-  "generatedAt": "2026-10-17T12:51:34.715Z",
+  "generatedAt": "2026-10-17T16:15:57.295Z",
   "timeZone": "Asia/Tokyo",
-  "hourPath": "2026/10/17/21",
+  "hourPath": "2026/10/18/01",
   "source": "http://www.data.jma.go.jp/developer/xml/feed/extra.xml",
-  "totalItems": 30,
+  "totalItems": 34,
   "items": [
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20261017151202_0_VPWW53_050000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【秋田県気象警報・注意報】秋田県では、濃霧による視程障害や霜に対する農作物の管理に注意してください。",
+      "observedAt": "2026-10-17T15:12:01.000Z",
+      "placeCountry": "日本",
+      "placePref": "秋田県",
+      "placeCity": null,
+      "latitude": 39.6898802,
+      "longitude": 140.342608
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20261017135742_0_VPWW53_460040.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【奄美地方（鹿児島県）気象警報・注意報】奄美地方では、高波に注意してください。",
+      "observedAt": "2026-10-17T13:57:41.000Z",
+      "placeCountry": "日本",
+      "placePref": "鹿児島県",
+      "placeCity": null,
+      "latitude": 31.521587,
+      "longitude": 130.5474077
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20261017135739_0_VPWW53_420000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【長崎県気象警報・注意報】北部、壱岐・対馬、五島では、強風に注意してください。南部、北部では、空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
+      "observedAt": "2026-10-17T13:57:38.000Z",
+      "placeCountry": "日本",
+      "placePref": "長崎県",
+      "placeCity": null,
+      "latitude": 33.1154683,
+      "longitude": 129.7874339
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20261017135736_0_VPWW53_300000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【和歌山県気象警報・注意報】南部では、高波に注意してください。北部では、空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
+      "observedAt": "2026-10-17T13:57:35.000Z",
+      "placeCountry": "日本",
+      "placePref": "和歌山県",
+      "placeCity": null,
+      "latitude": 33.8070292,
+      "longitude": 135.5930743
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20261017135733_0_VPWW53_350000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【山口県気象警報・注意報】山口県では、強風に注意してください。",
+      "observedAt": "2026-10-17T13:57:33.000Z",
+      "placeCountry": "日本",
+      "placePref": "山口県",
+      "placeCity": null,
+      "latitude": 34.2379614,
+      "longitude": 131.5873845
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20261017135731_0_VPWW53_130000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【東京都気象警報・注意報】伊豆諸島南部では、高波に注意してください。",
+      "observedAt": "2026-10-17T13:57:30.000Z",
+      "placeCountry": "日本",
+      "placePref": "東京都",
+      "placeCity": null,
+      "latitude": 35.6828387,
+      "longitude": 139.7594549
+    },
     {
       "originId": "https://www.data.jma.go.jp/developer/xml/data/20261017123637_0_VPWW53_400000.xml",
       "title": "気象特別警報・警報・注意報",
@@ -312,28 +378,6 @@
       "placeCity": null,
       "latitude": 39.6898802,
       "longitude": 140.342608
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20261017052434_0_VPWW53_200000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【長野県気象警報・注意報】長野県では、霜に対する農作物の管理に注意してください。",
-      "observedAt": "2026-10-17T05:24:32.000Z",
-      "placeCountry": "日本",
-      "placePref": "長野県",
-      "placeCity": null,
-      "latitude": 36.1143945,
-      "longitude": 138.0319015
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20261017045931_0_VPWW53_100000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【群馬県気象警報・注意報】群馬県では、空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
-      "observedAt": "2026-10-17T04:59:30.000Z",
-      "placeCountry": "日本",
-      "placePref": "群馬県",
-      "placeCity": null,
-      "latitude": 36.52198,
-      "longitude": 139.033483
     }
   ]
 }
