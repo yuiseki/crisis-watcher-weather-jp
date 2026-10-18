@@ -1,10 +1,87 @@
 {
-  "generatedAt": "2026-10-18T20:29:09.175Z",
+  "generatedAt": "2026-10-18T22:56:13.855Z",
   "timeZone": "Asia/Tokyo",
-  "hourPath": "2026/10/19/05",
+  "hourPath": "2026/10/19/07",
   "source": "http://www.data.jma.go.jp/developer/xml/feed/extra.xml",
-  "totalItems": 84,
+  "totalItems": 82,
   "items": [
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20261018223255_0_VPWW53_240000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【三重県気象警報・注意報】三重県では、竜巻などの激しい突風や落雷に注意してください。",
+      "observedAt": "2026-10-18T22:32:54.000Z",
+      "placeCountry": "日本",
+      "placePref": "三重県",
+      "placeCity": null,
+      "latitude": 34.7339685,
+      "longitude": 136.5154489
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20261018221616_0_VPWW53_440000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【大分県気象警報・注意報】大分県では、竜巻などの激しい突風や落雷に注意してください。",
+      "observedAt": "2026-10-18T22:16:15.000Z",
+      "placeCountry": "日本",
+      "placePref": "大分県",
+      "placeCity": null,
+      "latitude": 33.1819875,
+      "longitude": 131.4270217
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20261018214658_0_VPWW53_440000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【大分県気象警報・注意報】南部では、土砂災害や低い土地の浸水に注意してください。大分県では、竜巻などの激しい突風や落雷に注意してください。",
+      "observedAt": "2026-10-18T21:46:57.000Z",
+      "placeCountry": "日本",
+      "placePref": "大分県",
+      "placeCity": null,
+      "latitude": 33.1819875,
+      "longitude": 131.4270217
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20261018214227_0_VPWW53_450000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【宮崎県気象警報・注意報】南部平野部、北部平野部では、落雷に注意してください。",
+      "observedAt": "2026-10-18T21:42:26.000Z",
+      "placeCountry": "日本",
+      "placePref": "宮崎県",
+      "placeCity": null,
+      "latitude": 32.097681,
+      "longitude": 131.294542
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20261018210829_0_VPWW53_160000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【富山県気象警報・注意報】富山県では、強風や落雷に注意してください。",
+      "observedAt": "2026-10-18T21:08:28.000Z",
+      "placeCountry": "日本",
+      "placePref": "富山県",
+      "placeCity": null,
+      "latitude": 36.6468015,
+      "longitude": 137.2183531
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20261018210800_0_VPWW53_150000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【新潟県気象警報・注意報】佐渡では、強風に注意してください。下越、佐渡では、高波や落雷に注意してください。",
+      "observedAt": "2026-10-18T21:07:58.000Z",
+      "placeCountry": "日本",
+      "placePref": "新潟県",
+      "placeCity": null,
+      "latitude": 37.6452283,
+      "longitude": 138.7669125
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20261018210550_0_VPWW53_180000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【福井県気象警報・注意報】嶺北では、強風に注意してください。福井県では、竜巻などの激しい突風や落雷に注意してください。",
+      "observedAt": "2026-10-18T21:05:49.000Z",
+      "placeCountry": "日本",
+      "placePref": "福井県",
+      "placeCity": null,
+      "latitude": 35.9263502,
+      "longitude": 136.6068127
+    },
     {
       "originId": "https://www.data.jma.go.jp/developer/xml/data/20261018195831_0_VPWW53_360000.xml",
       "title": "気象特別警報・警報・注意報",
@@ -829,105 +906,6 @@
       "placeCity": null,
       "latitude": 33.2185408,
       "longitude": 130.1296585
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20261018121236_0_VPWW53_170000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【石川県気象警報・注意報】石川県では、強風に注意してください。能登では、高波に注意してください。",
-      "observedAt": "2026-10-18T12:12:35.000Z",
-      "placeCountry": "日本",
-      "placePref": "石川県",
-      "placeCity": null,
-      "latitude": 36.9888678,
-      "longitude": 136.8163563
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20261018121111_0_VPWW53_360000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【徳島県気象警報・注意報】徳島県では、竜巻などの激しい突風や落雷に注意してください。",
-      "observedAt": "2026-10-18T12:11:10.000Z",
-      "placeCountry": "日本",
-      "placePref": "徳島県",
-      "placeCity": null,
-      "latitude": 33.9196418,
-      "longitude": 134.2509634
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20261018121110_0_VPWW53_390000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【高知県気象警報・注意報】高知県では、竜巻などの激しい突風や落雷に注意してください。",
-      "observedAt": "2026-10-18T12:11:09.000Z",
-      "placeCountry": "日本",
-      "placePref": "高知県",
-      "placeCity": null,
-      "latitude": 33.6569018,
-      "longitude": 133.5606241
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20261018121108_0_VPWW53_380000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【愛媛県気象警報・注意報】愛媛県では、竜巻などの激しい突風や落雷に注意してください。",
-      "observedAt": "2026-10-18T12:11:08.000Z",
-      "placeCountry": "日本",
-      "placePref": "愛媛県",
-      "placeCity": null,
-      "latitude": 33.6013646,
-      "longitude": 132.8185275
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20261018120819_0_VPWW53_050000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【秋田県気象警報・注意報】沿岸では、強風に注意してください。秋田県では、高波や落雷に注意してください。",
-      "observedAt": "2026-10-18T12:08:17.000Z",
-      "placeCountry": "日本",
-      "placePref": "秋田県",
-      "placeCity": null,
-      "latitude": 39.6898802,
-      "longitude": 140.342608
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20261018115311_0_VPWW53_320000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【島根県気象警報・注意報】隠岐では、強風や高波、竜巻などの激しい突風、落雷に注意してください。",
-      "observedAt": "2026-10-18T11:53:10.000Z",
-      "placeCountry": "日本",
-      "placePref": "島根県",
-      "placeCity": null,
-      "latitude": 34.9418212,
-      "longitude": 132.537439
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20261018113856_0_VPWW53_280000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【兵庫県気象警報・注意報】兵庫県では、強風に注意してください。南部では、高波に注意してください。",
-      "observedAt": "2026-10-18T11:38:54.000Z",
-      "placeCountry": "日本",
-      "placePref": "兵庫県",
-      "placeCity": null,
-      "latitude": 34.914934,
-      "longitude": 134.860666
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20261018113840_0_VPWW53_270000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【大阪府気象警報・注意報】注意報を解除します。",
-      "observedAt": "2026-10-18T11:38:39.000Z",
-      "placeCountry": "日本",
-      "placePref": "大阪府",
-      "placeCity": null,
-      "latitude": 34.6198813,
-      "longitude": 135.490357
-    },
-    {
-      "originId": "https://www.data.jma.go.jp/developer/xml/data/20261018112401_0_VPWW53_300000.xml",
-      "title": "気象特別警報・警報・注意報",
-      "content": "【和歌山県気象警報・注意報】注意報を解除します。",
-      "observedAt": "2026-10-18T11:23:59.000Z",
-      "placeCountry": "日本",
-      "placePref": "和歌山県",
-      "placeCity": null,
-      "latitude": 33.8070292,
-      "longitude": 135.5930743
     }
   ]
 }
