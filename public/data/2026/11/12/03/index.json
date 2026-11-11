@@ -1,0 +1,207 @@
+{
+  "generatedAt": "2026-11-11T18:30:28.826Z",
+  "timeZone": "Asia/Tokyo",
+  "hourPath": "2026/11/12/03",
+  "source": "http://www.data.jma.go.jp/developer/xml/feed/extra.xml",
+  "totalItems": 18,
+  "items": [
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20261111180310_0_VPWW53_060000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【山形県気象警報・注意報】村山、置賜、最上では、濃霧による視程障害や霜に対する農作物の管理に注意してください。",
+      "observedAt": "2026-11-11T18:03:09.000Z",
+      "placeCountry": "日本",
+      "placePref": "山形県",
+      "placeCity": null,
+      "latitude": 38.4746705,
+      "longitude": 140.083237
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20261111165739_0_VPWW53_450000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【宮崎県気象警報・注意報】南部山沿いでは、濃霧による視程障害に注意してください。北部山沿いでは、霜に対する農作物の管理に注意してください。",
+      "observedAt": "2026-11-11T16:57:38.000Z",
+      "placeCountry": "日本",
+      "placePref": "宮崎県",
+      "placeCity": null,
+      "latitude": 32.097681,
+      "longitude": 131.294542
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20261111165738_0_VPWW53_460100.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【鹿児島県（奄美地方を除く）気象警報・注意報】薩摩地方では、濃霧による視程障害や霜に対する農作物の管理に注意してください。",
+      "observedAt": "2026-11-11T16:57:36.000Z",
+      "placeCountry": "日本",
+      "placePref": "鹿児島県",
+      "placeCity": null,
+      "latitude": 31.521587,
+      "longitude": 130.5474077
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20261111161120_0_VPWW53_050000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【秋田県気象警報・注意報】秋田県では、濃霧による視程障害に注意してください。",
+      "observedAt": "2026-11-11T16:11:19.000Z",
+      "placeCountry": "日本",
+      "placePref": "秋田県",
+      "placeCity": null,
+      "latitude": 39.6898802,
+      "longitude": 140.342608
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20261111154554_0_VPWW53_200000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【長野県気象警報・注意報】北部、南部では、濃霧による視程障害に注意してください。",
+      "observedAt": "2026-11-11T15:45:52.000Z",
+      "placeCountry": "日本",
+      "placePref": "長野県",
+      "placeCity": null,
+      "latitude": 36.1143945,
+      "longitude": 138.0319015
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20261111135735_0_VPWW53_460040.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【奄美地方（鹿児島県）気象警報・注意報】奄美地方では、高波に注意してください。",
+      "observedAt": "2026-11-11T13:57:35.000Z",
+      "placeCountry": "日本",
+      "placePref": "鹿児島県",
+      "placeCity": null,
+      "latitude": 31.521587,
+      "longitude": 130.5474077
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20261111135726_0_VPWW53_130000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【東京都気象警報・注意報】小笠原諸島では、高波に注意してください。",
+      "observedAt": "2026-11-11T13:57:25.000Z",
+      "placeCountry": "日本",
+      "placePref": "東京都",
+      "placeCity": null,
+      "latitude": 35.6828387,
+      "longitude": 139.7594549
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20261111130639_0_VPWW53_130000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【東京都気象警報・注意報】小笠原諸島では、高波に注意してください。",
+      "observedAt": "2026-11-11T13:06:38.000Z",
+      "placeCountry": "日本",
+      "placePref": "東京都",
+      "placeCity": null,
+      "latitude": 35.6828387,
+      "longitude": 139.7594549
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20261111122557_0_VPWW53_460040.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【奄美地方（鹿児島県）気象警報・注意報】奄美地方では、高波に注意してください。",
+      "observedAt": "2026-11-11T12:25:56.000Z",
+      "placeCountry": "日本",
+      "placePref": "鹿児島県",
+      "placeCity": null,
+      "latitude": 31.521587,
+      "longitude": 130.5474077
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20261111122233_0_VPWW53_460100.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【鹿児島県（奄美地方を除く）気象警報・注意報】薩摩地方では、霜に対する農作物の管理に注意してください。",
+      "observedAt": "2026-11-11T12:22:32.000Z",
+      "placeCountry": "日本",
+      "placePref": "鹿児島県",
+      "placeCity": null,
+      "latitude": 31.521587,
+      "longitude": 130.5474077
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20261111110923_0_VPWW53_330000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【岡山県気象警報・注意報】岡山県では、濃霧による視程障害に注意してください。",
+      "observedAt": "2026-11-11T11:09:21.000Z",
+      "placeCountry": "日本",
+      "placePref": "岡山県",
+      "placeCity": null,
+      "latitude": 34.8581334,
+      "longitude": 133.7759256
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20261111110922_0_VPWW53_340000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【広島県気象警報・注意報】北部では、濃霧による視程障害に注意してください。南部では、空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
+      "observedAt": "2026-11-11T11:09:20.000Z",
+      "placeCountry": "日本",
+      "placePref": "広島県",
+      "placeCity": null,
+      "latitude": 34.5666725,
+      "longitude": 132.753565
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20261111110712_0_VPWW53_440000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【大分県気象警報・注意報】大分県では、霜に対する農作物の管理に注意してください。",
+      "observedAt": "2026-11-11T11:07:10.000Z",
+      "placeCountry": "日本",
+      "placePref": "大分県",
+      "placeCity": null,
+      "latitude": 33.1819875,
+      "longitude": 131.4270217
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20261111110656_0_VPWW53_430000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【熊本県気象警報・注意報】球磨地方では、濃霧による視程障害に注意してください。熊本、阿蘇、球磨地方では、霜に対する農作物の管理に注意してください。",
+      "observedAt": "2026-11-11T11:06:55.000Z",
+      "placeCountry": "日本",
+      "placePref": "熊本県",
+      "placeCity": null,
+      "latitude": 32.6450475,
+      "longitude": 130.6341345
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20261111105233_0_VPWW53_390000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【高知県気象警報・注意報】注意報を解除します。",
+      "observedAt": "2026-11-11T10:52:32.000Z",
+      "placeCountry": "日本",
+      "placePref": "高知県",
+      "placeCity": null,
+      "latitude": 33.6569018,
+      "longitude": 133.5606241
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20261111091352_0_VPWW53_240000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【三重県気象警報・注意報】注意報を解除します。",
+      "observedAt": "2026-11-11T09:13:50.000Z",
+      "placeCountry": "日本",
+      "placePref": "三重県",
+      "placeCity": null,
+      "latitude": 34.7339685,
+      "longitude": 136.5154489
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20261111091322_0_VPWW53_210000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【岐阜県気象警報・注意報】注意報を解除します。",
+      "observedAt": "2026-11-11T09:13:20.000Z",
+      "placeCountry": "日本",
+      "placePref": "岐阜県",
+      "placeCity": null,
+      "latitude": 35.7867449,
+      "longitude": 137.0460777
+    },
+    {
+      "originId": "https://www.data.jma.go.jp/developer/xml/data/20261111091237_0_VPWW53_230000.xml",
+      "title": "気象特別警報・警報・注意報",
+      "content": "【愛知県気象警報・注意報】注意報を解除します。",
+      "observedAt": "2026-11-11T09:12:36.000Z",
+      "placeCountry": "日本",
+      "placePref": "愛知県",
+      "placeCity": null,
+      "latitude": 34.9991645,
+      "longitude": 137.254574
+    }
+  ]
+}
